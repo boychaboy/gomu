@@ -4,6 +4,7 @@ __gitignore__/
 transformers/
 pytorch-lightning/huggingface-models/
 glue_data/
+runs/
 
 ### Linux ###
 *~
