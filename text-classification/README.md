@@ -153,6 +153,7 @@ This command is the same and will work for:
 
 Note that this library is in alpha release so your feedback is more than welcome if you encounter any problem using it.
 
+```python
 Parameters:
         output_dir (:obj:`str`):
             The output directory where the model predictions and checkpoints will be written.
@@ -368,3 +369,4 @@ Parameters:
             the `example scripts <https://github.com/huggingface/transformers/tree/master/examples>`__ for more
             details.
     """
+```
