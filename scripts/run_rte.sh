@@ -10,5 +10,4 @@ CUDA_VISIBLE_DEVICE=$2 python text-classification/run_glue.py \
   --per_device_train_batch_size 64 \
   --learning_rate 2e-5 \
   --num_train_epochs 5 \
-  --push_to_hub \
   --output_dir runs/$OUTPUT_DIR/
