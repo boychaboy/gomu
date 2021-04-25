@@ -2,7 +2,7 @@ __gitignore__/
 *.bin
 *.tsv
 transformers/
-pytorch-lightning/huggingface-models/
+huggingface-models/
 glue_data/
 runs/
 
