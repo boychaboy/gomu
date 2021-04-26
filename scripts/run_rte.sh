@@ -2,7 +2,7 @@ OUTPUT_DIR=$1
 export TASK_NAME=rte
 
 CUDA_VISIBLE_DEVICE=$2 python text-classification/run_glue.py \
-  --model_name_or_path roberta-large \
+  --model_name_or_path albert-xxlarge-v2 \
   --task_name $TASK_NAME \
   --do_train \
   --do_eval \
