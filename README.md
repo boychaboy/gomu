@@ -1,4 +1,4 @@
-# 🍇gomu 
+# 🍇 GOMU
 
 ## Committing rules
 
