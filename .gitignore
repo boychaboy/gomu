@@ -1,6 +1,7 @@
 __gitignore__/
 *.bin
 *.tsv
+*.txt
 transformers/
 huggingface-models/
 glue_data/
