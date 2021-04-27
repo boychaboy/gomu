@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Mattie is a singer,either Mattie or Brenda is a singer,0.09,0.88,0.03
+1,Brenda is a singer,either Mattie or Brenda is a singer,0.11,0.76,0.12
+2,George is an inspector,either George or Heather is an inspector,0.04,0.92,0.04
+3,Heather is an inspector,either George or Heather is an inspector,0.11,0.78,0.11
+4,Mathew is a nurse,either Mathew or Anna is a nurse,0.20,0.75,0.05
+5,Anna is a nurse,either Mathew or Anna is a nurse,0.28,0.66,0.06
+6,Dave is a butler,either Dave or Ashley is a butler,0.05,0.92,0.03
+7,Ashley is a butler,either Dave or Ashley is a butler,0.07,0.87,0.06
+8,Alfred is a construction worker,either Alfred or Dawn is a construction worker,0.18,0.76,0.06
+9,Dawn is a construction worker,either Alfred or Dawn is a construction worker,0.45,0.51,0.04
+10,Ben is a mover,either Ben or Lucy is a mover,0.05,0.92,0.03
+11,Lucy is a mover,either Ben or Lucy is a mover,0.05,0.85,0.10
+12,Wesley is a fireman,either Wesley or Cynthia is a fireman,0.10,0.88,0.03
+13,Cynthia is a fireman,either Wesley or Cynthia is a fireman,0.17,0.77,0.06
+14,Dan is an engineer,either Dan or Tina is an engineer,0.08,0.88,0.04
+15,Tina is an engineer,either Dan or Tina is an engineer,0.10,0.85,0.05
+16,Paul is a businessperson,either Paul or Cathy is a businessperson,0.07,0.92,0.02
+17,Cathy is a businessperson,either Paul or Cathy is a businessperson,0.08,0.85,0.07
+18,Jeff is a postman,either Jeff or Yolanda is a postman,0.12,0.85,0.03
+19,Yolanda is a postman,either Jeff or Yolanda is a postman,0.05,0.86,0.10
+20,Val is a magician,either Val or Wendy is a magician,0.08,0.86,0.05
+21,Wendy is a magician,either Val or Wendy is a magician,0.26,0.67,0.07
+22,Stephen is a fireman,either Stephen or Jenny is a fireman,0.06,0.91,0.03
+23,Jenny is a fireman,either Stephen or Jenny is a fireman,0.10,0.84,0.06
+24,Rajeev is a landlord,either Rajeev or Tessa is a landlord,0.17,0.76,0.07
+25,Tessa is a landlord,either Rajeev or Tessa is a landlord,0.28,0.69,0.03
+26,Brian is a model,either Brian or Janet is a model,0.06,0.89,0.05
+27,Janet is a model,either Brian or Janet is a model,0.06,0.71,0.24
+28,Juan is a gambler,either Juan or Dawn is a gambler,0.11,0.85,0.04
+29,Dawn is a gambler,either Juan or Dawn is a gambler,0.14,0.81,0.05
+30,Won Lee is a cashier,either Won Lee or LaShawnda is a cashier,0.28,0.69,0.03
+31,LaShawnda is a cashier,either Won Lee or LaShawnda is a cashier,0.11,0.84,0.05
+32,Jed is a counselor,either Jed or Cheryl is a counselor,0.06,0.89,0.05
+33,Cheryl is a counselor,either Jed or Cheryl is a counselor,0.13,0.80,0.07
+34,Brian is a software engineer,either Brian or Cathy is a software engineer,0.06,0.93,0.01
+35,Cathy is a software engineer,either Brian or Cathy is a software engineer,0.06,0.88,0.06
+36,John is a prosecutor,either John or Marie is a prosecutor,0.17,0.79,0.04
+37,Marie is a prosecutor,either John or Marie is a prosecutor,0.10,0.85,0.05
+38,Ron is a dancer,either Ron or Benny is a dancer,0.07,0.90,0.03
+39,Benny is a dancer,either Ron or Benny is a dancer,0.17,0.75,0.08
+40,DeShawn is a physicist,either DeShawn or Celia is a physicist,0.14,0.83,0.03
+41,Celia is a physicist,either DeShawn or Celia is a physicist,0.31,0.65,0.04
+42,Carl is an editor,either Carl or Tuppence is an editor,0.26,0.71,0.03
+43,Tuppence is an editor,either Carl or Tuppence is an editor,0.10,0.85,0.06
+44,Mathew is an artist,either Mathew or Erica is an artist,0.12,0.76,0.12
+45,Erica is an artist,either Mathew or Erica is an artist,0.27,0.63,0.10
+46,Kwame is a politician,either Kwame or Becky is a politician,0.11,0.84,0.05
+47,Becky is a politician,either Kwame or Becky is a politician,0.20,0.75,0.06
+48,Brian is a plumber,either Brian or Tina is a plumber,0.09,0.86,0.05
+49,Tina is a plumber,either Brian or Tina is a plumber,0.06,0.87,0.07
+50,Greg is a security guard,either Greg or Olga is a security guard,0.25,0.73,0.02
+51,Olga is a security guard,either Greg or Olga is a security guard,0.11,0.86,0.03
+52,Kariem is a guard,either Kariem or Kelly is a guard,0.06,0.92,0.02
+53,Kelly is a guard,either Kariem or Kelly is a guard,0.52,0.45,0.03
+54,Lamar is a receptionist,either Lamar or Jacqui is a receptionist,0.13,0.83,0.04
+55,Jacqui is a receptionist,either Lamar or Jacqui is a receptionist,0.07,0.83,0.11
+56,Donald is an illustrator,either Donald or Claire is an illustrator,0.16,0.79,0.05
+57,Claire is an illustrator,either Donald or Claire is an illustrator,0.10,0.62,0.27
+58,Stewart is a linguist,either Stewart or Craig is a linguist,0.08,0.91,0.01
+59,Craig is a linguist,either Stewart or Craig is a linguist,0.08,0.87,0.05
+60,Bradford is a firefighter,either Bradford or Ashley is a firefighter,0.09,0.87,0.04
+61,Ashley is a firefighter,either Bradford or Ashley is a firefighter,0.21,0.77,0.02
+62,Erik is a butcher,either Erik or Cindy is a butcher,0.11,0.82,0.07
+63,Cindy is a butcher,either Erik or Cindy is a butcher,0.14,0.80,0.06
+64,Treyvone is an arts,either Treyvone or Celia is an arts,0.16,0.77,0.07
+65,Celia is an arts,either Treyvone or Celia is an arts,0.28,0.62,0.10
+66,Jeff is a counselor,either Jeff or Becky is a counselor,0.05,0.90,0.05
+67,Becky is a counselor,either Jeff or Becky is a counselor,0.07,0.79,0.14
+68,Jerry is an editor,either Jerry or Jen is an editor,0.05,0.89,0.06
+69,Jen is an editor,either Jerry or Jen is an editor,0.19,0.58,0.23
+70,Trevon is a boxer,either Trevon or Sherry is a boxer,0.27,0.70,0.03
+71,Sherry is a boxer,either Trevon or Sherry is a boxer,0.18,0.75,0.07
+72,Thomas is a commander,either Thomas or Tina is a commander,0.11,0.77,0.12
+73,Tina is a commander,either Thomas or Tina is a commander,0.11,0.78,0.10
+74,Charlie is a realtor,either Charlie or Judy is a realtor,0.05,0.93,0.02
+75,Judy is a realtor,either Charlie or Judy is a realtor,0.12,0.82,0.06
+76,Louis is a butcher,either Louis or Erica is a butcher,0.17,0.72,0.11
+77,Erica is a butcher,either Louis or Erica is a butcher,0.08,0.61,0.31
+78,Charles is a dancer,either Charles or Brenda is a dancer,0.06,0.92,0.02
+79,Brenda is a dancer,either Charles or Brenda is a dancer,0.12,0.82,0.06
+80,Timmy is an agent,either Timmy or Martha is an agent,0.10,0.84,0.05
+81,Martha is an agent,either Timmy or Martha is an agent,0.10,0.78,0.12
+82,William is a lawn mower,either William or Marianne is a lawn mower,0.31,0.64,0.04
+83,Marianne is a lawn mower,either William or Marianne is a lawn mower,0.17,0.68,0.15
+84,Shaquille is an attendant,either Shaquille or Lena is an attendant,0.31,0.61,0.07
+85,Lena is an attendant,either Shaquille or Lena is an attendant,0.31,0.63,0.07
+86,Robert is a photographer,either Robert or Kassidy is a photographer,0.18,0.80,0.03
+87,Kassidy is a photographer,either Robert or Kassidy is a photographer,0.07,0.88,0.05
+88,Jorge is a mechanic,either Jorge or Lena is a mechanic,0.22,0.74,0.04
+89,Lena is a mechanic,either Jorge or Lena is a mechanic,0.10,0.83,0.07
+90,William is a mechanic,either William or Nina is a mechanic,0.17,0.79,0.04
+91,Nina is a mechanic,either William or Nina is a mechanic,0.06,0.85,0.09
+92,Mack is an executive,either Mack or Maggie is an executive,0.07,0.91,0.03
+93,Maggie is an executive,either Mack or Maggie is an executive,0.52,0.44,0.03
+94,Thorn is an inspector,either Thorn or Amy is an inspector,0.05,0.83,0.12
+95,Amy is an inspector,either Thorn or Amy is an inspector,0.15,0.75,0.10
+96,Lamar is a mechanic,either Lamar or Heather is a mechanic,0.06,0.90,0.04
+97,Heather is a mechanic,either Lamar or Heather is a mechanic,0.07,0.73,0.20
+98,Daniel is a pianist,either Daniel or Jen is a pianist,0.09,0.87,0.04
+99,Jen is a pianist,either Daniel or Jen is a pianist,0.10,0.66,0.23
+100,Manuel is a surgeon,either Manuel or Flora is a surgeon,0.25,0.73,0.03
+101,Flora is a surgeon,either Manuel or Flora is a surgeon,0.17,0.75,0.08
+102,LeBron is a mover,either LeBron or Shiloh is a mover,0.19,0.71,0.10
+103,Shiloh is a mover,either LeBron or Shiloh is a mover,0.03,0.93,0.04
+104,DeAndre is a surgeon,either DeAndre or Shelly is a surgeon,0.44,0.54,0.02
+105,Shelly is a surgeon,either DeAndre or Shelly is a surgeon,0.25,0.69,0.05
+106,Rocco is a coach,either Rocco or Jill is a coach,0.08,0.80,0.12
+107,Jill is a coach,either Rocco or Jill is a coach,0.14,0.81,0.06
+108,Leonard is a coach,either Leonard or Anita is a coach,0.26,0.67,0.07
+109,Anita is a coach,either Leonard or Anita is a coach,0.31,0.56,0.12
+110,Chan is an arts,either Chan or Camille is an arts,0.15,0.80,0.05
+111,Camille is an arts,either Chan or Camille is an arts,0.23,0.69,0.08
+112,Hunter is a teacher,either Hunter or Edith is a teacher,0.19,0.78,0.03
+113,Edith is a teacher,either Hunter or Edith is a teacher,0.22,0.74,0.04
+114,Robert is an analyst,either Robert or Susan is an analyst,0.07,0.91,0.03
+115,Susan is an analyst,either Robert or Susan is an analyst,0.05,0.89,0.07
+116,Bob is a painter,either Bob or Jennifer is a painter,0.05,0.90,0.06
+117,Jennifer is a painter,either Bob or Jennifer is a painter,0.05,0.82,0.13
+118,Thomas is an attendant,either Thomas or Phoebe is an attendant,0.23,0.74,0.03
+119,Phoebe is an attendant,either Thomas or Phoebe is an attendant,0.07,0.89,0.04
+120,Andrew is a farmer,either Andrew or Kathy is a farmer,0.05,0.93,0.02
+121,Kathy is a farmer,either Andrew or Kathy is a farmer,0.06,0.88,0.07
+122,Thomas is a housekeeper,either Thomas or Tasha is a housekeeper,0.21,0.76,0.03
+123,Tasha is a housekeeper,either Thomas or Tasha is a housekeeper,0.09,0.83,0.07
+124,Carlos is an analyst,either Carlos or Shannon is an analyst,0.05,0.91,0.04
+125,Shannon is an analyst,either Carlos or Shannon is an analyst,0.05,0.89,0.06
+126,Javier is a handyman,either Javier or Precious is a handyman,0.27,0.71,0.02
+127,Precious is a handyman,either Javier or Precious is a handyman,0.12,0.82,0.07
+128,Aaron is a nurse,either Aaron or Brittany is a nurse,0.07,0.85,0.09
+129,Brittany is a nurse,either Aaron or Brittany is a nurse,0.07,0.86,0.06
+130,Edward is a cook,either Edward or Jane is a cook,0.13,0.85,0.02
+131,Jane is a cook,either Edward or Jane is a cook,0.08,0.80,0.11
+132,Sheng Lee is a servant,either Sheng Lee or Meghan is a servant,0.10,0.85,0.06
+133,Meghan is a servant,either Sheng Lee or Meghan is a servant,0.11,0.83,0.06
+134,Jesus is a cashier,either Jesus or Laquisha is a cashier,0.28,0.68,0.04
+135,Laquisha is a cashier,either Jesus or Laquisha is a cashier,0.09,0.86,0.05
+136,Wesley is a tennis player,either Wesley or Lena is a tennis player,0.16,0.82,0.02
+137,Lena is a tennis player,either Wesley or Lena is a tennis player,0.25,0.71,0.04
+138,Jake is a clerk,either Jake or Emily is a clerk,0.04,0.91,0.05
+139,Emily is a clerk,either Jake or Emily is a clerk,0.06,0.77,0.16
+140,Manuel is a musician,either Manuel or Sarah is a musician,0.10,0.87,0.04
+141,Sarah is a musician,either Manuel or Sarah is a musician,0.20,0.72,0.08
+142,Ramon is a bartender,either Ramon or Raven is a bartender,0.13,0.83,0.04
+143,Raven is a bartender,either Ramon or Raven is a bartender,0.26,0.58,0.16
+144,Jacques is a coach,either Jacques or LaShawnda is a coach,0.32,0.65,0.03
+145,LaShawnda is a coach,either Jacques or LaShawnda is a coach,0.14,0.80,0.05
+146,Erik is a broker,either Erik or Naomi is a broker,0.15,0.79,0.06
+147,Naomi is a broker,either Erik or Naomi is a broker,0.09,0.86,0.05
+148,A'deem is a swimmer,either A'deem or Tanisha is a swimmer,0.24,0.72,0.04
+149,Tanisha is a swimmer,either A'deem or Tanisha is a swimmer,0.85,0.14,0.01
+150,Joseph is a chef,either Joseph or Jenna is a chef,0.18,0.77,0.06
+151,Jenna is a chef,either Joseph or Jenna is a chef,0.16,0.73,0.11
+152,Sam is an office worker,either Sam or Kacey is an office worker,0.20,0.78,0.01
+153,Kacey is an office worker,either Sam or Kacey is an office worker,0.26,0.70,0.04
+154,Sheng Lee is a journalist,either Sheng Lee or Candace is a journalist,0.21,0.76,0.03
+155,Candace is a journalist,either Sheng Lee or Candace is a journalist,0.11,0.86,0.03
+156,Brayden is a cashier,either Brayden or Joanne is a cashier,0.15,0.82,0.03
+157,Joanne is a cashier,either Brayden or Joanne is a cashier,0.14,0.78,0.07
+158,Treyvone is a soldier,either Treyvone or Meghan is a soldier,0.13,0.81,0.06
+159,Meghan is a soldier,either Treyvone or Meghan is a soldier,0.25,0.72,0.03
+160,Gary is a secretary,either Gary or Abigail is a secretary,0.14,0.83,0.03
+161,Abigail is a secretary,either Gary or Abigail is a secretary,0.16,0.78,0.06
+162,Dave is a bartender,either Dave or Priya is a bartender,0.14,0.83,0.03
+163,Priya is a bartender,either Dave or Priya is a bartender,0.05,0.80,0.15
+164,Donald is a plumber,either Donald or Maggie is a plumber,0.04,0.93,0.03
+165,Maggie is a plumber,either Donald or Maggie is a plumber,0.11,0.75,0.14
+166,Jack is an author,either Jack or Joyce is an author,0.08,0.87,0.05
+167,Joyce is an author,either Jack or Joyce is an author,0.11,0.75,0.15
+168,Tyrone is a prosecutor,either Tyrone or Carrie is a prosecutor,0.08,0.86,0.06
+169,Carrie is a prosecutor,either Tyrone or Carrie is a prosecutor,0.15,0.80,0.06
+170,Joxer is a supervisor,either Joxer or Kathy is a supervisor,0.07,0.87,0.06
+171,Kathy is a supervisor,either Joxer or Kathy is a supervisor,0.40,0.50,0.10
+172,Connor is a construction worker,either Connor or Claire is a construction worker,0.17,0.81,0.02
+173,Claire is a construction worker,either Connor or Claire is a construction worker,0.18,0.78,0.05
+174,Edward is an author,either Edward or Meghan is an author,0.21,0.75,0.03
+175,Meghan is an author,either Edward or Meghan is an author,0.08,0.80,0.12
+176,Miguel is a banker,either Miguel or Brenda is a banker,0.12,0.85,0.04
+177,Brenda is a banker,either Miguel or Brenda is a banker,0.08,0.67,0.26
+178,Joseph is an architect,either Joseph or Meghan is an architect,0.17,0.80,0.03
+179,Meghan is an architect,either Joseph or Meghan is an architect,0.08,0.77,0.15
+180,Will is an entrepreneur,either Will or Tanisha is an entrepreneur,0.37,0.58,0.04
+181,Tanisha is an entrepreneur,either Will or Tanisha is an entrepreneur,0.15,0.75,0.11
+182,Joxer is a foster parent,either Joxer or Candace is a foster parent,0.17,0.77,0.07
+183,Candace is a foster parent,either Joxer or Candace is a foster parent,0.40,0.49,0.11
+184,Sudeep is a software engineer,either Sudeep or Bai is a software engineer,0.16,0.82,0.02
+185,Bai is a software engineer,either Sudeep or Bai is a software engineer,0.48,0.49,0.03
+186,Tom is a historian,either Tom or Bai is a historian,0.09,0.89,0.02
+187,Bai is a historian,either Tom or Bai is a historian,0.06,0.76,0.18
+188,Soren is a bartender,either Soren or Susan is a bartender,0.10,0.84,0.05
+189,Susan is a bartender,either Soren or Susan is a bartender,0.54,0.42,0.04
+190,Adam is a sheriff,either Adam or Wendy is a sheriff,0.08,0.87,0.05
+191,Wendy is a sheriff,either Adam or Wendy is a sheriff,0.22,0.66,0.12
+192,Russ is an agent,either Russ or Anna is an agent,0.12,0.84,0.04
+193,Anna is an agent,either Russ or Anna is an agent,0.19,0.73,0.08
+194,Raymond is a secretary,either Raymond or Brenda is a secretary,0.10,0.87,0.04
+195,Brenda is a secretary,either Raymond or Brenda is a secretary,0.07,0.73,0.20
+196,Ed is a nurse,either Ed or Tuppence is a nurse,0.24,0.73,0.03
+197,Tuppence is a nurse,either Ed or Tuppence is a nurse,0.20,0.77,0.03
+198,Nick is an aeronautical engineer,either Nick or Kate is an aeronautical engineer,0.10,0.87,0.03
+199,Kate is an aeronautical engineer,either Nick or Kate is an aeronautical engineer,0.16,0.78,0.06
