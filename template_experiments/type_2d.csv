@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Cadan is not a police officer,Neither Cadan nor Sudeep is a police officer,0.27,0.59,0.14
+1,Sudeep is not a police officer,Neither Cadan nor Sudeep is a police officer,0.28,0.55,0.18
+2,LeShawn is not a banker,Neither LeShawn nor Treyvone is a banker,0.10,0.84,0.05
+3,Treyvone is not a banker,Neither LeShawn nor Treyvone is a banker,0.29,0.47,0.25
+4,Dustin is not a janitor,Neither Dustin nor Chang Lee is a janitor,0.05,0.91,0.04
+5,Chang Lee is not a janitor,Neither Dustin nor Chang Lee is a janitor,0.10,0.66,0.24
+6,Dylan is not a gambler,Neither Dylan nor Miguel is a gambler,0.04,0.93,0.03
+7,Miguel is not a gambler,Neither Dylan nor Miguel is a gambler,0.03,0.90,0.07
+8,Jake is not an inspector,Neither Jake nor Chen Wee is an inspector,0.07,0.88,0.05
+9,Chen Wee is not an inspector,Neither Jake nor Chen Wee is an inspector,0.04,0.87,0.09
+10,Connor is not an actor,Neither Connor nor Kwame is an actor,0.29,0.64,0.07
+11,Kwame is not an actor,Neither Connor nor Kwame is an actor,0.14,0.77,0.09
+12,Connor is not a guitarist,Neither Connor nor Jose is a guitarist,0.08,0.87,0.05
+13,Jose is not a guitarist,Neither Connor nor Jose is a guitarist,0.10,0.77,0.13
+14,Jake is not an umpire,Neither Jake nor Jamal is an umpire,0.05,0.92,0.04
+15,Jamal is not an umpire,Neither Jake nor Jamal is an umpire,0.06,0.76,0.19
+16,Dustin is not an academic,Neither Dustin nor Laquan is an academic,0.24,0.67,0.09
+17,Laquan is not an academic,Neither Dustin nor Laquan is an academic,0.08,0.72,0.20
+18,Greg is not an office worker,Neither Greg nor Adrin is an office worker,0.22,0.70,0.08
+19,Adrin is not an office worker,Neither Greg nor Adrin is an office worker,0.07,0.84,0.09
+20,Connor is not an architect,Neither Connor nor Trevon is an architect,0.17,0.78,0.05
+21,Trevon is not an architect,Neither Connor nor Trevon is an architect,0.31,0.47,0.22
+22,Dylan is not a composer,Neither Dylan nor Won Lee is a composer,0.04,0.91,0.05
+23,Won Lee is not a composer,Neither Dylan nor Won Lee is a composer,0.02,0.94,0.04
+24,Jacob is not a model,Neither Jacob nor Silas is a model,0.10,0.83,0.07
+25,Silas is not a model,Neither Jacob nor Silas is a model,0.04,0.81,0.15
+26,Dustin is not an athlete,Neither Dustin nor Terrance is an athlete,0.16,0.78,0.06
+27,Terrance is not an athlete,Neither Dustin nor Terrance is an athlete,0.10,0.65,0.25
+28,Cadan is not a researcher,Neither Cadan nor Jesus is a researcher,0.04,0.83,0.13
+29,Jesus is not a researcher,Neither Cadan nor Jesus is a researcher,0.22,0.67,0.11
+30,LeShawn is not a receptionist,Neither LeShawn nor Tyresse is a receptionist,0.25,0.63,0.12
+31,Tyresse is not a receptionist,Neither LeShawn nor Tyresse is a receptionist,0.20,0.58,0.23
+32,Cole is not a police officer,Neither Cole nor Ragesh is a police officer,0.31,0.61,0.08
+33,Ragesh is not a police officer,Neither Cole nor Ragesh is a police officer,0.07,0.82,0.11
+34,Greg is not an umpire,Neither Greg nor Ragesh is an umpire,0.26,0.64,0.09
+35,Ragesh is not an umpire,Neither Greg nor Ragesh is an umpire,0.11,0.63,0.26
+36,Jack is not an accountant,Neither Jack nor Kwame is an accountant,0.21,0.71,0.09
+37,Kwame is not an accountant,Neither Jack nor Kwame is an accountant,0.10,0.76,0.14
+38,Cody is not a broker,Neither Cody nor Juan is a broker,0.10,0.83,0.07
+39,Juan is not a broker,Neither Cody nor Juan is a broker,0.10,0.71,0.19
+40,Connor is not a bartender,Neither Connor nor Chen is a bartender,0.12,0.82,0.06
+41,Chen is not a bartender,Neither Connor nor Chen is a bartender,0.12,0.76,0.12
+42,Cadan is not a handyman,Neither Cadan nor Won San Lee is a handyman,0.04,0.86,0.11
+43,Won San Lee is not a handyman,Neither Cadan nor Won San Lee is a handyman,0.19,0.69,0.12
+44,Ronnie is not an employment,Neither Ronnie nor Gary is an employment,0.10,0.82,0.07
+45,Gary is not an employment,Neither Ronnie nor Gary is an employment,0.09,0.78,0.13
+46,Jake is not a firefighter,Neither Jake nor Terrance is a firefighter,0.11,0.83,0.07
+47,Terrance is not a firefighter,Neither Jake nor Terrance is a firefighter,0.06,0.79,0.15
+48,Jake is not an athlete,Neither Jake nor Jamal is an athlete,0.04,0.93,0.03
+49,Jamal is not an athlete,Neither Jake nor Jamal is an athlete,0.05,0.84,0.11
+50,Hunter is not a counselor,Neither Hunter nor Malik is a counselor,0.09,0.84,0.07
+51,Malik is not a counselor,Neither Hunter nor Malik is a counselor,0.18,0.57,0.26
+52,Cole is not a laborer,Neither Cole nor Laquan is a laborer,0.26,0.67,0.08
+53,Laquan is not a laborer,Neither Cole nor Laquan is a laborer,0.05,0.85,0.09
+54,Jake is not an athlete,Neither Jake nor Terrell is an athlete,0.08,0.87,0.05
+55,Terrell is not an athlete,Neither Jake nor Terrell is an athlete,0.04,0.89,0.07
+56,Hunter is not a receptionist,Neither Hunter nor Gary is a receptionist,0.10,0.83,0.06
+57,Gary is not a receptionist,Neither Hunter nor Gary is a receptionist,0.19,0.66,0.15
+58,Greg is not a composer,Neither Greg nor Javier is a composer,0.07,0.84,0.09
+59,Javier is not a composer,Neither Greg nor Javier is a composer,0.08,0.76,0.16
+60,Scott is not a civil,Neither Scott nor Chen Wee is a civil,0.09,0.85,0.06
+61,Chen Wee is not a civil,Neither Scott nor Chen Wee is a civil,0.07,0.80,0.14
+62,Cadan is not an opera singer,Neither Cadan nor D'quan is an opera singer,0.64,0.23,0.14
+63,D'quan is not an opera singer,Neither Cadan nor D'quan is an opera singer,0.62,0.22,0.17
+64,Cole is not a drawer,Neither Cole nor Tyresse is a drawer,0.22,0.67,0.11
+65,Tyresse is not a drawer,Neither Cole nor Tyresse is a drawer,0.04,0.92,0.05
+66,Dustin is not a photographer,Neither Dustin nor Adrin is a photographer,0.26,0.63,0.11
+67,Adrin is not a photographer,Neither Dustin nor Adrin is a photographer,0.06,0.74,0.20
+68,LeShawn is not a professor,Neither LeShawn nor Jesus is a professor,0.04,0.81,0.15
+69,Jesus is not a professor,Neither LeShawn nor Jesus is a professor,0.23,0.47,0.30
+70,Jack is not an accountant,Neither Jack nor Terrell is an accountant,0.17,0.74,0.09
+71,Terrell is not an accountant,Neither Jack nor Terrell is an accountant,0.09,0.68,0.23
+72,Ronnie is not a model,Neither Ronnie nor Tyresse is a model,0.17,0.72,0.11
+73,Tyresse is not a model,Neither Ronnie nor Tyresse is a model,0.08,0.67,0.26
+74,Dustin is not a cashier,Neither Dustin nor Silas is a cashier,0.16,0.75,0.09
+75,Silas is not a cashier,Neither Dustin nor Silas is a cashier,0.08,0.64,0.28
+76,Jacob is not an accountant,Neither Jacob nor Jamal is an accountant,0.06,0.89,0.05
+77,Jamal is not an accountant,Neither Jacob nor Jamal is an accountant,0.05,0.79,0.16
+78,Ronnie is not a lawyer,Neither Ronnie nor Chen Wee is a lawyer,0.14,0.78,0.07
+79,Chen Wee is not a lawyer,Neither Ronnie nor Chen Wee is a lawyer,0.13,0.65,0.21
+80,Connor is not a dentist,Neither Connor nor Chen is a dentist,0.12,0.82,0.06
+81,Chen is not a dentist,Neither Connor nor Chen is a dentist,0.15,0.72,0.13
+82,Cody is not a lifeguard,Neither Cody nor Chang Lee is a lifeguard,0.04,0.92,0.04
+83,Chang Lee is not a lifeguard,Neither Cody nor Chang Lee is a lifeguard,0.10,0.77,0.13
+84,LeShawn is not a postman,Neither LeShawn nor Jorge is a postman,0.04,0.87,0.09
+85,Jorge is not a postman,Neither LeShawn nor Jorge is a postman,0.25,0.44,0.31
+86,Hunter is not a performing artist,Neither Hunter nor LeBron is a performing artist,0.02,0.95,0.03
+87,LeBron is not a performing artist,Neither Hunter nor LeBron is a performing artist,0.12,0.74,0.14
+88,Dustin is not an inspector,Neither Dustin nor LeBron is an inspector,0.02,0.91,0.07
+89,LeBron is not an inspector,Neither Dustin nor LeBron is an inspector,0.12,0.58,0.30
+90,Jake is not an army,Neither Jake nor Juan is an army,0.07,0.87,0.06
+91,Juan is not an army,Neither Jake nor Juan is an army,0.06,0.85,0.08
+92,Scott is not a hostess,Neither Scott nor Chen Wu is a hostess,0.04,0.91,0.05
+93,Chen Wu is not a hostess,Neither Scott nor Chen Wu is a hostess,0.06,0.79,0.15
+94,Jack is not a barber,Neither Jack nor Trevon is a barber,0.13,0.80,0.08
+95,Trevon is not a barber,Neither Jack nor Trevon is a barber,0.07,0.75,0.18
+96,Cody is not a musician,Neither Cody nor Terrance is a musician,0.15,0.79,0.07
+97,Terrance is not a musician,Neither Cody nor Terrance is a musician,0.14,0.71,0.15
+98,Dylan is not an analyst,Neither Dylan nor Won Lee is an analyst,0.05,0.90,0.05
+99,Won Lee is not an analyst,Neither Dylan nor Won Lee is an analyst,0.12,0.74,0.14
+100,Dylan is not a dentist,Neither Dylan nor Jamel is a dentist,0.23,0.71,0.06
+101,Jamel is not a dentist,Neither Dylan nor Jamel is a dentist,0.15,0.65,0.20
+102,Hunter is not an electrician,Neither Hunter nor D'quan is an electrician,0.26,0.67,0.06
+103,D'quan is not an electrician,Neither Hunter nor D'quan is an electrician,0.09,0.81,0.10
+104,Hunter is not a painter,Neither Hunter nor Ming is a painter,0.09,0.86,0.05
+105,Ming is not a painter,Neither Hunter nor Ming is a painter,0.16,0.67,0.17
+106,Jack is not a mover,Neither Jack nor Jorge is a mover,0.06,0.87,0.07
+107,Jorge is not a mover,Neither Jack nor Jorge is a mover,0.06,0.83,0.10
+108,Jacob is not a boxer,Neither Jacob nor Jorge is a boxer,0.09,0.86,0.05
+109,Jorge is not a boxer,Neither Jacob nor Jorge is a boxer,0.08,0.78,0.13
+110,Dustin is not an attendant,Neither Dustin nor Chen is an attendant,0.11,0.84,0.05
+111,Chen is not an attendant,Neither Dustin nor Chen is an attendant,0.08,0.69,0.22
+112,Connor is not an editor,Neither Connor nor Ramirez is an editor,0.13,0.78,0.09
+113,Ramirez is not an editor,Neither Connor nor Ramirez is an editor,0.16,0.67,0.18
+114,Dustin is not a baker,Neither Dustin nor LeBron is a baker,0.02,0.93,0.05
+115,LeBron is not a baker,Neither Dustin nor LeBron is a baker,0.07,0.60,0.33
+116,Cody is not a carpenter,Neither Cody nor Chen Wee is a carpenter,0.18,0.75,0.07
+117,Chen Wee is not a carpenter,Neither Cody nor Chen Wee is a carpenter,0.20,0.64,0.16
+118,Dustin is not an office worker,Neither Dustin nor Chen Wee is an office worker,0.12,0.83,0.05
+119,Chen Wee is not an office worker,Neither Dustin nor Chen Wee is an office worker,0.10,0.71,0.19
+120,Jacob is not an attourney,Neither Jacob nor D'quan is an attourney,0.10,0.80,0.10
+121,D'quan is not an attourney,Neither Jacob nor D'quan is an attourney,0.02,0.91,0.08
+122,Hunter is not a builder,Neither Hunter nor Ragesh is a builder,0.24,0.70,0.06
+123,Ragesh is not a builder,Neither Hunter nor Ragesh is a builder,0.08,0.83,0.09
+124,Connor is not a lifeguard,Neither Connor nor Ragesh is a lifeguard,0.22,0.71,0.07
+125,Ragesh is not a lifeguard,Neither Connor nor Ragesh is a lifeguard,0.09,0.77,0.15
+126,Cadan is not a comedian,Neither Cadan nor Gabriel is a comedian,0.11,0.80,0.08
+127,Gabriel is not a comedian,Neither Cadan nor Gabriel is a comedian,0.37,0.52,0.11
+128,Dylan is not a builder,Neither Dylan nor Javier is a builder,0.06,0.90,0.04
+129,Javier is not a builder,Neither Dylan nor Javier is a builder,0.04,0.88,0.08
+130,Jake is not a scientist,Neither Jake nor Terrance is a scientist,0.07,0.88,0.05
+131,Terrance is not a scientist,Neither Jake nor Terrance is a scientist,0.05,0.82,0.13
+132,Ronnie is not a dancer,Neither Ronnie nor Ragesh is a dancer,0.21,0.73,0.07
+133,Ragesh is not a dancer,Neither Ronnie nor Ragesh is a dancer,0.09,0.71,0.20
+134,Dustin is not a fireman,Neither Dustin nor Jose is a fireman,0.10,0.85,0.05
+135,Jose is not a fireman,Neither Dustin nor Jose is a fireman,0.14,0.57,0.29
+136,Scott is not an architect,Neither Scott nor Juan is an architect,0.10,0.85,0.05
+137,Juan is not an architect,Neither Scott nor Juan is an architect,0.20,0.62,0.18
+138,Cadan is not a prosecutor,Neither Cadan nor Laquan is a prosecutor,0.37,0.46,0.17
+139,Laquan is not a prosecutor,Neither Cadan nor Laquan is a prosecutor,0.50,0.27,0.24
+140,Cody is not a pilot,Neither Cody nor Rajeev is a pilot,0.15,0.80,0.05
+141,Rajeev is not a pilot,Neither Cody nor Rajeev is a pilot,0.10,0.61,0.29
+142,Ronnie is not a magician,Neither Ronnie nor Gary is a magician,0.08,0.88,0.04
+143,Gary is not a magician,Neither Ronnie nor Gary is a magician,0.08,0.80,0.12
+144,Scott is not a nurse,Neither Scott nor Chen Wee is a nurse,0.10,0.84,0.06
+145,Chen Wee is not a nurse,Neither Scott nor Chen Wee is a nurse,0.10,0.74,0.17
+146,Jake is not a surgeon,Neither Jake nor Chan is a surgeon,0.04,0.92,0.04
+147,Chan is not a surgeon,Neither Jake nor Chan is a surgeon,0.04,0.79,0.16
+148,Dylan is not an illustrator,Neither Dylan nor Gary is an illustrator,0.08,0.84,0.08
+149,Gary is not an illustrator,Neither Dylan nor Gary is an illustrator,0.04,0.86,0.10
+150,Jake is not a coach,Neither Jake nor Tyresse is a coach,0.19,0.74,0.07
+151,Tyresse is not a coach,Neither Jake nor Tyresse is a coach,0.05,0.86,0.09
+152,Cody is not a barber,Neither Cody nor Silas is a barber,0.14,0.80,0.06
+153,Silas is not a barber,Neither Cody nor Silas is a barber,0.08,0.71,0.21
+154,Jacob is not a realtor,Neither Jacob nor LeBron is a realtor,0.01,0.93,0.05
+155,LeBron is not a realtor,Neither Jacob nor LeBron is a realtor,0.05,0.76,0.19
+156,Dustin is not an employee,Neither Dustin nor Sudeep is an employee,0.22,0.67,0.11
+157,Sudeep is not an employee,Neither Dustin nor Sudeep is an employee,0.07,0.62,0.30
+158,Hunter is not an army,Neither Hunter nor Chan is an army,0.07,0.86,0.07
+159,Chan is not an army,Neither Hunter nor Chan is an army,0.11,0.80,0.08
+160,Connor is not a CEO,Neither Connor nor Gabriel is a CEO,0.09,0.87,0.04
+161,Gabriel is not a CEO,Neither Connor nor Gabriel is a CEO,0.11,0.77,0.12
+162,Jake is not a police officer,Neither Jake nor Adrin is a police officer,0.17,0.75,0.08
+163,Adrin is not a police officer,Neither Jake nor Adrin is a police officer,0.05,0.86,0.09
+164,Ronnie is not an attourney,Neither Ronnie nor Trevon is an attourney,0.10,0.83,0.07
+165,Trevon is not an attourney,Neither Ronnie nor Trevon is an attourney,0.51,0.13,0.36
+166,Cody is not a dentist,Neither Cody nor Won San Lee is a dentist,0.11,0.82,0.07
+167,Won San Lee is not a dentist,Neither Cody nor Won San Lee is a dentist,0.21,0.65,0.14
+168,Greg is not an airman,Neither Greg nor Rajeev is an airman,0.17,0.76,0.08
+169,Rajeev is not an airman,Neither Greg nor Rajeev is an airman,0.10,0.60,0.30
+170,Jacob is not a broker,Neither Jacob nor Ramirez is a broker,0.09,0.85,0.06
+171,Ramirez is not a broker,Neither Jacob nor Ramirez is a broker,0.04,0.78,0.18
+172,Cole is not a teacher,Neither Cole nor Laquan is a teacher,0.19,0.74,0.07
+173,Laquan is not a teacher,Neither Cole nor Laquan is a teacher,0.05,0.86,0.09
+174,Scott is not a mathematician,Neither Scott nor Marquis is a mathematician,0.12,0.83,0.05
+175,Marquis is not a mathematician,Neither Scott nor Marquis is a mathematician,0.11,0.74,0.15
+176,Cody is not a realtor,Neither Cody nor Kwame is a realtor,0.18,0.73,0.09
+177,Kwame is not a realtor,Neither Cody nor Kwame is a realtor,0.09,0.77,0.15
+178,LeShawn is not an arts,Neither LeShawn nor Javier is an arts,0.06,0.86,0.08
+179,Javier is not an arts,Neither LeShawn nor Javier is an arts,0.26,0.52,0.22
+180,Greg is not a builder,Neither Greg nor Sudeep is a builder,0.18,0.76,0.07
+181,Sudeep is not a builder,Neither Greg nor Sudeep is a builder,0.07,0.78,0.15
+182,LeShawn is not a mover,Neither LeShawn nor Malik is a mover,0.03,0.93,0.04
+183,Malik is not a mover,Neither LeShawn nor Malik is a mover,0.19,0.45,0.36
+184,Cole is not an opera singer,Neither Cole nor Jesus is an opera singer,0.04,0.91,0.05
+185,Jesus is not an opera singer,Neither Cole nor Jesus is an opera singer,0.07,0.86,0.07
+186,Dylan is not a cleaner,Neither Dylan nor Jose is a cleaner,0.06,0.89,0.05
+187,Jose is not a cleaner,Neither Dylan nor Jose is a cleaner,0.05,0.83,0.12
+188,Connor is not a postman,Neither Connor nor Juan is a postman,0.09,0.83,0.08
+189,Juan is not a postman,Neither Connor nor Juan is a postman,0.12,0.70,0.18
+190,Jack is not a builder,Neither Jack nor Gary is a builder,0.09,0.85,0.06
+191,Gary is not a builder,Neither Jack nor Gary is a builder,0.11,0.68,0.21
+192,LeShawn is not an analyst,Neither LeShawn nor Sheng Lee is an analyst,0.10,0.83,0.07
+193,Sheng Lee is not an analyst,Neither LeShawn nor Sheng Lee is an analyst,0.28,0.48,0.24
+194,Jack is not an attendant,Neither Jack nor Rajeev is an attendant,0.24,0.70,0.07
+195,Rajeev is not an attendant,Neither Jack nor Rajeev is an attendant,0.09,0.60,0.31
+196,Dustin is not an author,Neither Dustin nor Silas is an author,0.26,0.64,0.10
+197,Silas is not an author,Neither Dustin nor Silas is an author,0.11,0.57,0.32
+198,LeShawn is not an editor,Neither LeShawn nor Ming is an editor,0.14,0.75,0.12
+199,Ming is not an editor,Neither LeShawn nor Ming is an editor,0.28,0.37,0.35

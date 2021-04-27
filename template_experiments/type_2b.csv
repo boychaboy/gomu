@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Amy is not an athlete,Neither Amy nor Laquisha is an athlete,0.18,0.74,0.09
+1,Laquisha is not an athlete,Neither Amy nor Laquisha is an athlete,0.08,0.75,0.17
+2,Craig is not a baker,Neither Craig nor Chen Wee is a baker,0.09,0.86,0.05
+3,Chen Wee is not a baker,Neither Craig nor Chen Wee is a baker,0.09,0.82,0.09
+4,Jake is not a tailor,Neither Jake nor Chen Wee is a tailor,0.09,0.88,0.03
+5,Chen Wee is not a tailor,Neither Jake nor Chen Wee is a tailor,0.04,0.90,0.06
+6,Greuze is not a dancer,Neither Greuze nor Chang Lee is a dancer,0.05,0.90,0.04
+7,Chang Lee is not a dancer,Neither Greuze nor Chang Lee is a dancer,0.43,0.40,0.17
+8,Inglethorp is not a medical student,Neither Inglethorp nor Laquisha is a medical student,0.19,0.65,0.16
+9,Laquisha is not a medical student,Neither Inglethorp nor Laquisha is a medical student,0.37,0.34,0.29
+10,Essex is not an office worker,Neither Essex nor Chang is an office worker,0.08,0.90,0.02
+11,Chang is not an office worker,Neither Essex nor Chang is an office worker,0.27,0.55,0.18
+12,Carly is not a counselor,Neither Carly nor Kwame is a counselor,0.15,0.79,0.07
+13,Kwame is not a counselor,Neither Carly nor Kwame is a counselor,0.04,0.88,0.07
+14,Jacob is not a director,Neither Jacob nor Jamel is a director,0.21,0.72,0.07
+15,Jamel is not a director,Neither Jacob nor Jamel is a director,0.37,0.18,0.45
+16,Brown is not a cashier,Neither Brown nor Raja is a cashier,0.19,0.74,0.07
+17,Raja is not a cashier,Neither Brown nor Raja is a cashier,0.04,0.75,0.21
+18,Cody is not a designer,Neither Cody nor Li is a designer,0.10,0.83,0.07
+19,Li is not a designer,Neither Cody nor Li is a designer,0.07,0.74,0.19
+20,Amy is not a sociologist,Neither Amy nor Chen is a sociologist,0.06,0.87,0.06
+21,Chen is not a sociologist,Neither Amy nor Chen is a sociologist,0.08,0.76,0.16
+22,Dustin is not a scientist,Neither Dustin nor Ramon is a scientist,0.17,0.77,0.06
+23,Ramon is not a scientist,Neither Dustin nor Ramon is a scientist,0.11,0.63,0.26
+24,Katie is not an executive,Neither Katie nor Javier is an executive,0.11,0.82,0.06
+25,Javier is not an executive,Neither Katie nor Javier is an executive,0.07,0.82,0.11
+26,Jake is not a producer,Neither Jake nor Carlos is a producer,0.05,0.90,0.05
+27,Carlos is not a producer,Neither Jake nor Carlos is a producer,0.03,0.84,0.13
+28,Hunter is not a gambler,Neither Hunter nor Precious is a gambler,0.20,0.73,0.06
+29,Precious is not a gambler,Neither Hunter nor Precious is a gambler,0.09,0.84,0.07
+30,Hunter is not an umpire,Neither Hunter nor Marquis is an umpire,0.22,0.69,0.08
+31,Marquis is not an umpire,Neither Hunter nor Marquis is an umpire,0.17,0.64,0.19
+32,Katherine is not an astronomer,Neither Katherine nor Trevon is an astronomer,0.17,0.75,0.08
+33,Trevon is not an astronomer,Neither Katherine nor Trevon is an astronomer,0.05,0.73,0.22
+34,Amy is not an agent,Neither Amy nor Lamar is an agent,0.09,0.80,0.10
+35,Lamar is not an agent,Neither Amy nor Lamar is an agent,0.08,0.79,0.13
+36,Jacob is not a receptionist,Neither Jacob nor Shaniqua is a receptionist,0.33,0.57,0.10
+37,Shaniqua is not a receptionist,Neither Jacob nor Shaniqua is a receptionist,0.02,0.87,0.11
+38,Dylan is not a pianist,Neither Dylan nor Chen is a pianist,0.12,0.80,0.08
+39,Chen is not a pianist,Neither Dylan nor Chen is a pianist,0.03,0.88,0.09
+40,Claire is not a police officer,Neither Claire nor Anita is a police officer,0.16,0.71,0.13
+41,Anita is not a police officer,Neither Claire nor Anita is a police officer,0.13,0.75,0.12
+42,Emily is not a tennis player,Neither Emily nor LeBron is a tennis player,0.02,0.95,0.04
+43,LeBron is not a tennis player,Neither Emily nor LeBron is a tennis player,0.08,0.75,0.17
+44,Katherine is not a coach,Neither Katherine nor Raven is a coach,0.09,0.84,0.08
+45,Raven is not a coach,Neither Katherine nor Raven is a coach,0.08,0.72,0.20
+46,Greg is not a lawyer,Neither Greg nor Ramon is a lawyer,0.19,0.73,0.08
+47,Ramon is not a lawyer,Neither Greg nor Ramon is a lawyer,0.09,0.73,0.18
+48,Jack is not a security guard,Neither Jack nor Kia is a security guard,0.17,0.75,0.07
+49,Kia is not a security guard,Neither Jack nor Kia is a security guard,0.07,0.78,0.14
+50,Jack is not an agent,Neither Jack nor Ramirez is an agent,0.08,0.85,0.08
+51,Ramirez is not an agent,Neither Jack nor Ramirez is an agent,0.11,0.64,0.25
+52,Essex is not a lawn mower,Neither Essex nor Kwame is a lawn mower,0.10,0.85,0.05
+53,Kwame is not a lawn mower,Neither Essex nor Kwame is a lawn mower,0.15,0.75,0.10
+54,Claire is not an attourney,Neither Claire nor Chen is an attourney,0.07,0.85,0.07
+55,Chen is not an attourney,Neither Claire nor Chen is an attourney,0.09,0.80,0.11
+56,Craig is not a model,Neither Craig nor Lamar is a model,0.03,0.92,0.05
+57,Lamar is not a model,Neither Craig nor Lamar is a model,0.06,0.86,0.08
+58,Cadan is not a hostess,Neither Cadan nor Sudeep is a hostess,0.20,0.60,0.20
+59,Sudeep is not a hostess,Neither Cadan nor Sudeep is a hostess,0.25,0.49,0.26
+60,Abigail is not a butler,Neither Abigail nor Sudeep is a butler,0.09,0.76,0.15
+61,Sudeep is not a butler,Neither Abigail nor Sudeep is a butler,0.13,0.70,0.17
+62,Jack is not an opera singer,Neither Jack nor Rajeev is an opera singer,0.16,0.78,0.06
+63,Rajeev is not an opera singer,Neither Jack nor Rajeev is an opera singer,0.10,0.66,0.23
+64,Dylan is not an architect,Neither Dylan nor Chan is an architect,0.08,0.88,0.04
+65,Chan is not an architect,Neither Dylan nor Chan is an architect,0.05,0.84,0.11
+66,Ronnie is not a secretary,Neither Ronnie nor Adrin is a secretary,0.23,0.66,0.11
+67,Adrin is not a secretary,Neither Ronnie nor Adrin is a secretary,0.09,0.75,0.16
+68,Heather is not a civil,Neither Heather nor Sheng Lee is a civil,0.13,0.77,0.11
+69,Sheng Lee is not a civil,Neither Heather nor Sheng Lee is a civil,0.04,0.79,0.17
+70,Katherine is not a lifeguard,Neither Katherine nor Ragesh is a lifeguard,0.24,0.66,0.10
+71,Ragesh is not a lifeguard,Neither Katherine nor Ragesh is a lifeguard,0.05,0.72,0.23
+72,Greg is not a police officer,Neither Greg nor Feng Wu is a police officer,0.12,0.83,0.05
+73,Feng Wu is not a police officer,Neither Greg nor Feng Wu is a police officer,0.19,0.64,0.18
+74,Connor is not a poet,Neither Connor nor Shaniqua is a poet,0.29,0.65,0.07
+75,Shaniqua is not a poet,Neither Connor nor Shaniqua is a poet,0.10,0.78,0.12
+76,Ronnie is not an entrepreneur,Neither Ronnie nor Chan is an entrepreneur,0.06,0.90,0.04
+77,Chan is not an entrepreneur,Neither Ronnie nor Chan is an entrepreneur,0.09,0.74,0.17
+78,Jake is not a driver,Neither Jake nor Chong Ling is a driver,0.10,0.86,0.04
+79,Chong Ling is not a driver,Neither Jake nor Chong Ling is a driver,0.05,0.88,0.07
+80,Prescott is not a football player,Neither Prescott nor Wang is a football player,0.09,0.87,0.04
+81,Wang is not a football player,Neither Prescott nor Wang is a football player,0.05,0.89,0.06
+82,Cadan is not a butler,Neither Cadan nor Chang is a butler,0.15,0.73,0.11
+83,Chang is not a butler,Neither Cadan nor Chang is a butler,0.19,0.72,0.09
+84,Katie is not a chef,Neither Katie nor Raven is a chef,0.10,0.84,0.06
+85,Raven is not a chef,Neither Katie nor Raven is a chef,0.07,0.78,0.15
+86,Cadan is not an academic,Neither Cadan nor Chen Wu is an academic,0.29,0.60,0.11
+87,Chen Wu is not an academic,Neither Cadan nor Chen Wu is an academic,0.35,0.53,0.11
+88,Brown is not a baker,Neither Brown nor Wang is a baker,0.09,0.87,0.04
+89,Wang is not a baker,Neither Brown nor Wang is a baker,0.07,0.78,0.15
+90,Prescott is not a cleaner,Neither Prescott nor Sheng Lee is a cleaner,0.12,0.83,0.05
+91,Sheng Lee is not a cleaner,Neither Prescott nor Sheng Lee is a cleaner,0.12,0.74,0.13
+92,Emily is not an author,Neither Emily nor Wright is an author,0.07,0.89,0.05
+93,Wright is not an author,Neither Emily nor Wright is an author,0.08,0.76,0.16
+94,Dylan is not a civil,Neither Dylan nor Chang Lee is a civil,0.06,0.90,0.04
+95,Chang Lee is not a civil,Neither Dylan nor Chang Lee is a civil,0.05,0.81,0.13
+96,Greuze is not a performing artist,Neither Greuze nor Carlos is a performing artist,0.05,0.89,0.06
+97,Carlos is not a performing artist,Neither Greuze nor Carlos is a performing artist,0.33,0.38,0.29
+98,Brown is not a comedian,Neither Brown nor Nina is a comedian,0.13,0.76,0.10
+99,Nina is not a comedian,Neither Brown nor Nina is a comedian,0.17,0.68,0.15
+100,Cody is not a hairdresser,Neither Cody nor Wang is a hairdresser,0.07,0.88,0.05
+101,Wang is not a hairdresser,Neither Cody nor Wang is a hairdresser,0.09,0.71,0.20
+102,Essex is not a professor,Neither Essex nor Silas is a professor,0.19,0.70,0.11
+103,Silas is not a professor,Neither Essex nor Silas is a professor,0.28,0.42,0.31
+104,Greg is not an attendant,Neither Greg nor Wong Chang is an attendant,0.08,0.85,0.07
+105,Wong Chang is not an attendant,Neither Greg nor Wong Chang is an attendant,0.10,0.74,0.15
+106,Emily is not a linguist,Neither Emily nor Wang is a linguist,0.07,0.89,0.04
+107,Wang is not a linguist,Neither Emily nor Wang is a linguist,0.06,0.82,0.13
+108,Heather is not a lawn mower,Neither Heather nor Malik is a lawn mower,0.05,0.89,0.06
+109,Malik is not a lawn mower,Neither Heather nor Malik is a lawn mower,0.06,0.54,0.40
+110,Cole is not a driver,Neither Cole nor Jose is a driver,0.07,0.89,0.04
+111,Jose is not a driver,Neither Cole nor Jose is a driver,0.07,0.84,0.09
+112,Essex is not a grocer,Neither Essex nor Lamar is a grocer,0.13,0.76,0.11
+113,Lamar is not a grocer,Neither Essex nor Lamar is a grocer,0.12,0.73,0.15
+114,Greg is not a banker,Neither Greg nor Nina is a banker,0.11,0.79,0.11
+115,Nina is not a banker,Neither Greg nor Nina is a banker,0.06,0.85,0.09
+116,Ronnie is not an electrician,Neither Ronnie nor Joo-Lin is an electrician,0.15,0.79,0.06
+117,Joo-Lin is not an electrician,Neither Ronnie nor Joo-Lin is an electrician,0.12,0.64,0.24
+118,Scott is not a banker,Neither Scott nor LeBron is a banker,0.01,0.96,0.03
+119,LeBron is not a banker,Neither Scott nor LeBron is a banker,0.10,0.71,0.18
+120,Jake is not a model,Neither Jake nor Chong Ling is a model,0.04,0.91,0.05
+121,Chong Ling is not a model,Neither Jake nor Chong Ling is a model,0.03,0.90,0.07
+122,Hunter is not a politician,Neither Hunter nor Feng Wu is a politician,0.08,0.89,0.03
+123,Feng Wu is not a politician,Neither Hunter nor Feng Wu is a politician,0.17,0.73,0.11
+124,Katie is not a butcher,Neither Katie nor Sheng Lee is a butcher,0.08,0.87,0.05
+125,Sheng Lee is not a butcher,Neither Katie nor Sheng Lee is a butcher,0.06,0.82,0.12
+126,Scott is not a secretary,Neither Scott nor Marquis is a secretary,0.18,0.71,0.12
+127,Marquis is not a secretary,Neither Scott nor Marquis is a secretary,0.12,0.64,0.24
+128,Jack is not a football player,Neither Jack nor Beyonce is a football player,0.03,0.90,0.07
+129,Beyonce is not a football player,Neither Jack nor Beyonce is a football player,0.10,0.73,0.17
+130,Jenna is not a salesperson,Neither Jenna nor Marquis is a salesperson,0.19,0.74,0.07
+131,Marquis is not a salesperson,Neither Jenna nor Marquis is a salesperson,0.07,0.78,0.15
+132,Jake is not an umpire,Neither Jake nor Carlos is an umpire,0.05,0.89,0.06
+133,Carlos is not an umpire,Neither Jake nor Carlos is an umpire,0.05,0.78,0.18
+134,Cody is not a coach,Neither Cody nor Laquisha is a coach,0.20,0.72,0.08
+135,Laquisha is not a coach,Neither Cody nor Laquisha is a coach,0.10,0.71,0.19
+136,Greg is not a plumber,Neither Greg nor Ramon is a plumber,0.16,0.78,0.06
+137,Ramon is not a plumber,Neither Greg nor Ramon is a plumber,0.09,0.74,0.16
+138,Emily is not a drawer,Neither Emily nor LeBron is a drawer,0.01,0.93,0.06
+139,LeBron is not a drawer,Neither Emily nor LeBron is a drawer,0.06,0.69,0.25
+140,Greg is not a cleric,Neither Greg nor Kia is a cleric,0.17,0.76,0.07
+141,Kia is not a cleric,Neither Greg nor Kia is a cleric,0.05,0.84,0.10
+142,Greuze is not a mechanic,Neither Greuze nor Javier is a mechanic,0.05,0.89,0.06
+143,Javier is not a mechanic,Neither Greuze nor Javier is a mechanic,0.35,0.47,0.18
+144,Greg is not a pensioner,Neither Greg nor Maya is a pensioner,0.05,0.83,0.12
+145,Maya is not a pensioner,Neither Greg nor Maya is a pensioner,0.04,0.81,0.15
+146,Katie is not a baker,Neither Katie nor Manuel is a baker,0.13,0.80,0.07
+147,Manuel is not a baker,Neither Katie nor Manuel is a baker,0.05,0.72,0.23
+148,Cole is not a pharmacist,Neither Cole nor Rajeev is a pharmacist,0.24,0.72,0.04
+149,Rajeev is not a pharmacist,Neither Cole nor Rajeev is a pharmacist,0.09,0.76,0.15
+150,Katie is not a businessperson,Neither Katie nor Beyonce is a businessperson,0.03,0.94,0.04
+151,Beyonce is not a businessperson,Neither Katie nor Beyonce is a businessperson,0.10,0.72,0.18
+152,Molly is not a businessperson,Neither Molly nor Ragesh is a businessperson,0.17,0.76,0.07
+153,Ragesh is not a businessperson,Neither Molly nor Ragesh is a businessperson,0.07,0.70,0.24
+154,Dylan is not an athlete,Neither Dylan nor Rajeev is an athlete,0.18,0.77,0.04
+155,Rajeev is not an athlete,Neither Dylan nor Rajeev is an athlete,0.07,0.72,0.21
+156,Brown is not a commander,Neither Brown nor Wang is a commander,0.11,0.84,0.05
+157,Wang is not a commander,Neither Brown nor Wang is a commander,0.06,0.82,0.11
+158,Scott is not a banker,Neither Scott nor Joo-Lin is a banker,0.14,0.80,0.06
+159,Joo-Lin is not a banker,Neither Scott nor Joo-Lin is a banker,0.12,0.70,0.18
+160,Molly is not a manager,Neither Molly nor Gabriel is a manager,0.05,0.90,0.05
+161,Gabriel is not a manager,Neither Molly nor Gabriel is a manager,0.06,0.77,0.17
+162,Cody is not a lawyer,Neither Cody nor Joo-Lin is a lawyer,0.16,0.76,0.08
+163,Joo-Lin is not a lawyer,Neither Cody nor Joo-Lin is a lawyer,0.14,0.70,0.16
+164,Cadan is not a CEO,Neither Cadan nor Ebony is a CEO,0.28,0.53,0.19
+165,Ebony is not a CEO,Neither Cadan nor Ebony is a CEO,0.38,0.44,0.17
+166,Scott is not a bartender,Neither Scott nor DeShawn is a bartender,0.22,0.71,0.07
+167,DeShawn is not a bartender,Neither Scott nor DeShawn is a bartender,0.12,0.71,0.17
+168,Dylan is not a servant,Neither Dylan nor Kia is a servant,0.17,0.75,0.08
+169,Kia is not a servant,Neither Dylan nor Kia is a servant,0.04,0.86,0.10
+170,Cadan is not a photographer,Neither Cadan nor Yang Wang is a photographer,0.05,0.87,0.08
+171,Yang Wang is not a photographer,Neither Cadan nor Yang Wang is a photographer,0.45,0.40,0.15
+172,Jake is not a hostess,Neither Jake nor Jesus is a hostess,0.03,0.88,0.09
+173,Jesus is not a hostess,Neither Jake nor Jesus is a hostess,0.03,0.86,0.11
+174,Emily is not a singer,Neither Emily nor Raven is a singer,0.12,0.81,0.07
+175,Raven is not a singer,Neither Emily nor Raven is a singer,0.10,0.69,0.22
+176,Greg is not a boxer,Neither Greg nor Silas is a boxer,0.20,0.71,0.09
+177,Silas is not a boxer,Neither Greg nor Silas is a boxer,0.08,0.75,0.17
+178,Heather is not a manager,Neither Heather nor Adrin is a manager,0.20,0.71,0.09
+179,Adrin is not a manager,Neither Heather nor Adrin is a manager,0.04,0.83,0.13
+180,Cole is not a software engineer,Neither Cole nor Ebony is a software engineer,0.18,0.72,0.10
+181,Ebony is not a software engineer,Neither Cole nor Ebony is a software engineer,0.12,0.79,0.09
+182,Greg is not a firefighter,Neither Greg nor D'quan is a firefighter,0.26,0.64,0.10
+183,D'quan is not a firefighter,Neither Greg nor D'quan is a firefighter,0.10,0.71,0.19
+184,Heather is not a tennis player,Neither Heather nor Wright is a tennis player,0.07,0.88,0.05
+185,Wright is not a tennis player,Neither Heather nor Wright is a tennis player,0.09,0.80,0.11
+186,Cole is not a painter,Neither Cole nor Tyresse is a painter,0.30,0.61,0.09
+187,Tyresse is not a painter,Neither Cole nor Tyresse is a painter,0.05,0.86,0.09
+188,Connor is not a doctor,Neither Connor nor Silas is a doctor,0.20,0.73,0.08
+189,Silas is not a doctor,Neither Connor nor Silas is a doctor,0.08,0.74,0.17
+190,Jake is not a hostess,Neither Jake nor Javier is a hostess,0.04,0.89,0.06
+191,Javier is not a hostess,Neither Jake nor Javier is a hostess,0.09,0.71,0.20
+192,Dustin is not an illustrator,Neither Dustin nor Chen Wu is an illustrator,0.06,0.90,0.04
+193,Chen Wu is not an illustrator,Neither Dustin nor Chen Wu is an illustrator,0.11,0.60,0.29
+194,Abigail is not a scientist,Neither Abigail nor Ramon is a scientist,0.12,0.78,0.10
+195,Ramon is not a scientist,Neither Abigail nor Ramon is a scientist,0.23,0.63,0.14
+196,Greg is not a singer,Neither Greg nor DeShawn is a singer,0.21,0.69,0.10
+197,DeShawn is not a singer,Neither Greg nor DeShawn is a singer,0.07,0.78,0.14
+198,Emily is not a cook,Neither Emily nor Adrin is a cook,0.19,0.73,0.08
+199,Adrin is not a cook,Neither Emily nor Adrin is a cook,0.04,0.82,0.14
