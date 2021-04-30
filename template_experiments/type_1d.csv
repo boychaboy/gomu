@@ -1,201 +1,201 @@
 ,text,hypo,entailment,neutral,contradiction
-0,Hunter is a mechanic,either Hunter or Chen Wee is a mechanic,0.07,0.90,0.03
-1,Chen Wee is a mechanic,either Hunter or Chen Wee is a mechanic,0.19,0.75,0.06
-2,Jacob is a director,either Jacob or Rajeev is a director,0.14,0.82,0.04
-3,Rajeev is a director,either Jacob or Rajeev is a director,0.11,0.81,0.08
-4,Ronnie is an inspector,either Ronnie or Adrin is an inspector,0.20,0.77,0.03
-5,Adrin is an inspector,either Ronnie or Adrin is an inspector,0.11,0.80,0.09
-6,Jake is a photographer,either Jake or Chen Wu is a photographer,0.04,0.94,0.02
-7,Chen Wu is a photographer,either Jake or Chen Wu is a photographer,0.05,0.91,0.04
-8,Cadan is a foster parent,either Cadan or Tyrone is a foster parent,0.20,0.75,0.05
-9,Tyrone is a foster parent,either Cadan or Tyrone is a foster parent,0.36,0.59,0.04
-10,Scott is a medical student,either Scott or Kwame is a medical student,0.13,0.86,0.02
-11,Kwame is a medical student,either Scott or Kwame is a medical student,0.43,0.54,0.03
-12,Cole is a comedian,either Cole or Rajeev is a comedian,0.23,0.75,0.03
-13,Rajeev is a comedian,either Cole or Rajeev is a comedian,0.14,0.81,0.05
-14,Cadan is a manager,either Cadan or Malik is a manager,0.10,0.81,0.09
-15,Malik is a manager,either Cadan or Malik is a manager,0.43,0.51,0.06
-16,Connor is an airman,either Connor or Won Lee is an airman,0.04,0.93,0.03
-17,Won Lee is an airman,either Connor or Won Lee is an airman,0.27,0.69,0.03
-18,Jacob is a theologian,either Jacob or Chen Wu is a theologian,0.07,0.88,0.05
-19,Chen Wu is a theologian,either Jacob or Chen Wu is a theologian,0.09,0.88,0.03
-20,Cole is a composer,either Cole or Ramirez is a composer,0.06,0.86,0.08
-21,Ramirez is a composer,either Cole or Ramirez is a composer,0.12,0.73,0.15
-22,Jacob is a historian,either Jacob or Won Lee is a historian,0.04,0.91,0.06
-23,Won Lee is a historian,either Jacob or Won Lee is a historian,0.05,0.85,0.09
-24,Cole is a guard,either Cole or Gary is a guard,0.12,0.85,0.03
-25,Gary is a guard,either Cole or Gary is a guard,0.07,0.85,0.07
-26,Connor is a butler,either Connor or Treyvone is a butler,0.12,0.86,0.02
-27,Treyvone is a butler,either Connor or Treyvone is a butler,0.12,0.85,0.03
-28,Cole is an academic,either Cole or Chen Wee is an academic,0.12,0.86,0.02
-29,Chen Wee is an academic,either Cole or Chen Wee is an academic,0.18,0.78,0.04
-30,Greg is a drawer,either Greg or Chen Wu is a drawer,0.04,0.93,0.03
-31,Chen Wu is a drawer,either Greg or Chen Wu is a drawer,0.10,0.84,0.07
-32,Jacob is a professor,either Jacob or Ragesh is a professor,0.13,0.83,0.04
-33,Ragesh is a professor,either Jacob or Ragesh is a professor,0.06,0.86,0.07
-34,Jack is a pharmacist,either Jack or Ramirez is a pharmacist,0.09,0.89,0.03
-35,Ramirez is a pharmacist,either Jack or Ramirez is a pharmacist,0.36,0.58,0.05
-36,Connor is a builder,either Connor or LeBron is a builder,0.02,0.93,0.04
-37,LeBron is a builder,either Connor or LeBron is a builder,0.47,0.50,0.03
-38,LeShawn is a chemist,either LeShawn or Lamar is a chemist,0.07,0.88,0.05
-39,Lamar is a chemist,either LeShawn or Lamar is a chemist,0.34,0.59,0.07
-40,Greg is an arts,either Greg or Gabriel is an arts,0.06,0.89,0.05
-41,Gabriel is an arts,either Greg or Gabriel is an arts,0.16,0.72,0.12
-42,LeShawn is a comedian,either LeShawn or Ramon is a comedian,0.12,0.83,0.05
-43,Ramon is a comedian,either LeShawn or Ramon is a comedian,0.49,0.44,0.07
-44,Hunter is a mover,either Hunter or Tyrone is a mover,0.06,0.92,0.02
-45,Tyrone is a mover,either Hunter or Tyrone is a mover,0.26,0.72,0.02
-46,Connor is a mover,either Connor or Tyresse is a mover,0.12,0.86,0.02
-47,Tyresse is a mover,either Connor or Tyresse is a mover,0.10,0.85,0.05
-48,Dylan is an electrician,either Dylan or Terrance is an electrician,0.27,0.71,0.02
-49,Terrance is an electrician,either Dylan or Terrance is an electrician,0.10,0.82,0.08
-50,LeShawn is an illustrator,either LeShawn or Sudeep is an illustrator,0.25,0.69,0.05
-51,Sudeep is an illustrator,either LeShawn or Sudeep is an illustrator,0.48,0.45,0.08
-52,Jacob is an astronomer,either Jacob or Ramirez is an astronomer,0.10,0.82,0.08
-53,Ramirez is an astronomer,either Jacob or Ramirez is an astronomer,0.09,0.81,0.10
-54,Cadan is a clerk,either Cadan or Chang Lee is a clerk,0.06,0.92,0.02
-55,Chang Lee is a clerk,either Cadan or Chang Lee is a clerk,0.33,0.64,0.03
-56,LeShawn is a construction worker,either LeShawn or Chang Lee is a construction worker,0.05,0.94,0.02
-57,Chang Lee is a construction worker,either LeShawn or Chang Lee is a construction worker,0.57,0.40,0.03
-58,Hunter is a comedian,either Hunter or Terrell is a comedian,0.15,0.82,0.03
-59,Terrell is a comedian,either Hunter or Terrell is a comedian,0.27,0.66,0.08
-60,Cole is a carpenter,either Cole or Adrin is a carpenter,0.14,0.84,0.02
-61,Adrin is a carpenter,either Cole or Adrin is a carpenter,0.08,0.90,0.02
-62,Hunter is a model,either Hunter or Laquan is a model,0.12,0.82,0.06
-63,Laquan is a model,either Hunter or Laquan is a model,0.13,0.78,0.09
-64,LeShawn is a radiologist,either LeShawn or Jamel is a radiologist,0.25,0.71,0.03
-65,Jamel is a radiologist,either LeShawn or Jamel is a radiologist,0.50,0.42,0.08
-66,Cody is a guitarist,either Cody or Sheng Lee is a guitarist,0.11,0.85,0.04
-67,Sheng Lee is a guitarist,either Cody or Sheng Lee is a guitarist,0.19,0.76,0.05
-68,Dylan is a foster parent,either Dylan or Gabriel is a foster parent,0.08,0.89,0.04
-69,Gabriel is a foster parent,either Dylan or Gabriel is a foster parent,0.04,0.82,0.14
-70,Hunter is a cashier,either Hunter or Silas is a cashier,0.15,0.81,0.04
-71,Silas is a cashier,either Hunter or Silas is a cashier,0.13,0.79,0.08
-72,Jacob is an entrepreneur,either Jacob or Chen Wu is an entrepreneur,0.07,0.88,0.05
-73,Chen Wu is an entrepreneur,either Jacob or Chen Wu is an entrepreneur,0.06,0.85,0.10
-74,Cadan is a supervisor,either Cadan or Manuel is a supervisor,0.17,0.73,0.09
-75,Manuel is a supervisor,either Cadan or Manuel is a supervisor,0.41,0.52,0.06
-76,Dylan is a guitarist,either Dylan or Terrance is a guitarist,0.21,0.75,0.04
-77,Terrance is a guitarist,either Dylan or Terrance is a guitarist,0.08,0.82,0.10
-78,Connor is a pilot,either Connor or Miguel is a pilot,0.07,0.88,0.05
-79,Miguel is a pilot,either Connor or Miguel is a pilot,0.22,0.69,0.09
-80,Hunter is a construction worker,either Hunter or Adrin is a construction worker,0.19,0.79,0.02
-81,Adrin is a construction worker,either Hunter or Adrin is a construction worker,0.32,0.65,0.03
-82,Jake is a servant,either Jake or Jose is a servant,0.09,0.84,0.07
-83,Jose is a servant,either Jake or Jose is a servant,0.05,0.80,0.15
-84,Jake is a firefighter,either Jake or Manuel is a firefighter,0.13,0.84,0.03
-85,Manuel is a firefighter,either Jake or Manuel is a firefighter,0.07,0.81,0.11
-86,Greg is a secretary,either Greg or Chang Lee is a secretary,0.04,0.93,0.03
-87,Chang Lee is a secretary,either Greg or Chang Lee is a secretary,0.10,0.85,0.05
-88,Jake is a coach,either Jake or Chen Wee is a coach,0.09,0.90,0.02
-89,Chen Wee is a coach,either Jake or Chen Wee is a coach,0.08,0.84,0.08
-90,Jake is a guitarist,either Jake or Chan is a guitarist,0.03,0.93,0.04
-91,Chan is a guitarist,either Jake or Chan is a guitarist,0.04,0.88,0.07
-92,Jacob is a pianist,either Jacob or Tyresse is a pianist,0.31,0.67,0.03
-93,Tyresse is a pianist,either Jacob or Tyresse is a pianist,0.07,0.90,0.03
-94,Hunter is a civil,either Hunter or Won Lee is a civil,0.05,0.88,0.07
-95,Won Lee is a civil,either Hunter or Won Lee is a civil,0.13,0.78,0.09
-96,Cadan is a mathematician,either Cadan or Jorge is a mathematician,0.11,0.85,0.04
-97,Jorge is a mathematician,either Cadan or Jorge is a mathematician,0.33,0.64,0.02
-98,Dustin is a chess player,either Dustin or Chang Lee is a chess player,0.06,0.92,0.03
-99,Chang Lee is a chess player,either Dustin or Chang Lee is a chess player,0.67,0.30,0.03
-100,Connor is a CEO,either Connor or Ming is a CEO,0.08,0.89,0.04
-101,Ming is a CEO,either Connor or Ming is a CEO,0.32,0.63,0.06
-102,Dylan is a clerk,either Dylan or Ming is a clerk,0.12,0.85,0.03
-103,Ming is a clerk,either Dylan or Ming is a clerk,0.20,0.68,0.12
-104,Scott is a linguist,either Scott or Ming is a linguist,0.06,0.92,0.01
-105,Ming is a linguist,either Scott or Ming is a linguist,0.11,0.73,0.16
-106,Dylan is a banker,either Dylan or Won San Lee is a banker,0.07,0.89,0.03
-107,Won San Lee is a banker,either Dylan or Won San Lee is a banker,0.19,0.75,0.06
-108,Cody is an assistant,either Cody or Adrin is an assistant,0.23,0.72,0.05
-109,Adrin is an assistant,either Cody or Adrin is an assistant,0.10,0.85,0.05
-110,Scott is a physicist,either Scott or Kwame is a physicist,0.12,0.86,0.02
-111,Kwame is a physicist,either Scott or Kwame is a physicist,0.34,0.63,0.03
-112,LeShawn is a mover,either LeShawn or Gabriel is a mover,0.03,0.95,0.02
-113,Gabriel is a mover,either LeShawn or Gabriel is a mover,0.27,0.68,0.05
-114,Dylan is a physicist,either Dylan or Treyvone is a physicist,0.19,0.79,0.01
-115,Treyvone is a physicist,either Dylan or Treyvone is a physicist,0.06,0.87,0.07
-116,Dylan is an employee,either Dylan or Treyvone is an employee,0.19,0.78,0.03
-117,Treyvone is an employee,either Dylan or Treyvone is an employee,0.09,0.85,0.07
-118,Cole is a laborer,either Cole or Ming is a laborer,0.12,0.85,0.03
-119,Ming is a laborer,either Cole or Ming is a laborer,0.11,0.82,0.07
-120,Dylan is a banker,either Dylan or Chang Lee is a banker,0.04,0.93,0.03
-121,Chang Lee is a banker,either Dylan or Chang Lee is a banker,0.19,0.76,0.06
-122,Cole is a housekeeper,either Cole or Ming is a housekeeper,0.10,0.87,0.02
-123,Ming is a housekeeper,either Cole or Ming is a housekeeper,0.10,0.83,0.07
-124,Scott is a barber,either Scott or Manuel is a barber,0.12,0.84,0.04
-125,Manuel is a barber,either Scott or Manuel is a barber,0.11,0.77,0.13
-126,Dustin is an entrepreneur,either Dustin or Gary is an entrepreneur,0.13,0.80,0.07
-127,Gary is an entrepreneur,either Dustin or Gary is an entrepreneur,0.08,0.53,0.39
-128,Dustin is an opera singer,either Dustin or Trevon is an opera singer,0.26,0.72,0.02
-129,Trevon is an opera singer,either Dustin or Trevon is an opera singer,0.37,0.52,0.11
-130,Cadan is a cashier,either Cadan or Jose is a cashier,0.09,0.86,0.06
-131,Jose is a cashier,either Cadan or Jose is a cashier,0.33,0.62,0.06
-132,Greg is a magician,either Greg or D'quan is a magician,0.28,0.71,0.02
-133,D'quan is a magician,either Greg or D'quan is a magician,0.07,0.90,0.03
-134,Dustin is a police officer,either Dustin or Trevon is a police officer,0.34,0.63,0.03
-135,Trevon is a police officer,either Dustin or Trevon is a police officer,0.37,0.53,0.10
-136,Jake is an author,either Jake or Trevon is an author,0.23,0.74,0.03
-137,Trevon is an author,either Jake or Trevon is an author,0.13,0.67,0.20
-138,Greg is a barber,either Greg or Ragesh is a barber,0.15,0.83,0.02
-139,Ragesh is a barber,either Greg or Ragesh is a barber,0.11,0.85,0.04
-140,Jack is a composer,either Jack or Gabriel is a composer,0.05,0.93,0.03
-141,Gabriel is a composer,either Jack or Gabriel is a composer,0.08,0.77,0.15
-142,Ronnie is a landlord,either Ronnie or Gabriel is a landlord,0.06,0.87,0.07
-143,Gabriel is a landlord,either Ronnie or Gabriel is a landlord,0.08,0.71,0.21
-144,LeShawn is a psychologist,either LeShawn or Jose is a psychologist,0.05,0.89,0.06
-145,Jose is a psychologist,either LeShawn or Jose is a psychologist,0.24,0.64,0.12
-146,Cadan is an agent,either Cadan or Chen Wee is an agent,0.39,0.60,0.02
-147,Chen Wee is an agent,either Cadan or Chen Wee is an agent,0.35,0.62,0.03
-148,Jacob is an attendant,either Jacob or Chen Wu is an attendant,0.06,0.89,0.05
-149,Chen Wu is an attendant,either Jacob or Chen Wu is an attendant,0.05,0.92,0.03
-150,Greg is a software engineer,either Greg or Chen Wu is a software engineer,0.07,0.92,0.01
-151,Chen Wu is a software engineer,either Greg or Chen Wu is a software engineer,0.27,0.71,0.02
-152,Connor is an assistant,either Connor or Ming is an assistant,0.11,0.85,0.04
-153,Ming is an assistant,either Connor or Ming is an assistant,0.21,0.70,0.09
-154,Cole is a hostess,either Cole or Terrance is a hostess,0.25,0.70,0.05
-155,Terrance is a hostess,either Cole or Terrance is a hostess,0.12,0.81,0.06
-156,Ronnie is an office worker,either Ronnie or Juan is an office worker,0.15,0.80,0.04
-157,Juan is an office worker,either Ronnie or Juan is an office worker,0.12,0.78,0.10
-158,Ronnie is a sheriff,either Ronnie or Chan is a sheriff,0.06,0.87,0.07
-159,Chan is a sheriff,either Ronnie or Chan is a sheriff,0.09,0.80,0.11
-160,Cadan is a cleaner,either Cadan or Won San Lee is a cleaner,0.07,0.90,0.03
-161,Won San Lee is a cleaner,either Cadan or Won San Lee is a cleaner,0.27,0.69,0.04
-162,LeShawn is a nurse,either LeShawn or Javier is a nurse,0.07,0.88,0.05
-163,Javier is a nurse,either LeShawn or Javier is a nurse,0.44,0.52,0.04
-164,Cole is a sheriff,either Cole or Ragesh is a sheriff,0.22,0.75,0.03
-165,Ragesh is a sheriff,either Cole or Ragesh is a sheriff,0.07,0.87,0.06
-166,LeShawn is a linguist,either LeShawn or Sudeep is a linguist,0.25,0.73,0.02
-167,Sudeep is a linguist,either LeShawn or Sudeep is a linguist,0.54,0.42,0.04
-168,Jack is a nurse,either Jack or Rajeev is a nurse,0.17,0.81,0.02
-169,Rajeev is a nurse,either Jack or Rajeev is a nurse,0.15,0.80,0.05
-170,Cadan is a plumber,either Cadan or Gabriel is a plumber,0.07,0.89,0.04
-171,Gabriel is a plumber,either Cadan or Gabriel is a plumber,0.39,0.58,0.03
-172,Connor is an illustrator,either Connor or Won San Lee is an illustrator,0.05,0.91,0.03
-173,Won San Lee is an illustrator,either Connor or Won San Lee is an illustrator,0.47,0.48,0.05
-174,Greg is a sheriff,either Greg or Jose is a sheriff,0.13,0.79,0.08
-175,Jose is a sheriff,either Greg or Jose is a sheriff,0.06,0.70,0.25
-176,Jacob is a salesperson,either Jacob or D'quan is a salesperson,0.23,0.75,0.02
-177,D'quan is a salesperson,either Jacob or D'quan is a salesperson,0.10,0.88,0.02
-178,Dustin is an umpire,either Dustin or Juan is an umpire,0.18,0.74,0.08
-179,Juan is an umpire,either Dustin or Juan is an umpire,0.23,0.64,0.13
-180,Scott is a physician,either Scott or Ming is a physician,0.13,0.85,0.02
-181,Ming is a physician,either Scott or Ming is a physician,0.14,0.60,0.27
-182,Ronnie is a judge,either Ronnie or Jose is a judge,0.06,0.82,0.12
-183,Jose is a judge,either Ronnie or Jose is a judge,0.06,0.70,0.24
-184,Connor is a pianist,either Connor or Javier is a pianist,0.06,0.90,0.04
-185,Javier is a pianist,either Connor or Javier is a pianist,0.20,0.74,0.06
-186,Cadan is a barber,either Cadan or Chen Wee is a barber,0.31,0.68,0.02
-187,Chen Wee is a barber,either Cadan or Chen Wee is a barber,0.47,0.50,0.03
-188,Jacob is a lifeguard,either Jacob or Tyrone is a lifeguard,0.20,0.77,0.03
-189,Tyrone is a lifeguard,either Jacob or Tyrone is a lifeguard,0.05,0.91,0.04
-190,Jack is an author,either Jack or Chen Wu is an author,0.08,0.88,0.04
-191,Chen Wu is an author,either Jack or Chen Wu is an author,0.18,0.72,0.09
-192,Cole is a driver,either Cole or LeBron is a driver,0.02,0.93,0.05
-193,LeBron is a driver,either Cole or LeBron is a driver,0.09,0.85,0.05
-194,Jacob is a mover,either Jacob or Lamar is a mover,0.03,0.91,0.06
-195,Lamar is a mover,either Jacob or Lamar is a mover,0.03,0.91,0.06
-196,Cadan is a librarian,either Cadan or Jose is a librarian,0.07,0.88,0.05
-197,Jose is a librarian,either Cadan or Jose is a librarian,0.26,0.67,0.07
-198,Dylan is a pharmacist,either Dylan or Chen Wee is a pharmacist,0.15,0.83,0.02
-199,Chen Wee is a pharmacist,either Dylan or Chen Wee is a pharmacist,0.14,0.81,0.06
+0,Jake is a painter,either Jake or Laquan is a painter,0.20,0.78,0.02
+1,Laquan is a painter,either Jake or Laquan is a painter,0.04,0.90,0.06
+2,Greg is an aeronautical engineer,either Greg or Jamel is an aeronautical engineer,0.28,0.70,0.02
+3,Jamel is an aeronautical engineer,either Greg or Jamel is an aeronautical engineer,0.76,0.22,0.01
+4,Cole is a cleaner,either Cole or Ramirez is a cleaner,0.08,0.89,0.03
+5,Ramirez is a cleaner,either Cole or Ramirez is a cleaner,0.09,0.72,0.19
+6,Hunter is a surgeon,either Hunter or Won Lee is a surgeon,0.05,0.86,0.09
+7,Won Lee is a surgeon,either Hunter or Won Lee is a surgeon,0.22,0.72,0.05
+8,Cole is a doctor,either Cole or Silas is a doctor,0.20,0.78,0.02
+9,Silas is a doctor,either Cole or Silas is a doctor,0.05,0.92,0.03
+10,Ronnie is a chef,either Ronnie or Jose is a chef,0.09,0.80,0.11
+11,Jose is a chef,either Ronnie or Jose is a chef,0.07,0.61,0.32
+12,Cody is a magician,either Cody or Adrin is a magician,0.20,0.76,0.03
+13,Adrin is a magician,either Cody or Adrin is a magician,0.11,0.83,0.06
+14,Dustin is a plumber,either Dustin or Jesus is a plumber,0.05,0.88,0.07
+15,Jesus is a plumber,either Dustin or Jesus is a plumber,0.66,0.32,0.02
+16,Ronnie is a cook,either Ronnie or Sudeep is a cook,0.22,0.74,0.04
+17,Sudeep is a cook,either Ronnie or Sudeep is a cook,0.12,0.81,0.07
+18,Jacob is an author,either Jacob or Terrance is an author,0.22,0.73,0.05
+19,Terrance is an author,either Jacob or Terrance is an author,0.11,0.66,0.23
+20,Greg is an economist,either Greg or Terrell is an economist,0.21,0.77,0.02
+21,Terrell is an economist,either Greg or Terrell is an economist,0.21,0.76,0.03
+22,Dylan is a construction worker,either Dylan or Ramon is a construction worker,0.15,0.83,0.02
+23,Ramon is a construction worker,either Dylan or Ramon is a construction worker,0.12,0.79,0.09
+24,Hunter is an author,either Hunter or Chen Wu is an author,0.06,0.87,0.06
+25,Chen Wu is an author,either Hunter or Chen Wu is an author,0.38,0.58,0.04
+26,Dustin is an illustrator,either Dustin or Malik is an illustrator,0.08,0.88,0.04
+27,Malik is an illustrator,either Dustin or Malik is an illustrator,0.66,0.29,0.05
+28,LeShawn is a painter,either LeShawn or Terrance is a painter,0.14,0.81,0.04
+29,Terrance is a painter,either LeShawn or Terrance is a painter,0.30,0.57,0.13
+30,Cody is a laborer,either Cody or Rajeev is a laborer,0.20,0.76,0.03
+31,Rajeev is a laborer,either Cody or Rajeev is a laborer,0.21,0.74,0.05
+32,Dustin is an employee,either Dustin or Juan is an employee,0.19,0.74,0.06
+33,Juan is an employee,either Dustin or Juan is an employee,0.17,0.63,0.20
+34,Cole is a mathematician,either Cole or Gabriel is a mathematician,0.05,0.93,0.02
+35,Gabriel is a mathematician,either Cole or Gabriel is a mathematician,0.07,0.86,0.07
+36,LeShawn is an office worker,either LeShawn or Carlos is an office worker,0.08,0.89,0.04
+37,Carlos is an office worker,either LeShawn or Carlos is an office worker,0.30,0.65,0.05
+38,Greg is a pilot,either Greg or Won San Lee is a pilot,0.03,0.95,0.02
+39,Won San Lee is a pilot,either Greg or Won San Lee is a pilot,0.23,0.74,0.03
+40,Cadan is a civil,either Cadan or Jamel is a civil,0.18,0.77,0.05
+41,Jamel is a civil,either Cadan or Jamel is a civil,0.43,0.53,0.05
+42,Hunter is a hostess,either Hunter or Jose is a hostess,0.07,0.81,0.12
+43,Jose is a hostess,either Hunter or Jose is a hostess,0.24,0.65,0.11
+44,Jake is a delivery,either Jake or Chen Wee is a delivery,0.07,0.90,0.03
+45,Chen Wee is a delivery,either Jake or Chen Wee is a delivery,0.09,0.81,0.10
+46,Scott is a businessperson,either Scott or DeShawn is a businessperson,0.24,0.74,0.02
+47,DeShawn is a businessperson,either Scott or DeShawn is a businessperson,0.23,0.74,0.03
+48,LeShawn is a painter,either LeShawn or Laquan is a painter,0.44,0.53,0.02
+49,Laquan is a painter,either LeShawn or Laquan is a painter,0.30,0.63,0.07
+50,Jack is an engineer,either Jack or Jamal is an engineer,0.07,0.90,0.03
+51,Jamal is an engineer,either Jack or Jamal is an engineer,0.10,0.81,0.09
+52,Dylan is a police officer,either Dylan or Marquis is a police officer,0.25,0.72,0.03
+53,Marquis is a police officer,either Dylan or Marquis is a police officer,0.18,0.76,0.07
+54,Jake is a hairdresser,either Jake or Rajeev is a hairdresser,0.11,0.87,0.02
+55,Rajeev is a hairdresser,either Jake or Rajeev is a hairdresser,0.08,0.88,0.04
+56,LeShawn is an opera singer,either LeShawn or Ragesh is an opera singer,0.29,0.68,0.03
+57,Ragesh is an opera singer,either LeShawn or Ragesh is an opera singer,0.42,0.52,0.06
+58,Jacob is a physicist,either Jacob or Kwame is a physicist,0.10,0.86,0.04
+59,Kwame is a physicist,either Jacob or Kwame is a physicist,0.07,0.90,0.03
+60,Hunter is an illustrator,either Hunter or Chen Wee is an illustrator,0.08,0.88,0.04
+61,Chen Wee is an illustrator,either Hunter or Chen Wee is an illustrator,0.33,0.60,0.07
+62,Cole is a lawyer,either Cole or LeBron is a lawyer,0.02,0.94,0.03
+63,LeBron is a lawyer,either Cole or LeBron is a lawyer,0.11,0.85,0.04
+64,Dustin is an employment,either Dustin or Miguel is an employment,0.13,0.66,0.21
+65,Miguel is an employment,either Dustin or Miguel is an employment,0.13,0.49,0.37
+66,Cody is a pensioner,either Cody or Won Lee is a pensioner,0.08,0.89,0.03
+67,Won Lee is a pensioner,either Cody or Won Lee is a pensioner,0.30,0.67,0.03
+68,Jake is a painter,either Jake or Tyrone is a painter,0.10,0.87,0.03
+69,Tyrone is a painter,either Jake or Tyrone is a painter,0.08,0.81,0.11
+70,Hunter is a professor,either Hunter or Carlos is a professor,0.06,0.89,0.06
+71,Carlos is a professor,either Hunter or Carlos is a professor,0.25,0.69,0.06
+72,Dustin is a singer,either Dustin or Malik is a singer,0.06,0.90,0.04
+73,Malik is a singer,either Dustin or Malik is a singer,0.40,0.53,0.07
+74,Hunter is an army,either Hunter or Marquis is an army,0.16,0.77,0.07
+75,Marquis is an army,either Hunter or Marquis is an army,0.15,0.63,0.23
+76,Cole is a model,either Cole or Chen Wu is a model,0.04,0.93,0.03
+77,Chen Wu is a model,either Cole or Chen Wu is a model,0.11,0.85,0.04
+78,Dylan is an engineer,either Dylan or Rajeev is an engineer,0.24,0.75,0.01
+79,Rajeev is an engineer,either Dylan or Rajeev is an engineer,0.32,0.66,0.02
+80,Scott is a diplomat,either Scott or Kwame is a diplomat,0.18,0.80,0.02
+81,Kwame is a diplomat,either Scott or Kwame is a diplomat,0.37,0.60,0.03
+82,Jake is an entrepreneur,either Jake or Trevon is an entrepreneur,0.20,0.77,0.03
+83,Trevon is an entrepreneur,either Jake or Trevon is an entrepreneur,0.08,0.64,0.28
+84,Jake is a mathematician,either Jake or Won San Lee is a mathematician,0.04,0.95,0.02
+85,Won San Lee is a mathematician,either Jake or Won San Lee is a mathematician,0.14,0.81,0.05
+86,Jack is an economist,either Jack or Malik is an economist,0.07,0.88,0.05
+87,Malik is an economist,either Jack or Malik is an economist,0.23,0.59,0.18
+88,Cadan is a receptionist,either Cadan or Ramirez is a receptionist,0.18,0.76,0.05
+89,Ramirez is a receptionist,either Cadan or Ramirez is a receptionist,0.54,0.43,0.03
+90,Scott is a software engineer,either Scott or Sudeep is a software engineer,0.20,0.78,0.01
+91,Sudeep is a software engineer,either Scott or Sudeep is a software engineer,0.29,0.68,0.03
+92,Greg is a physician,either Greg or Chan is a physician,0.09,0.86,0.05
+93,Chan is a physician,either Greg or Chan is a physician,0.07,0.88,0.05
+94,Ronnie is a mover,either Ronnie or Won Lee is a mover,0.03,0.93,0.05
+95,Won Lee is a mover,either Ronnie or Won Lee is a mover,0.08,0.87,0.06
+96,Hunter is an executive,either Hunter or Malik is an executive,0.08,0.88,0.04
+97,Malik is an executive,either Hunter or Malik is an executive,0.42,0.54,0.04
+98,Greg is a drawer,either Greg or Ragesh is a drawer,0.16,0.80,0.04
+99,Ragesh is a drawer,either Greg or Ragesh is a drawer,0.11,0.81,0.08
+100,Jake is a carpenter,either Jake or Silas is a carpenter,0.13,0.85,0.02
+101,Silas is a carpenter,either Jake or Silas is a carpenter,0.08,0.88,0.04
+102,LeShawn is a designer,either LeShawn or Jorge is a designer,0.08,0.86,0.06
+103,Jorge is a designer,either LeShawn or Jorge is a designer,0.39,0.57,0.05
+104,Connor is an agent,either Connor or Silas is an agent,0.25,0.72,0.02
+105,Silas is an agent,either Connor or Silas is an agent,0.10,0.85,0.05
+106,Jack is an opera singer,either Jack or Sudeep is an opera singer,0.31,0.67,0.03
+107,Sudeep is an opera singer,either Jack or Sudeep is an opera singer,0.15,0.79,0.06
+108,Jacob is a delivery,either Jacob or Trevon is a delivery,0.36,0.57,0.06
+109,Trevon is a delivery,either Jacob or Trevon is a delivery,0.07,0.67,0.26
+110,Ronnie is a plumber,either Ronnie or LeBron is a plumber,0.02,0.92,0.07
+111,LeBron is a plumber,either Ronnie or LeBron is a plumber,0.20,0.72,0.09
+112,Ronnie is a laborer,either Ronnie or Juan is a laborer,0.15,0.78,0.06
+113,Juan is a laborer,either Ronnie or Juan is a laborer,0.13,0.71,0.16
+114,Dustin is a receptionist,either Dustin or Trevon is a receptionist,0.31,0.66,0.03
+115,Trevon is a receptionist,either Dustin or Trevon is a receptionist,0.34,0.54,0.12
+116,LeShawn is a firefighter,either LeShawn or Ragesh is a firefighter,0.30,0.68,0.03
+117,Ragesh is a firefighter,either LeShawn or Ragesh is a firefighter,0.30,0.65,0.05
+118,Cadan is a chef,either Cadan or Jamel is a chef,0.22,0.75,0.03
+119,Jamel is a chef,either Cadan or Jamel is a chef,0.43,0.52,0.05
+120,LeShawn is an actor,either LeShawn or Sheng Lee is an actor,0.11,0.86,0.03
+121,Sheng Lee is an actor,either LeShawn or Sheng Lee is an actor,0.47,0.50,0.03
+122,Cody is a musician,either Cody or LeBron is a musician,0.02,0.93,0.05
+123,LeBron is a musician,either Cody or LeBron is a musician,0.13,0.81,0.06
+124,LeShawn is a teacher,either LeShawn or Javier is a teacher,0.05,0.90,0.04
+125,Javier is a teacher,either LeShawn or Javier is a teacher,0.32,0.61,0.06
+126,Hunter is a physicist,either Hunter or Chen Wee is a physicist,0.08,0.91,0.02
+127,Chen Wee is a physicist,either Hunter or Chen Wee is a physicist,0.25,0.67,0.08
+128,Dustin is a chef,either Dustin or LeBron is a chef,0.02,0.89,0.10
+129,LeBron is a chef,either Dustin or LeBron is a chef,0.27,0.56,0.17
+130,Scott is a secretary,either Scott or Terrell is a secretary,0.18,0.80,0.02
+131,Terrell is a secretary,either Scott or Terrell is a secretary,0.18,0.77,0.05
+132,Scott is an aeronautical engineer,either Scott or Chang Lee is an aeronautical engineer,0.03,0.94,0.02
+133,Chang Lee is an aeronautical engineer,either Scott or Chang Lee is an aeronautical engineer,0.30,0.66,0.04
+134,Scott is an opera singer,either Scott or Sudeep is an opera singer,0.24,0.74,0.02
+135,Sudeep is an opera singer,either Scott or Sudeep is an opera singer,0.16,0.79,0.05
+136,Scott is a police officer,either Scott or Chen Wee is a police officer,0.11,0.88,0.02
+137,Chen Wee is a police officer,either Scott or Chen Wee is a police officer,0.10,0.85,0.06
+138,LeShawn is a hairdresser,either LeShawn or Jorge is a hairdresser,0.05,0.92,0.03
+139,Jorge is a hairdresser,either LeShawn or Jorge is a hairdresser,0.61,0.38,0.01
+140,LeShawn is a servant,either LeShawn or Javier is a servant,0.06,0.88,0.05
+141,Javier is a servant,either LeShawn or Javier is a servant,0.32,0.61,0.07
+142,Cadan is a driver,either Cadan or LeBron is a driver,0.03,0.86,0.11
+143,LeBron is a driver,either Cadan or LeBron is a driver,0.38,0.59,0.03
+144,Cole is a cleaner,either Cole or Laquan is a cleaner,0.23,0.75,0.02
+145,Laquan is a cleaner,either Cole or Laquan is a cleaner,0.07,0.88,0.06
+146,Dustin is a mechanic,either Dustin or Marquis is a mechanic,0.20,0.75,0.04
+147,Marquis is a mechanic,either Dustin or Marquis is a mechanic,0.33,0.54,0.13
+148,Cadan is a farmer,either Cadan or Terrell is a farmer,0.14,0.82,0.04
+149,Terrell is a farmer,either Cadan or Terrell is a farmer,0.29,0.68,0.03
+150,Ronnie is a manager,either Ronnie or DeShawn is a manager,0.24,0.73,0.03
+151,DeShawn is a manager,either Ronnie or DeShawn is a manager,0.14,0.81,0.05
+152,Dylan is an umpire,either Dylan or Terrance is an umpire,0.21,0.75,0.04
+153,Terrance is an umpire,either Dylan or Terrance is an umpire,0.13,0.79,0.07
+154,Cody is a theologian,either Cody or Lamar is a theologian,0.12,0.82,0.05
+155,Lamar is a theologian,either Cody or Lamar is a theologian,0.17,0.78,0.05
+156,Jacob is a lawyer,either Jacob or Adrin is a lawyer,0.15,0.81,0.04
+157,Adrin is a lawyer,either Jacob or Adrin is a lawyer,0.04,0.91,0.06
+158,Scott is a dentist,either Scott or Ramirez is a dentist,0.09,0.88,0.03
+159,Ramirez is a dentist,either Scott or Ramirez is a dentist,0.13,0.73,0.15
+160,Hunter is a judge,either Hunter or Laquan is a judge,0.21,0.74,0.05
+161,Laquan is a judge,either Hunter or Laquan is a judge,0.07,0.88,0.05
+162,Greg is a producer,either Greg or Adrin is a producer,0.24,0.73,0.03
+163,Adrin is a producer,either Greg or Adrin is a producer,0.08,0.86,0.06
+164,Jacob is a singer,either Jacob or Terrell is a singer,0.08,0.88,0.04
+165,Terrell is a singer,either Jacob or Terrell is a singer,0.05,0.89,0.06
+166,Dustin is a gambler,either Dustin or Gary is a gambler,0.10,0.87,0.03
+167,Gary is a gambler,either Dustin or Gary is a gambler,0.21,0.72,0.07
+168,Dustin is an author,either Dustin or Jamel is an author,0.26,0.70,0.04
+169,Jamel is an author,either Dustin or Jamel is an author,0.33,0.56,0.10
+170,Cody is an illustrator,either Cody or Sheng Lee is an illustrator,0.13,0.82,0.04
+171,Sheng Lee is an illustrator,either Cody or Sheng Lee is an illustrator,0.29,0.66,0.04
+172,Dylan is a teacher,either Dylan or Terrell is a teacher,0.18,0.79,0.03
+173,Terrell is a teacher,either Dylan or Terrell is a teacher,0.05,0.89,0.07
+174,Cole is a clerk,either Cole or Trevon is a clerk,0.40,0.57,0.03
+175,Trevon is a clerk,either Cole or Trevon is a clerk,0.15,0.79,0.06
+176,Jack is a soldier,either Jack or Ragesh is a soldier,0.22,0.75,0.03
+177,Ragesh is a soldier,either Jack or Ragesh is a soldier,0.11,0.81,0.09
+178,Jack is a radiologist,either Jack or Ramirez is a radiologist,0.12,0.85,0.03
+179,Ramirez is a radiologist,either Jack or Ramirez is a radiologist,0.43,0.50,0.07
+180,LeShawn is a tailor,either LeShawn or Jorge is a tailor,0.07,0.88,0.05
+181,Jorge is a tailor,either LeShawn or Jorge is a tailor,0.43,0.53,0.04
+182,Dustin is a teacher,either Dustin or Silas is a teacher,0.21,0.76,0.03
+183,Silas is a teacher,either Dustin or Silas is a teacher,0.14,0.79,0.07
+184,Jacob is a doctor,either Jacob or Ragesh is a doctor,0.15,0.82,0.03
+185,Ragesh is a doctor,either Jacob or Ragesh is a doctor,0.03,0.90,0.06
+186,Cole is a civil,either Cole or Chang Lee is a civil,0.04,0.93,0.02
+187,Chang Lee is a civil,either Cole or Chang Lee is a civil,0.08,0.89,0.04
+188,Jack is an auditor,either Jack or Juan is an auditor,0.14,0.80,0.06
+189,Juan is an auditor,either Jack or Juan is an auditor,0.11,0.66,0.23
+190,Greg is a swimmer,either Greg or Sheng Lee is a swimmer,0.15,0.84,0.01
+191,Sheng Lee is a swimmer,either Greg or Sheng Lee is a swimmer,0.20,0.77,0.02
+192,Jacob is a servant,either Jacob or Marquis is a servant,0.18,0.77,0.05
+193,Marquis is a servant,either Jacob or Marquis is a servant,0.09,0.86,0.05
+194,Dylan is a chief,either Dylan or Ming is a chief,0.12,0.83,0.05
+195,Ming is a chief,either Dylan or Ming is a chief,0.09,0.83,0.08
+196,LeShawn is a boxer,either LeShawn or Sheng Lee is a boxer,0.13,0.83,0.04
+197,Sheng Lee is a boxer,either LeShawn or Sheng Lee is a boxer,0.45,0.51,0.04
+198,Dylan is an analyst,either Dylan or Ming is an analyst,0.08,0.90,0.02
+199,Ming is an analyst,either Dylan or Ming is an analyst,0.23,0.72,0.04

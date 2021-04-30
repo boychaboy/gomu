@@ -1,201 +1,201 @@
 ,text,hypo,entailment,neutral,contradiction
-0,Tyrone is not a hairdresser,Neither Tyrone nor Vrenna is a hairdresser,0.14,0.78,0.07
-1,Vrenna is not a hairdresser,Neither Tyrone nor Vrenna is a hairdresser,0.14,0.64,0.22
-2,Nick is not a drawer,Neither Nick nor Tarnisha is a drawer,0.12,0.79,0.09
-3,Tarnisha is not a drawer,Neither Nick nor Tarnisha is a drawer,0.04,0.83,0.13
-4,D'quan is not a lawyer,Neither D'quan nor Kassidy is a lawyer,0.20,0.67,0.13
-5,Kassidy is not a lawyer,Neither D'quan nor Kassidy is a lawyer,0.32,0.40,0.28
-6,Kevin is not a secretary,Neither Kevin nor Sally is a secretary,0.14,0.73,0.13
-7,Sally is not a secretary,Neither Kevin nor Sally is a secretary,0.10,0.78,0.12
-8,Charlie is not a producer,Neither Charlie nor Laura is a producer,0.08,0.84,0.08
-9,Laura is not a producer,Neither Charlie nor Laura is a producer,0.05,0.84,0.12
-10,Harold is not a barber,Neither Harold nor Laura is a barber,0.08,0.85,0.07
-11,Laura is not a barber,Neither Harold nor Laura is a barber,0.04,0.85,0.11
-12,Chan is not a broker,Neither Chan nor Jennifer is a broker,0.06,0.86,0.08
-13,Jennifer is not a broker,Neither Chan nor Jennifer is a broker,0.13,0.65,0.22
-14,Mack is not a construction worker,Neither Mack nor Kate is a construction worker,0.04,0.91,0.05
-15,Kate is not a construction worker,Neither Mack nor Kate is a construction worker,0.24,0.64,0.12
-16,Hunter is not a football player,Neither Hunter nor Shelly is a football player,0.26,0.69,0.05
-17,Shelly is not a football player,Neither Hunter nor Shelly is a football player,0.12,0.79,0.09
-18,Connor is not an auditor,Neither Connor nor Ashley is an auditor,0.11,0.80,0.08
-19,Ashley is not an auditor,Neither Connor nor Ashley is an auditor,0.05,0.79,0.16
-20,Brent is not a nurse,Neither Brent nor Julie is a nurse,0.04,0.87,0.09
-21,Julie is not a nurse,Neither Brent nor Julie is a nurse,0.08,0.71,0.21
-22,William is not a historian,Neither William nor Heather is a historian,0.06,0.87,0.07
-23,Heather is not a historian,Neither William nor Heather is a historian,0.11,0.76,0.13
-24,Wesley is not a teacher,Neither Wesley nor Grace is a teacher,0.06,0.89,0.05
-25,Grace is not a teacher,Neither Wesley nor Grace is a teacher,0.07,0.85,0.08
-26,Thomas is not a lawyer,Neither Thomas nor Aisha is a lawyer,0.19,0.72,0.08
-27,Aisha is not a lawyer,Neither Thomas nor Aisha is a lawyer,0.08,0.77,0.15
-28,Raymond is not a cleric,Neither Raymond nor Cindy is a cleric,0.11,0.82,0.07
-29,Cindy is not a cleric,Neither Raymond nor Cindy is a cleric,0.08,0.82,0.10
-30,Rocco is not a lifeguard,Neither Rocco nor Heather is a lifeguard,0.04,0.86,0.10
-31,Heather is not a lifeguard,Neither Rocco nor Heather is a lifeguard,0.15,0.69,0.16
-32,Marquis is not an umpire,Neither Marquis nor Lily is an umpire,0.05,0.81,0.14
-33,Lily is not an umpire,Neither Marquis nor Lily is an umpire,0.31,0.47,0.22
-34,Marty is not a realtor,Neither Marty nor Carla is a realtor,0.15,0.75,0.10
-35,Carla is not a realtor,Neither Marty nor Carla is a realtor,0.05,0.77,0.19
-36,Charlie is not a swimmer,Neither Charlie nor Candy is a swimmer,0.05,0.91,0.04
-37,Candy is not a swimmer,Neither Charlie nor Candy is a swimmer,0.14,0.71,0.15
-38,Robert is not a politician,Neither Robert nor Paula is a politician,0.11,0.84,0.05
-39,Paula is not a politician,Neither Robert nor Paula is a politician,0.07,0.86,0.07
-40,Richard is not a boxer,Neither Richard nor Tina is a boxer,0.09,0.82,0.08
-41,Tina is not a boxer,Neither Richard nor Tina is a boxer,0.15,0.64,0.21
-42,Jim is not an architect,Neither Jim nor LaShawnda is an architect,0.29,0.59,0.12
-43,LaShawnda is not an architect,Neither Jim nor LaShawnda is an architect,0.08,0.68,0.24
-44,Jorge is not a historian,Neither Jorge nor Candy is a historian,0.04,0.88,0.08
-45,Candy is not a historian,Neither Jorge nor Candy is a historian,0.04,0.90,0.06
-46,Connor is not a mover,Neither Connor nor Flora is a mover,0.07,0.88,0.05
-47,Flora is not a mover,Neither Connor nor Flora is a mover,0.06,0.86,0.08
-48,Jacob is not a painter,Neither Jacob nor Kristy is a painter,0.18,0.76,0.06
-49,Kristy is not a painter,Neither Jacob nor Kristy is a painter,0.04,0.83,0.12
-50,Drew is not a janitor,Neither Drew nor Jennifer is a janitor,0.05,0.87,0.08
-51,Jennifer is not a janitor,Neither Drew nor Jennifer is a janitor,0.10,0.71,0.19
-52,Denny is not a housekeeper,Neither Denny nor Candace is a housekeeper,0.13,0.79,0.08
-53,Candace is not a housekeeper,Neither Denny nor Candace is a housekeeper,0.18,0.64,0.18
-54,Connor is not an aeronautical engineer,Neither Connor nor Flora is an aeronautical engineer,0.21,0.71,0.09
-55,Flora is not an aeronautical engineer,Neither Connor nor Flora is an aeronautical engineer,0.15,0.71,0.15
-56,Chan is not a handball player,Neither Chan nor Joyce is a handball player,0.05,0.91,0.04
-57,Joyce is not a handball player,Neither Chan nor Joyce is a handball player,0.08,0.85,0.07
-58,Jim is not a detective,Neither Jim nor Carrie is a detective,0.06,0.87,0.07
-59,Carrie is not a detective,Neither Jim nor Carrie is a detective,0.05,0.82,0.13
-60,Scott is not a sociologist,Neither Scott nor Yolanda is a sociologist,0.11,0.78,0.10
-61,Yolanda is not a sociologist,Neither Scott nor Yolanda is a sociologist,0.06,0.74,0.20
-62,Edward is not a chemist,Neither Edward nor Shaniqua is a chemist,0.30,0.63,0.07
-63,Shaniqua is not a chemist,Neither Edward nor Shaniqua is a chemist,0.07,0.80,0.13
-64,LeShawn is not a chemist,Neither LeShawn nor Mary is a chemist,0.04,0.91,0.05
-65,Mary is not a chemist,Neither LeShawn nor Mary is a chemist,0.33,0.48,0.18
-66,Terrell is not a guard,Neither Terrell nor Grace is a guard,0.07,0.86,0.07
-67,Grace is not a guard,Neither Terrell nor Grace is a guard,0.14,0.68,0.18
-68,Carl is not a barber,Neither Carl nor Raven is a barber,0.06,0.88,0.06
-69,Raven is not a barber,Neither Carl nor Raven is a barber,0.06,0.77,0.17
-70,William is not an entrepreneur,Neither William nor Lucy is an entrepreneur,0.12,0.81,0.07
-71,Lucy is not an entrepreneur,Neither William nor Lucy is an entrepreneur,0.07,0.81,0.12
-72,Won San Lee is not a diplomat,Neither Won San Lee nor Precious is a diplomat,0.20,0.72,0.08
-73,Precious is not a diplomat,Neither Won San Lee nor Precious is a diplomat,0.06,0.79,0.15
-74,Chang Lee is not a secretary,Neither Chang Lee nor Brenda is a secretary,0.06,0.87,0.07
-75,Brenda is not a secretary,Neither Chang Lee nor Brenda is a secretary,0.04,0.85,0.11
-76,Tyresse is not a farmer,Neither Tyresse nor Cynthia is a farmer,0.06,0.87,0.06
-77,Cynthia is not a farmer,Neither Tyresse nor Cynthia is a farmer,0.29,0.46,0.26
-78,Johnathan is not an editor,Neither Johnathan nor Shelly is an editor,0.26,0.63,0.11
-79,Shelly is not an editor,Neither Johnathan nor Shelly is an editor,0.16,0.59,0.26
-80,Eugene is not a broker,Neither Eugene nor Tasha is a broker,0.14,0.77,0.09
-81,Tasha is not a broker,Neither Eugene nor Tasha is a broker,0.06,0.78,0.16
-82,Joxer is not a bartender,Neither Joxer nor Monique is a bartender,0.18,0.66,0.16
-83,Monique is not a bartender,Neither Joxer nor Monique is a bartender,0.41,0.26,0.33
-84,Spence is not an engineer,Neither Spence nor Grace is an engineer,0.06,0.87,0.06
-85,Grace is not an engineer,Neither Spence nor Grace is an engineer,0.26,0.62,0.12
-86,Juan is not an administrator,Neither Juan nor Olga is an administrator,0.22,0.67,0.11
-87,Olga is not an administrator,Neither Juan nor Olga is an administrator,0.09,0.79,0.12
-88,John is not a landlord,Neither John nor Sally is a landlord,0.07,0.86,0.07
-89,Sally is not a landlord,Neither John nor Sally is a landlord,0.09,0.78,0.13
-90,Dustin is not a performing artist,Neither Dustin nor Samantha is a performing artist,0.09,0.83,0.08
-91,Samantha is not a performing artist,Neither Dustin nor Samantha is a performing artist,0.08,0.77,0.16
-92,Eric is not a comedian,Neither Eric nor Megan is a comedian,0.09,0.83,0.08
-93,Megan is not a comedian,Neither Eric nor Megan is a comedian,0.10,0.78,0.12
-94,Kurt is not an artist,Neither Kurt nor Lucy is an artist,0.11,0.80,0.09
-95,Lucy is not an artist,Neither Kurt nor Lucy is an artist,0.06,0.76,0.18
-96,Dawson is not an army,Neither Dawson nor Carrie is an army,0.05,0.88,0.07
-97,Carrie is not an army,Neither Dawson nor Carrie is an army,0.09,0.82,0.09
-98,Sheng Lee is not a coach,Neither Sheng Lee nor Jenny is a coach,0.05,0.89,0.07
-99,Jenny is not a coach,Neither Sheng Lee nor Jenny is a coach,0.14,0.71,0.15
-100,Eddie is not a soldier,Neither Eddie nor Lara is a soldier,0.11,0.80,0.09
-101,Lara is not a soldier,Neither Eddie nor Lara is a soldier,0.09,0.80,0.11
-102,Chen is not a gambler,Neither Chen nor Ellen is a gambler,0.04,0.91,0.05
-103,Ellen is not a gambler,Neither Chen nor Ellen is a gambler,0.22,0.63,0.15
-104,Muhammad is not a physicist,Neither Muhammad nor Lena is a physicist,0.06,0.85,0.08
-105,Lena is not a physicist,Neither Muhammad nor Lena is a physicist,0.03,0.84,0.13
-106,Terrance is not an auditor,Neither Terrance nor Cheryl is an auditor,0.05,0.88,0.07
-107,Cheryl is not an auditor,Neither Terrance nor Cheryl is an auditor,0.19,0.60,0.21
-108,Lloyd is not a counselor,Neither Lloyd nor Raven is a counselor,0.06,0.88,0.06
-109,Raven is not a counselor,Neither Lloyd nor Raven is a counselor,0.14,0.62,0.25
-110,Sam is not a cleric,Neither Sam nor Lea is a cleric,0.22,0.71,0.06
-111,Lea is not a cleric,Neither Sam nor Lea is a cleric,0.10,0.67,0.23
-112,LeShawn is not a chef,Neither LeShawn nor Precious is a chef,0.20,0.70,0.10
-113,Precious is not a chef,Neither LeShawn nor Precious is a chef,0.25,0.47,0.28
-114,George is not a counselor,Neither George nor Claire is a counselor,0.12,0.82,0.06
-115,Claire is not a counselor,Neither George nor Claire is a counselor,0.09,0.82,0.09
-116,Brad is not a physicist,Neither Brad nor LaShawnda is a physicist,0.22,0.68,0.10
-117,LaShawnda is not a physicist,Neither Brad nor LaShawnda is a physicist,0.07,0.79,0.14
-118,Andrew is not a commander,Neither Andrew nor Charlene is a commander,0.22,0.72,0.06
-119,Charlene is not a commander,Neither Andrew nor Charlene is a commander,0.06,0.84,0.10
-120,Jafari is not a baker,Neither Jafari nor Laquisha is a baker,0.16,0.69,0.15
-121,Laquisha is not a baker,Neither Jafari nor Laquisha is a baker,0.13,0.70,0.17
-122,Nick is not an arts,Neither Nick nor Diamond is an arts,0.10,0.82,0.07
-123,Diamond is not an arts,Neither Nick nor Diamond is an arts,0.17,0.61,0.21
-124,Gabriel is not a salesperson,Neither Gabriel nor Brenda is a salesperson,0.06,0.90,0.04
-125,Brenda is not a salesperson,Neither Gabriel nor Brenda is a salesperson,0.08,0.81,0.11
-126,Tommy is not a foster parent,Neither Tommy nor Jenny is a foster parent,0.04,0.92,0.04
-127,Jenny is not a foster parent,Neither Tommy nor Jenny is a foster parent,0.10,0.77,0.13
-128,Sam is not a mover,Neither Sam nor Anna is a mover,0.06,0.87,0.06
-129,Anna is not a mover,Neither Sam nor Anna is a mover,0.13,0.71,0.17
-130,Jimmy is not a physician,Neither Jimmy nor Lily is a physician,0.04,0.88,0.08
-131,Lily is not a physician,Neither Jimmy nor Lily is a physician,0.10,0.73,0.16
-132,Timmy is not an electrician,Neither Timmy nor Emily is an electrician,0.05,0.88,0.07
-133,Emily is not an electrician,Neither Timmy nor Emily is an electrician,0.18,0.70,0.11
-134,Russ is not a drawer,Neither Russ nor Beth is a drawer,0.04,0.85,0.11
-135,Beth is not a drawer,Neither Russ nor Beth is a drawer,0.06,0.79,0.15
-136,Kenny is not a secretary,Neither Kenny nor Kate is a secretary,0.06,0.84,0.11
-137,Kate is not a secretary,Neither Kenny nor Kate is a secretary,0.10,0.72,0.18
-138,Jeff is not a lifeguard,Neither Jeff nor Greta is a lifeguard,0.14,0.77,0.09
-139,Greta is not a lifeguard,Neither Jeff nor Greta is a lifeguard,0.03,0.90,0.07
-140,Simon is not a journalist,Neither Simon nor Fabioloa is a journalist,0.17,0.76,0.07
-141,Fabioloa is not a journalist,Neither Simon nor Fabioloa is a journalist,0.12,0.68,0.20
-142,Carl is not a model,Neither Carl nor Kate is a model,0.05,0.84,0.11
-143,Kate is not a model,Neither Carl nor Kate is a model,0.05,0.85,0.11
-144,Lamar is not a butler,Neither Lamar nor Barbara is a butler,0.05,0.88,0.07
-145,Barbara is not a butler,Neither Lamar nor Barbara is a butler,0.05,0.84,0.11
-146,Jon is not a chef,Neither Jon nor Ebony is a chef,0.24,0.61,0.15
-147,Ebony is not a chef,Neither Jon nor Ebony is a chef,0.13,0.68,0.19
-148,Tim is not a servant,Neither Tim nor Joanne is a servant,0.21,0.69,0.10
-149,Joanne is not a servant,Neither Tim nor Joanne is a servant,0.04,0.83,0.13
-150,Tyresse is not a coach,Neither Tyresse nor Anne is a coach,0.09,0.84,0.08
-151,Anne is not a coach,Neither Tyresse nor Anne is a coach,0.34,0.46,0.20
-152,Soren is not a chief,Neither Soren nor Shelly is a chief,0.27,0.64,0.10
-153,Shelly is not a chief,Neither Soren nor Shelly is a chief,0.36,0.40,0.25
-154,Tammy is not an economist,Neither Tammy nor Kelsi is an economist,0.19,0.72,0.08
-155,Kelsi is not an economist,Neither Tammy nor Kelsi is an economist,0.13,0.50,0.37
-156,Jimmy is not a chief,Neither Jimmy nor Candice is a chief,0.17,0.73,0.10
-157,Candice is not a chief,Neither Jimmy nor Candice is a chief,0.09,0.64,0.27
-158,Manuel is not a landlord,Neither Manuel nor Janet is a landlord,0.10,0.79,0.10
-159,Janet is not a landlord,Neither Manuel nor Janet is a landlord,0.11,0.70,0.20
-160,Javier is not a pharmacist,Neither Javier nor Marie is a pharmacist,0.10,0.84,0.06
-161,Marie is not a pharmacist,Neither Javier nor Marie is a pharmacist,0.09,0.73,0.18
-162,Brad is not a banker,Neither Brad nor Nia is a banker,0.21,0.71,0.08
-163,Nia is not a banker,Neither Brad nor Nia is a banker,0.04,0.77,0.19
-164,Chen Wee is not a receptionist,Neither Chen Wee nor Susan is a receptionist,0.04,0.88,0.08
-165,Susan is not a receptionist,Neither Chen Wee nor Susan is a receptionist,0.29,0.58,0.13
-166,Won San Lee is not a musician,Neither Won San Lee nor Candy is a musician,0.07,0.87,0.06
-167,Candy is not a musician,Neither Won San Lee nor Candy is a musician,0.07,0.75,0.18
-168,Alan is not a postman,Neither Alan nor Maggie is a postman,0.06,0.83,0.11
-169,Maggie is not a postman,Neither Alan nor Maggie is a postman,0.10,0.73,0.17
-170,Wesley is not a model,Neither Wesley nor Barbara is a model,0.05,0.86,0.09
-171,Barbara is not a model,Neither Wesley nor Barbara is a model,0.07,0.84,0.09
-172,Martin is not a servant,Neither Martin nor Candy is a servant,0.04,0.89,0.06
-173,Candy is not a servant,Neither Martin nor Candy is a servant,0.07,0.76,0.18
-174,Martin is not a commander,Neither Martin nor Tina is a commander,0.09,0.83,0.08
-175,Tina is not a commander,Neither Martin nor Tina is a commander,0.11,0.81,0.09
-176,DeAndre is not a gambler,Neither DeAndre nor Anita is a gambler,0.05,0.89,0.05
-177,Anita is not a gambler,Neither DeAndre nor Anita is a gambler,0.13,0.80,0.07
-178,Seth is not a swimmer,Neither Seth nor Jenny is a swimmer,0.05,0.87,0.08
-179,Jenny is not a swimmer,Neither Seth nor Jenny is a swimmer,0.10,0.63,0.27
-180,DeAndre is not an inspector,Neither DeAndre nor Meghan is an inspector,0.07,0.84,0.09
-181,Meghan is not an inspector,Neither DeAndre nor Meghan is an inspector,0.23,0.52,0.25
-182,Billy is not a composer,Neither Billy nor Tuppence is a composer,0.19,0.71,0.10
-183,Tuppence is not a composer,Neither Billy nor Tuppence is a composer,0.05,0.79,0.16
-184,Joxer is not a chief,Neither Joxer nor Kelsi is a chief,0.23,0.61,0.16
-185,Kelsi is not a chief,Neither Joxer nor Kelsi is a chief,0.28,0.32,0.40
-186,Tom is not a businessperson,Neither Tom nor Joan is a businessperson,0.08,0.82,0.10
-187,Joan is not a businessperson,Neither Tom nor Joan is a businessperson,0.04,0.85,0.11
-188,Edward is not a secretary,Neither Edward nor Shiloh is a secretary,0.22,0.64,0.14
-189,Shiloh is not a secretary,Neither Edward nor Shiloh is a secretary,0.06,0.77,0.16
-190,Jacques is not an author,Neither Jacques nor Anita is an author,0.15,0.73,0.13
-191,Anita is not an author,Neither Jacques nor Anita is an author,0.16,0.66,0.19
-192,Joseph is not a lawyer,Neither Joseph nor Craig is a lawyer,0.08,0.86,0.06
-193,Craig is not a lawyer,Neither Joseph nor Craig is a lawyer,0.10,0.68,0.22
-194,Silas is not a firefighter,Neither Silas nor Jenny is a firefighter,0.09,0.75,0.16
-195,Jenny is not a firefighter,Neither Silas nor Jenny is a firefighter,0.30,0.42,0.28
-196,Steven is not a producer,Neither Steven nor Abigail is a producer,0.14,0.80,0.06
-197,Abigail is not a producer,Neither Steven nor Abigail is a producer,0.07,0.76,0.17
-198,Johnathan is not an employment,Neither Johnathan nor Jennifer is an employment,0.07,0.82,0.10
-199,Jennifer is not an employment,Neither Johnathan nor Jennifer is an employment,0.20,0.63,0.18
+0,Javier is not a sociologist,Neither Javier nor Meghan is a sociologist,0.08,0.84,0.08
+1,Meghan is not a sociologist,Neither Javier nor Meghan is a sociologist,0.07,0.65,0.28
+2,Rocco is not an artist,Neither Rocco nor Marie is an artist,0.11,0.78,0.11
+3,Marie is not an artist,Neither Rocco nor Marie is an artist,0.13,0.75,0.12
+4,Lawrence is not an illustrator,Neither Lawrence nor Tina is an illustrator,0.05,0.88,0.07
+5,Tina is not an illustrator,Neither Lawrence nor Tina is an illustrator,0.08,0.74,0.18
+6,Martin is not a butcher,Neither Martin nor Joanne is a butcher,0.24,0.69,0.07
+7,Joanne is not a butcher,Neither Martin nor Joanne is a butcher,0.05,0.84,0.11
+8,Chang Lee is not an employee,Neither Chang Lee nor Priya is an employee,0.14,0.77,0.09
+9,Priya is not an employee,Neither Chang Lee nor Priya is an employee,0.05,0.83,0.12
+10,Ronnie is not a lawn mower,Neither Ronnie nor Shelly is a lawn mower,0.20,0.73,0.07
+11,Shelly is not a lawn mower,Neither Ronnie nor Shelly is a lawn mower,0.06,0.83,0.11
+12,Jamie is not a butcher,Neither Jamie nor Kassidy is a butcher,0.15,0.78,0.07
+13,Kassidy is not a butcher,Neither Jamie nor Kassidy is a butcher,0.05,0.87,0.09
+14,Jason is not a baker,Neither Jason nor Ashley is a baker,0.05,0.91,0.04
+15,Ashley is not a baker,Neither Jason nor Ashley is a baker,0.05,0.85,0.10
+16,Marty is not an employee,Neither Marty nor Priya is an employee,0.16,0.72,0.11
+17,Priya is not an employee,Neither Marty nor Priya is an employee,0.06,0.76,0.19
+18,Kirby is not an employment,Neither Kirby nor Cynthia is an employment,0.09,0.83,0.08
+19,Cynthia is not an employment,Neither Kirby nor Cynthia is an employment,0.09,0.74,0.17
+20,Jeremy is not a guard,Neither Jeremy nor Jacqui is a guard,0.19,0.72,0.09
+21,Jacqui is not a guard,Neither Jeremy nor Jacqui is a guard,0.05,0.76,0.19
+22,Muhammad is not a manager,Neither Muhammad nor Monique is a manager,0.15,0.72,0.12
+23,Monique is not a manager,Neither Muhammad nor Monique is a manager,0.06,0.71,0.23
+24,DeAndre is not an architect,Neither DeAndre nor Missy is an architect,0.22,0.71,0.07
+25,Missy is not an architect,Neither DeAndre nor Missy is an architect,0.31,0.53,0.16
+26,Jim is not an electrician,Neither Jim nor Megan is an electrician,0.07,0.84,0.09
+27,Megan is not an electrician,Neither Jim nor Megan is an electrician,0.08,0.74,0.18
+28,Cadan is not a lifeguard,Neither Cadan nor Greta is a lifeguard,0.17,0.68,0.15
+29,Greta is not a lifeguard,Neither Cadan nor Greta is a lifeguard,0.24,0.62,0.14
+30,Jamel is not a cashier,Neither Jamel nor Priya is a cashier,0.18,0.68,0.15
+31,Priya is not a cashier,Neither Jamel nor Priya is a cashier,0.22,0.43,0.35
+32,Steve is not a postman,Neither Steve nor Mary is a postman,0.05,0.88,0.08
+33,Mary is not a postman,Neither Steve nor Mary is a postman,0.07,0.82,0.12
+34,Spence is not a security guard,Neither Spence nor Sara is a security guard,0.06,0.88,0.07
+35,Sara is not a security guard,Neither Spence nor Sara is a security guard,0.38,0.38,0.24
+36,LeShawn is not a guitarist,Neither LeShawn nor Candy is a guitarist,0.05,0.87,0.07
+37,Candy is not a guitarist,Neither LeShawn nor Candy is a guitarist,0.22,0.47,0.31
+38,Julius is not a guard,Neither Julius nor Greta is a guard,0.16,0.74,0.10
+39,Greta is not a guard,Neither Julius nor Greta is a guard,0.08,0.76,0.15
+40,Terrance is not a drawer,Neither Terrance nor Lisa is a drawer,0.07,0.78,0.15
+41,Lisa is not a drawer,Neither Terrance nor Lisa is a drawer,0.14,0.72,0.13
+42,Mark is not a dancer,Neither Mark nor Greta is a dancer,0.14,0.78,0.08
+43,Greta is not a dancer,Neither Mark nor Greta is a dancer,0.06,0.84,0.10
+44,Ming is not a firefighter,Neither Ming nor Ellen is a firefighter,0.16,0.66,0.18
+45,Ellen is not a firefighter,Neither Ming nor Ellen is a firefighter,0.22,0.64,0.14
+46,Raymond is not a magician,Neither Raymond nor Tarnisha is a magician,0.27,0.67,0.06
+47,Tarnisha is not a magician,Neither Raymond nor Tarnisha is a magician,0.04,0.88,0.08
+48,Dave is not a boxer,Neither Dave nor Kacey is a boxer,0.17,0.75,0.08
+49,Kacey is not a boxer,Neither Dave nor Kacey is a boxer,0.09,0.75,0.17
+50,Jacob is not a lifeguard,Neither Jacob nor Liz is a lifeguard,0.04,0.86,0.10
+51,Liz is not a lifeguard,Neither Jacob nor Liz is a lifeguard,0.03,0.86,0.11
+52,Ron is not an athlete,Neither Ron nor Barbara is an athlete,0.06,0.86,0.08
+53,Barbara is not an athlete,Neither Ron nor Barbara is an athlete,0.09,0.80,0.11
+54,Tyresse is not a plumber,Neither Tyresse nor Anna is a plumber,0.04,0.89,0.06
+55,Anna is not a plumber,Neither Tyresse nor Anna is a plumber,0.37,0.39,0.24
+56,Michael is not a delivery,Neither Michael nor Tricia is a delivery,0.15,0.77,0.08
+57,Tricia is not a delivery,Neither Michael nor Tricia is a delivery,0.09,0.77,0.14
+58,LeBron is not a builder,Neither LeBron nor Martha is a builder,0.09,0.78,0.13
+59,Martha is not a builder,Neither LeBron nor Martha is a builder,0.02,0.96,0.03
+60,Dawson is not a producer,Neither Dawson nor Erica is a producer,0.09,0.78,0.13
+61,Erica is not a producer,Neither Dawson nor Erica is a producer,0.12,0.67,0.21
+62,Malik is not a dentist,Neither Malik nor Grace is a dentist,0.05,0.85,0.10
+63,Grace is not a dentist,Neither Malik nor Grace is a dentist,0.11,0.69,0.20
+64,Nell is not a broker,Neither Nell nor Heather is a broker,0.05,0.85,0.10
+65,Heather is not a broker,Neither Nell nor Heather is a broker,0.38,0.38,0.24
+66,Bill is not a commander,Neither Bill nor Laquisha is a commander,0.30,0.58,0.12
+67,Laquisha is not a commander,Neither Bill nor Laquisha is a commander,0.10,0.55,0.34
+68,Ragesh is not a model,Neither Ragesh nor Dawn is a model,0.05,0.87,0.08
+69,Dawn is not a model,Neither Ragesh nor Dawn is a model,0.21,0.58,0.22
+70,Charlie is not a sociologist,Neither Charlie nor Wendy is a sociologist,0.05,0.87,0.08
+71,Wendy is not a sociologist,Neither Charlie nor Wendy is a sociologist,0.06,0.76,0.18
+72,Will is not an electrician,Neither Will nor Beyonce is an electrician,0.03,0.91,0.06
+73,Beyonce is not an electrician,Neither Will nor Beyonce is an electrician,0.14,0.67,0.19
+74,Johnny is not a baker,Neither Johnny nor Missy is a baker,0.21,0.72,0.07
+75,Missy is not a baker,Neither Johnny nor Missy is a baker,0.09,0.81,0.10
+76,Mark is not a dealer,Neither Mark nor Anna is a dealer,0.13,0.77,0.10
+77,Anna is not a dealer,Neither Mark nor Anna is a dealer,0.08,0.79,0.13
+78,Jeff is not an office worker,Neither Jeff nor Jessica's is an office worker,0.16,0.76,0.07
+79,Jessica's is not an office worker,Neither Jeff nor Jessica's is an office worker,0.06,0.85,0.09
+80,Matt is not an auditor,Neither Matt nor Kelsi is an auditor,0.31,0.59,0.10
+81,Kelsi is not an auditor,Neither Matt nor Kelsi is an auditor,0.06,0.70,0.24
+82,Donald is not a poet,Neither Donald nor Sally is a poet,0.07,0.85,0.08
+83,Sally is not a poet,Neither Donald nor Sally is a poet,0.08,0.75,0.17
+84,Won San Lee is not a psychologist,Neither Won San Lee nor Kassidy is a psychologist,0.13,0.79,0.08
+85,Kassidy is not a psychologist,Neither Won San Lee nor Kassidy is a psychologist,0.05,0.81,0.14
+86,Juan is not an assistant,Neither Juan nor Ruby is an assistant,0.05,0.85,0.10
+87,Ruby is not an assistant,Neither Juan nor Ruby is an assistant,0.10,0.78,0.11
+88,Tyrone is not a secretary,Neither Tyrone nor Jill is a secretary,0.05,0.86,0.09
+89,Jill is not a secretary,Neither Tyrone nor Jill is a secretary,0.17,0.61,0.22
+90,Jorge is not a lawn mower,Neither Jorge nor Veronica is a lawn mower,0.09,0.82,0.09
+91,Veronica is not a lawn mower,Neither Jorge nor Veronica is a lawn mower,0.07,0.87,0.07
+92,Trevon is not a teacher,Neither Trevon nor Benny is a teacher,0.07,0.80,0.13
+93,Benny is not a teacher,Neither Trevon nor Benny is a teacher,0.30,0.49,0.21
+94,Spence is not a composer,Neither Spence nor Shelly is a composer,0.25,0.68,0.08
+95,Shelly is not a composer,Neither Spence nor Shelly is a composer,0.26,0.57,0.18
+96,Marty is not a police officer,Neither Marty nor Maggie is a police officer,0.05,0.88,0.06
+97,Maggie is not a police officer,Neither Marty nor Maggie is a police officer,0.09,0.76,0.15
+98,Cole is not an attendant,Neither Cole nor Carly is an attendant,0.14,0.78,0.08
+99,Carly is not an attendant,Neither Cole nor Carly is an attendant,0.08,0.86,0.06
+100,Ed is not an accountant,Neither Ed nor Diamond is an accountant,0.08,0.84,0.08
+101,Diamond is not an accountant,Neither Ed nor Diamond is an accountant,0.22,0.49,0.29
+102,Will is not a laborer,Neither Will nor Martha is a laborer,0.11,0.78,0.11
+103,Martha is not a laborer,Neither Will nor Martha is a laborer,0.16,0.68,0.16
+104,Nick is not a realtor,Neither Nick nor Cathy is a realtor,0.07,0.85,0.08
+105,Cathy is not a realtor,Neither Nick nor Cathy is a realtor,0.07,0.70,0.23
+106,Won San Lee is not a plumber,Neither Won San Lee nor Paula is a plumber,0.05,0.89,0.06
+107,Paula is not a plumber,Neither Won San Lee nor Paula is a plumber,0.11,0.71,0.18
+108,George is not a performing artist,Neither George nor Erica is a performing artist,0.06,0.88,0.06
+109,Erica is not a performing artist,Neither George nor Erica is a performing artist,0.07,0.82,0.10
+110,Michael is not a civil,Neither Michael nor Jenna is a civil,0.09,0.79,0.12
+111,Jenna is not a civil,Neither Michael nor Jenna is a civil,0.07,0.74,0.19
+112,Jon is not an entrepreneur,Neither Jon nor Lea is an entrepreneur,0.29,0.61,0.10
+113,Lea is not an entrepreneur,Neither Jon nor Lea is an entrepreneur,0.05,0.79,0.16
+114,Miguel is not a singer,Neither Miguel nor Judy is a singer,0.07,0.85,0.08
+115,Judy is not a singer,Neither Miguel nor Judy is a singer,0.05,0.85,0.10
+116,Brent is not a comedian,Neither Brent nor Patricia is a comedian,0.13,0.71,0.16
+117,Patricia is not a comedian,Neither Brent nor Patricia is a comedian,0.08,0.77,0.15
+118,Joxer is not a swimmer,Neither Joxer nor Maggie is a swimmer,0.03,0.91,0.06
+119,Maggie is not a swimmer,Neither Joxer nor Maggie is a swimmer,0.25,0.44,0.31
+120,Eddie is not a dancer,Neither Eddie nor Janet is a dancer,0.18,0.74,0.08
+121,Janet is not a dancer,Neither Eddie nor Janet is a dancer,0.13,0.74,0.13
+122,Adam is not a secretary,Neither Adam nor Martha is a secretary,0.11,0.80,0.10
+123,Martha is not a secretary,Neither Adam nor Martha is a secretary,0.08,0.74,0.18
+124,Robert is not a supervisor,Neither Robert nor Joan is a supervisor,0.09,0.82,0.09
+125,Joan is not a supervisor,Neither Robert nor Joan is a supervisor,0.06,0.83,0.11
+126,Shane is not a magician,Neither Shane nor Wendy is a magician,0.09,0.83,0.08
+127,Wendy is not a magician,Neither Shane nor Wendy is a magician,0.13,0.76,0.11
+128,Dave is not a chess player,Neither Dave nor Katie is a chess player,0.04,0.89,0.07
+129,Katie is not a chess player,Neither Dave nor Katie is a chess player,0.05,0.86,0.09
+130,Trevon is not a handball player,Neither Trevon nor Sherry is a handball player,0.17,0.73,0.10
+131,Sherry is not a handball player,Neither Trevon nor Sherry is a handball player,0.16,0.63,0.20
+132,Julius is not a producer,Neither Julius nor Lena is a producer,0.11,0.80,0.09
+133,Lena is not a producer,Neither Julius nor Lena is a producer,0.09,0.72,0.19
+134,Kenny is not a bartender,Neither Kenny nor Melissa is a bartender,0.07,0.82,0.11
+135,Melissa is not a bartender,Neither Kenny nor Melissa is a bartender,0.06,0.74,0.19
+136,Aaron is not a butcher,Neither Aaron nor Tasha is a butcher,0.15,0.79,0.06
+137,Tasha is not a butcher,Neither Aaron nor Tasha is a butcher,0.05,0.82,0.14
+138,Bob is not a magician,Neither Bob nor Ashley is a magician,0.06,0.90,0.04
+139,Ashley is not a magician,Neither Bob nor Ashley is a magician,0.05,0.82,0.12
+140,Stewart is not a politician,Neither Stewart nor Ruby is a politician,0.04,0.90,0.06
+141,Ruby is not a politician,Neither Stewart nor Ruby is a politician,0.03,0.89,0.08
+142,George is not an office worker,Neither George nor Tessa is an office worker,0.13,0.82,0.05
+143,Tessa is not an office worker,Neither George nor Tessa is an office worker,0.06,0.85,0.10
+144,Jeremy is not a landlord,Neither Jeremy nor Lea is a landlord,0.27,0.66,0.07
+145,Lea is not a landlord,Neither Jeremy nor Lea is a landlord,0.05,0.82,0.13
+146,Anse is not an umpire,Neither Anse nor Veronica is an umpire,0.06,0.83,0.11
+147,Veronica is not an umpire,Neither Anse nor Veronica is an umpire,0.39,0.37,0.24
+148,Jacques is not an auditor,Neither Jacques nor Maggie is an auditor,0.05,0.86,0.09
+149,Maggie is not an auditor,Neither Jacques nor Maggie is an auditor,0.09,0.74,0.17
+150,Malcolm is not an employee,Neither Malcolm nor Monique is an employee,0.21,0.67,0.12
+151,Monique is not an employee,Neither Malcolm nor Monique is an employee,0.09,0.68,0.23
+152,Lawrence is not a bartender,Neither Lawrence nor Carla is a bartender,0.15,0.79,0.06
+153,Carla is not a bartender,Neither Lawrence nor Carla is a bartender,0.06,0.76,0.18
+154,Lamar is not an administrator,Neither Lamar nor Susie is an administrator,0.20,0.72,0.08
+155,Susie is not an administrator,Neither Lamar nor Susie is an administrator,0.05,0.83,0.12
+156,Wesley is not a chemist,Neither Wesley nor Jessica's is a chemist,0.09,0.84,0.08
+157,Jessica's is not a chemist,Neither Wesley nor Jessica's is a chemist,0.09,0.80,0.11
+158,Lance is not a mechanic,Neither Lance nor Kate is a mechanic,0.04,0.91,0.05
+159,Kate is not a mechanic,Neither Lance nor Kate is a mechanic,0.06,0.84,0.10
+160,Tom is not a farmer,Neither Tom nor Nina is a farmer,0.11,0.80,0.09
+161,Nina is not a farmer,Neither Tom nor Nina is a farmer,0.05,0.83,0.11
+162,Brady is not a swimmer,Neither Brady nor Maya is a swimmer,0.06,0.86,0.08
+163,Maya is not a swimmer,Neither Brady nor Maya is a swimmer,0.08,0.76,0.16
+164,Jose is not a security guard,Neither Jose nor Jen is a security guard,0.08,0.82,0.09
+165,Jen is not a security guard,Neither Jose nor Jen is a security guard,0.06,0.76,0.18
+166,Cole is not a diplomat,Neither Cole nor Lena is a diplomat,0.20,0.72,0.08
+167,Lena is not a diplomat,Neither Cole nor Lena is a diplomat,0.07,0.86,0.07
+168,Terrance is not a builder,Neither Terrance nor Laquisha is a builder,0.19,0.71,0.10
+169,Laquisha is not a builder,Neither Terrance nor Laquisha is a builder,0.12,0.76,0.13
+170,Laquan is not a realtor,Neither Laquan nor Susan is a realtor,0.05,0.84,0.11
+171,Susan is not a realtor,Neither Laquan nor Susan is a realtor,0.36,0.39,0.25
+172,Wesley is not a professor,Neither Wesley nor Sue is a professor,0.10,0.78,0.12
+173,Sue is not a professor,Neither Wesley nor Sue is a professor,0.13,0.65,0.22
+174,Josh is not a composer,Neither Josh nor Priya is a composer,0.17,0.74,0.09
+175,Priya is not a composer,Neither Josh nor Priya is a composer,0.06,0.74,0.20
+176,LeBron is not a sociologist,Neither LeBron nor Jane is a sociologist,0.08,0.79,0.13
+177,Jane is not a sociologist,Neither LeBron nor Jane is a sociologist,0.02,0.90,0.08
+178,Drew is not a foster parent,Neither Drew nor Ellen is a foster parent,0.06,0.83,0.11
+179,Ellen is not a foster parent,Neither Drew nor Ellen is a foster parent,0.08,0.80,0.12
+180,Sudeep is not a pilot,Neither Sudeep nor Kristy is a pilot,0.13,0.80,0.08
+181,Kristy is not a pilot,Neither Sudeep nor Kristy is a pilot,0.27,0.45,0.28
+182,Fred is not a chief,Neither Fred nor Ebony is a chief,0.21,0.65,0.13
+183,Ebony is not a chief,Neither Fred nor Ebony is a chief,0.16,0.56,0.28
+184,Tyler is not a broker,Neither Tyler nor Lou is a broker,0.12,0.80,0.08
+185,Lou is not a broker,Neither Tyler nor Lou is a broker,0.08,0.78,0.14
+186,Tammy is not an assistant,Neither Tammy nor Maya is an assistant,0.09,0.82,0.08
+187,Maya is not an assistant,Neither Tammy nor Maya is an assistant,0.10,0.56,0.33
+188,Brent is not a broker,Neither Brent nor Kacey is a broker,0.15,0.74,0.12
+189,Kacey is not a broker,Neither Brent nor Kacey is a broker,0.10,0.72,0.18
+190,Mathew is not an office worker,Neither Mathew nor Tina is an office worker,0.07,0.88,0.05
+191,Tina is not an office worker,Neither Mathew nor Tina is an office worker,0.32,0.49,0.18
+192,Jose is not a receptionist,Neither Jose nor Beyonce is a receptionist,0.02,0.93,0.04
+193,Beyonce is not a receptionist,Neither Jose nor Beyonce is a receptionist,0.07,0.72,0.21
+194,Marquis is not a software engineer,Neither Marquis nor Tina is a software engineer,0.04,0.89,0.07
+195,Tina is not a software engineer,Neither Marquis nor Tina is a software engineer,0.27,0.52,0.21
+196,Manuel is not a commander,Neither Manuel nor Cathy is a commander,0.06,0.86,0.08
+197,Cathy is not a commander,Neither Manuel nor Cathy is a commander,0.10,0.70,0.20
+198,Benjamin is not an aeronautical engineer,Neither Benjamin nor Kathy is an aeronautical engineer,0.05,0.89,0.07
+199,Kathy is not an aeronautical engineer,Neither Benjamin nor Kathy is an aeronautical engineer,0.09,0.70,0.21
