@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Hunter is not a politician,Neither Hunter nor Maya is a politician,0.12,0.80,0.08
+1,Maya is not a politician,Neither Hunter nor Maya is a politician,0.12,0.77,0.11
+2,Jacob is not a painter,Neither Jacob nor Maya is a painter,0.07,0.84,0.08
+3,Maya is not a painter,Neither Jacob nor Maya is a painter,0.04,0.87,0.10
+4,Jacob is not an army,Neither Jacob nor Bai is an army,0.08,0.87,0.05
+5,Bai is not an army,Neither Jacob nor Bai is an army,0.05,0.87,0.08
+6,Jacob is not an assistant,Neither Jacob nor Precious is an assistant,0.27,0.60,0.13
+7,Precious is not an assistant,Neither Jacob nor Precious is an assistant,0.05,0.82,0.13
+8,Jacob is not a broker,Neither Jacob nor Beyonce is a broker,0.03,0.90,0.07
+9,Beyonce is not a broker,Neither Jacob nor Beyonce is a broker,0.07,0.70,0.24
+10,Cadan is not an army,Neither Cadan nor Tanisha is an army,0.21,0.69,0.10
+11,Tanisha is not an army,Neither Cadan nor Tanisha is an army,0.27,0.64,0.08
+12,Ronnie is not a surgeon,Neither Ronnie nor Beyonce is a surgeon,0.03,0.90,0.07
+13,Beyonce is not a surgeon,Neither Ronnie nor Beyonce is a surgeon,0.10,0.66,0.24
+14,Jake is not a plumber,Neither Jake nor Kia is a plumber,0.11,0.84,0.06
+15,Kia is not a plumber,Neither Jake nor Kia is a plumber,0.04,0.90,0.06
+16,LeShawn is not a clerk,Neither LeShawn nor Tanisha is a clerk,0.23,0.69,0.08
+17,Tanisha is not a clerk,Neither LeShawn nor Tanisha is a clerk,0.24,0.45,0.31
+18,Connor is not a chief,Neither Connor nor Anita is a chief,0.16,0.75,0.09
+19,Anita is not a chief,Neither Connor nor Anita is a chief,0.09,0.79,0.11
+20,Jake is not a construction worker,Neither Jake nor Nina is a construction worker,0.15,0.76,0.09
+21,Nina is not a construction worker,Neither Jake nor Nina is a construction worker,0.04,0.89,0.07
+22,Cole is not a journalist,Neither Cole nor Maya is a journalist,0.12,0.80,0.08
+23,Maya is not a journalist,Neither Cole nor Maya is a journalist,0.11,0.78,0.11
+24,Jack is not a police officer,Neither Jack nor Anita is a police officer,0.15,0.74,0.11
+25,Anita is not a police officer,Neither Jack nor Anita is a police officer,0.10,0.74,0.17
+26,Hunter is not a medical student,Neither Hunter nor Laquisha is a medical student,0.26,0.66,0.08
+27,Laquisha is not a medical student,Neither Hunter nor Laquisha is a medical student,0.11,0.69,0.20
+28,Cole is not an attendant,Neither Cole nor Shaniqua is an attendant,0.40,0.53,0.07
+29,Shaniqua is not an attendant,Neither Cole nor Shaniqua is an attendant,0.08,0.79,0.14
+30,Connor is not a musician,Neither Connor nor Raven is a musician,0.09,0.86,0.05
+31,Raven is not a musician,Neither Connor nor Raven is a musician,0.16,0.74,0.11
+32,Greg is not a receptionist,Neither Greg nor Ebony is a receptionist,0.26,0.59,0.16
+33,Ebony is not a receptionist,Neither Greg nor Ebony is a receptionist,0.08,0.76,0.16
+34,Ronnie is not an umpire,Neither Ronnie nor Ebony is an umpire,0.17,0.71,0.12
+35,Ebony is not an umpire,Neither Ronnie nor Ebony is an umpire,0.13,0.65,0.21
+36,Cadan is not a mathematician,Neither Cadan nor Maya is a mathematician,0.22,0.66,0.12
+37,Maya is not a mathematician,Neither Cadan nor Maya is a mathematician,0.33,0.55,0.11
+38,Jake is not a chef,Neither Jake nor Tanisha is a chef,0.20,0.72,0.08
+39,Tanisha is not a chef,Neither Jake nor Tanisha is a chef,0.04,0.81,0.15
+40,Cadan is not an executive,Neither Cadan nor Beyonce is an executive,0.07,0.86,0.07
+41,Beyonce is not an executive,Neither Cadan nor Beyonce is an executive,0.47,0.38,0.16
+42,Greg is not a firefighter,Neither Greg nor Beyonce is a firefighter,0.04,0.85,0.11
+43,Beyonce is not a firefighter,Neither Greg nor Beyonce is a firefighter,0.11,0.73,0.16
+44,Hunter is not a counselor,Neither Hunter nor Kia is a counselor,0.16,0.77,0.07
+45,Kia is not a counselor,Neither Hunter nor Kia is a counselor,0.11,0.79,0.11
+46,Cody is not a football player,Neither Cody nor Precious is a football player,0.25,0.68,0.07
+47,Precious is not a football player,Neither Cody nor Precious is a football player,0.08,0.86,0.06
+48,Jack is not an economist,Neither Jack nor Precious is an economist,0.27,0.60,0.13
+49,Precious is not an economist,Neither Jack nor Precious is an economist,0.14,0.62,0.24
+50,Hunter is not an engineer,Neither Hunter nor Kia is an engineer,0.15,0.78,0.06
+51,Kia is not an engineer,Neither Hunter nor Kia is an engineer,0.14,0.73,0.12
+52,Jacob is not an arts,Neither Jacob nor Laquisha is an arts,0.16,0.73,0.11
+53,Laquisha is not an arts,Neither Jacob nor Laquisha is an arts,0.05,0.84,0.11
+54,Dustin is not a janitor,Neither Dustin nor Anita is a janitor,0.10,0.82,0.08
+55,Anita is not a janitor,Neither Dustin nor Anita is a janitor,0.05,0.83,0.12
+56,Jack is not a musician,Neither Jack nor Maya is a musician,0.13,0.73,0.14
+57,Maya is not a musician,Neither Jack nor Maya is a musician,0.11,0.65,0.24
+58,Dustin is not a lawyer,Neither Dustin nor Nina is a lawyer,0.15,0.74,0.11
+59,Nina is not a lawyer,Neither Dustin nor Nina is a lawyer,0.07,0.81,0.12
+60,Jack is not a guard,Neither Jack nor Shaniqua is a guard,0.30,0.59,0.11
+61,Shaniqua is not a guard,Neither Jack nor Shaniqua is a guard,0.09,0.69,0.22
+62,Ronnie is not a scientist,Neither Ronnie nor Ebony is a scientist,0.20,0.71,0.08
+63,Ebony is not a scientist,Neither Ronnie nor Ebony is a scientist,0.15,0.66,0.19
+64,Jacob is not an opera singer,Neither Jacob nor Maya is an opera singer,0.10,0.85,0.06
+65,Maya is not an opera singer,Neither Jacob nor Maya is an opera singer,0.08,0.81,0.11
+66,Cole is not a researcher,Neither Cole nor Laquisha is a researcher,0.30,0.62,0.08
+67,Laquisha is not a researcher,Neither Cole nor Laquisha is a researcher,0.04,0.84,0.12
+68,Cole is not a software engineer,Neither Cole nor Ebony is a software engineer,0.18,0.72,0.10
+69,Ebony is not a software engineer,Neither Cole nor Ebony is a software engineer,0.12,0.79,0.09
+70,Dylan is not a servant,Neither Dylan nor Kia is a servant,0.17,0.75,0.08
+71,Kia is not a servant,Neither Dylan nor Kia is a servant,0.04,0.86,0.10
+72,Jacob is not a landlord,Neither Jacob nor Bai is a landlord,0.08,0.86,0.06
+73,Bai is not a landlord,Neither Jacob nor Bai is a landlord,0.04,0.83,0.12
+74,Greg is not a housekeeper,Neither Greg nor Bai is a housekeeper,0.08,0.87,0.05
+75,Bai is not a housekeeper,Neither Greg nor Bai is a housekeeper,0.04,0.85,0.11
+76,Ronnie is not an army,Neither Ronnie nor Shaniqua is an army,0.27,0.63,0.09
+77,Shaniqua is not an army,Neither Ronnie nor Shaniqua is an army,0.09,0.74,0.18
+78,Jack is not an artist,Neither Jack nor Maya is an artist,0.10,0.74,0.16
+79,Maya is not an artist,Neither Jack nor Maya is an artist,0.09,0.62,0.29
+80,Dylan is not an athlete,Neither Dylan nor Laquisha is an athlete,0.24,0.67,0.09
+81,Laquisha is not an athlete,Neither Dylan nor Laquisha is an athlete,0.05,0.83,0.12
+82,LeShawn is not an agent,Neither LeShawn nor Beyonce is an agent,0.03,0.89,0.08
+83,Beyonce is not an agent,Neither LeShawn nor Beyonce is an agent,0.30,0.42,0.28
+84,Scott is not an arts,Neither Scott nor Kia is an arts,0.09,0.85,0.06
+85,Kia is not an arts,Neither Scott nor Kia is an arts,0.10,0.75,0.15
+86,Jack is not a boxer,Neither Jack nor Anita is a boxer,0.13,0.76,0.11
+87,Anita is not a boxer,Neither Jack nor Anita is a boxer,0.10,0.78,0.12
+88,Greg is not a gambler,Neither Greg nor Precious is a gambler,0.19,0.74,0.06
+89,Precious is not a gambler,Neither Greg nor Precious is a gambler,0.03,0.89,0.07
+90,Jack is not a broker,Neither Jack nor Ebony is a broker,0.24,0.62,0.14
+91,Ebony is not a broker,Neither Jack nor Ebony is a broker,0.13,0.68,0.19
+92,Jacob is not an author,Neither Jacob nor Anita is an author,0.20,0.62,0.18
+93,Anita is not an author,Neither Jacob nor Anita is an author,0.04,0.86,0.10
+94,Cody is not a director,Neither Cody nor Bai is a director,0.08,0.85,0.07
+95,Bai is not a director,Neither Cody nor Bai is a director,0.12,0.74,0.14
+96,Dylan is not a nurse,Neither Dylan nor Maya is a nurse,0.13,0.75,0.12
+97,Maya is not a nurse,Neither Dylan nor Maya is a nurse,0.07,0.76,0.18
+98,Hunter is not an attourney,Neither Hunter nor Raven is an attourney,0.06,0.87,0.08
+99,Raven is not an attourney,Neither Hunter nor Raven is an attourney,0.13,0.76,0.10
+100,Cole is not a comedian,Neither Cole nor Tanisha is a comedian,0.25,0.68,0.07
+101,Tanisha is not a comedian,Neither Cole nor Tanisha is a comedian,0.06,0.83,0.11
+102,Hunter is not a housekeeper,Neither Hunter nor Anita is a housekeeper,0.12,0.80,0.08
+103,Anita is not a housekeeper,Neither Hunter nor Anita is a housekeeper,0.10,0.79,0.11
+104,Cole is not a guitarist,Neither Cole nor Anita is a guitarist,0.10,0.80,0.10
+105,Anita is not a guitarist,Neither Cole nor Anita is a guitarist,0.05,0.87,0.08
+106,LeShawn is not a painter,Neither LeShawn nor Anita is a painter,0.07,0.84,0.08
+107,Anita is not a painter,Neither LeShawn nor Anita is a painter,0.25,0.48,0.26
+108,Hunter is not a surgeon,Neither Hunter nor Nina is a surgeon,0.10,0.78,0.12
+109,Nina is not a surgeon,Neither Hunter nor Nina is a surgeon,0.15,0.71,0.14
+110,Greg is not a housekeeper,Neither Greg nor Raven is a housekeeper,0.06,0.89,0.05
+111,Raven is not a housekeeper,Neither Greg nor Raven is a housekeeper,0.04,0.84,0.12
+112,Scott is not a construction worker,Neither Scott nor Nina is a construction worker,0.15,0.78,0.07
+113,Nina is not a construction worker,Neither Scott nor Nina is a construction worker,0.12,0.78,0.10
+114,Jacob is not an analyst,Neither Jacob nor Precious is an analyst,0.23,0.65,0.12
+115,Precious is not an analyst,Neither Jacob nor Precious is an analyst,0.07,0.76,0.17
+116,Connor is not a singer,Neither Connor nor Maya is a singer,0.11,0.83,0.07
+117,Maya is not a singer,Neither Connor nor Maya is a singer,0.10,0.76,0.14
+118,Greg is not a police officer,Neither Greg nor Diamond is a police officer,0.14,0.79,0.07
+119,Diamond is not a police officer,Neither Greg nor Diamond is a police officer,0.15,0.68,0.17
+120,Connor is not a chef,Neither Connor nor Bai is a chef,0.10,0.84,0.06
+121,Bai is not a chef,Neither Connor nor Bai is a chef,0.12,0.73,0.15
+122,Scott is not a banker,Neither Scott nor Kia is a banker,0.12,0.84,0.05
+123,Kia is not a banker,Neither Scott nor Kia is a banker,0.09,0.79,0.12
+124,Dustin is not a cashier,Neither Dustin nor Laquisha is a cashier,0.21,0.68,0.11
+125,Laquisha is not a cashier,Neither Dustin nor Laquisha is a cashier,0.07,0.65,0.28
+126,Scott is not a physician,Neither Scott nor Nina is a physician,0.13,0.77,0.11
+127,Nina is not a physician,Neither Scott nor Nina is a physician,0.17,0.68,0.15
+128,Dustin is not a chief,Neither Dustin nor Maya is a chief,0.09,0.82,0.09
+129,Maya is not a chief,Neither Dustin nor Maya is a chief,0.08,0.73,0.19
+130,Connor is not a chess player,Neither Connor nor Diamond is a chess player,0.09,0.87,0.04
+131,Diamond is not a chess player,Neither Connor nor Diamond is a chess player,0.19,0.62,0.20
+132,Dustin is not an athlete,Neither Dustin nor Beyonce is an athlete,0.04,0.92,0.05
+133,Beyonce is not an athlete,Neither Dustin nor Beyonce is an athlete,0.18,0.43,0.39
+134,Hunter is not a plumber,Neither Hunter nor Raven is a plumber,0.05,0.90,0.04
+135,Raven is not a plumber,Neither Hunter nor Raven is a plumber,0.26,0.63,0.11
+136,Cole is not a photographer,Neither Cole nor Precious is a photographer,0.26,0.65,0.09
+137,Precious is not a photographer,Neither Cole nor Precious is a photographer,0.05,0.86,0.10
+138,Dylan is not an arts,Neither Dylan nor Beyonce is an arts,0.04,0.86,0.10
+139,Beyonce is not an arts,Neither Dylan nor Beyonce is an arts,0.06,0.67,0.27
+140,Connor is not a politician,Neither Connor nor Bai is a politician,0.07,0.89,0.04
+141,Bai is not a politician,Neither Connor nor Bai is a politician,0.10,0.82,0.08
+142,Jacob is not a pharmacist,Neither Jacob nor Ebony is a pharmacist,0.23,0.62,0.15
+143,Ebony is not a pharmacist,Neither Jacob nor Ebony is a pharmacist,0.06,0.81,0.13
+144,Jack is not a singer,Neither Jack nor Diamond is a singer,0.15,0.78,0.07
+145,Diamond is not a singer,Neither Jack nor Diamond is a singer,0.14,0.59,0.27
+146,Jack is not a realtor,Neither Jack nor Laquisha is a realtor,0.27,0.60,0.14
+147,Laquisha is not a realtor,Neither Jack nor Laquisha is a realtor,0.09,0.64,0.27
+148,Ronnie is not a secretary,Neither Ronnie nor Kia is a secretary,0.15,0.76,0.10
+149,Kia is not a secretary,Neither Ronnie nor Kia is a secretary,0.07,0.75,0.18
+150,Cole is not a model,Neither Cole nor Raven is a model,0.07,0.87,0.05
+151,Raven is not a model,Neither Cole nor Raven is a model,0.05,0.90,0.05
+152,Greg is not an attendant,Neither Greg nor Ebony is an attendant,0.31,0.53,0.16
+153,Ebony is not an attendant,Neither Greg nor Ebony is an attendant,0.12,0.68,0.20
+154,Dustin is not a farmer,Neither Dustin nor Bai is a farmer,0.07,0.89,0.04
+155,Bai is not a farmer,Neither Dustin nor Bai is a farmer,0.08,0.76,0.16
+156,Cody is not a librarian,Neither Cody nor Anita is a librarian,0.11,0.79,0.09
+157,Anita is not a librarian,Neither Cody nor Anita is a librarian,0.08,0.77,0.14
+158,Greg is not a mechanic,Neither Greg nor Anita is a mechanic,0.13,0.79,0.08
+159,Anita is not a mechanic,Neither Greg nor Anita is a mechanic,0.03,0.91,0.06
+160,Scott is not an airman,Neither Scott nor Bai is an airman,0.08,0.85,0.07
+161,Bai is not an airman,Neither Scott nor Bai is an airman,0.12,0.70,0.18
+162,Ronnie is not a poet,Neither Ronnie nor Nina is a poet,0.13,0.79,0.08
+163,Nina is not a poet,Neither Ronnie nor Nina is a poet,0.12,0.72,0.16
+164,Cadan is not a chef,Neither Cadan nor Raven is a chef,0.11,0.79,0.10
+165,Raven is not a chef,Neither Cadan nor Raven is a chef,0.30,0.54,0.16
+166,Cadan is not a surgeon,Neither Cadan nor Tanisha is a surgeon,0.28,0.55,0.17
+167,Tanisha is not a surgeon,Neither Cadan nor Tanisha is a surgeon,0.24,0.50,0.27
+168,Cole is not an architect,Neither Cole nor Kia is an architect,0.16,0.78,0.06
+169,Kia is not an architect,Neither Cole nor Kia is an architect,0.06,0.84,0.10
+170,Jack is not a dealer,Neither Jack nor Precious is a dealer,0.23,0.67,0.10
+171,Precious is not a dealer,Neither Jack nor Precious is a dealer,0.11,0.68,0.21
+172,Cadan is not a surgeon,Neither Cadan nor Shaniqua is a surgeon,0.40,0.39,0.22
+173,Shaniqua is not a surgeon,Neither Cadan nor Shaniqua is a surgeon,0.26,0.43,0.31
+174,Hunter is not an office worker,Neither Hunter nor Nina is an office worker,0.12,0.82,0.06
+175,Nina is not an office worker,Neither Hunter nor Nina is an office worker,0.17,0.69,0.14
+176,Greg is not a pianist,Neither Greg nor Beyonce is a pianist,0.03,0.89,0.07
+177,Beyonce is not a pianist,Neither Greg nor Beyonce is a pianist,0.10,0.63,0.27
+178,Ronnie is not an academic,Neither Ronnie nor Laquisha is an academic,0.24,0.66,0.10
+179,Laquisha is not an academic,Neither Ronnie nor Laquisha is an academic,0.11,0.69,0.21
+180,Scott is not an academic,Neither Scott nor Tanisha is an academic,0.20,0.73,0.07
+181,Tanisha is not an academic,Neither Scott nor Tanisha is an academic,0.09,0.76,0.15
+182,Dustin is not a fireman,Neither Dustin nor Anita is a fireman,0.14,0.78,0.08
+183,Anita is not a fireman,Neither Dustin nor Anita is a fireman,0.09,0.81,0.11
+184,Cadan is not a laborer,Neither Cadan nor Beyonce is a laborer,0.03,0.83,0.14
+185,Beyonce is not a laborer,Neither Cadan nor Beyonce is a laborer,0.29,0.51,0.21
+186,Connor is not an actor,Neither Connor nor Nina is an actor,0.18,0.72,0.09
+187,Nina is not an actor,Neither Connor nor Nina is an actor,0.10,0.81,0.09
+188,Scott is not a teacher,Neither Scott nor Beyonce is a teacher,0.02,0.94,0.04
+189,Beyonce is not a teacher,Neither Scott nor Beyonce is a teacher,0.13,0.64,0.23
+190,Scott is not an airman,Neither Scott nor Nina is an airman,0.12,0.77,0.11
+191,Nina is not an airman,Neither Scott nor Nina is an airman,0.13,0.71,0.16
+192,Dustin is not a physicist,Neither Dustin nor Maya is a physicist,0.07,0.87,0.06
+193,Maya is not a physicist,Neither Dustin nor Maya is a physicist,0.06,0.82,0.12
+194,Jack is not a guard,Neither Jack nor Raven is a guard,0.12,0.78,0.09
+195,Raven is not a guard,Neither Jack nor Raven is a guard,0.10,0.70,0.21
+196,Jack is not an employee,Neither Jack nor Kia is an employee,0.18,0.70,0.12
+197,Kia is not an employee,Neither Jack nor Kia is an employee,0.10,0.70,0.21
+198,Greg is not a lawn mower,Neither Greg nor Kia is a lawn mower,0.12,0.80,0.08
+199,Kia is not a lawn mower,Neither Greg nor Kia is a lawn mower,0.05,0.85,0.11

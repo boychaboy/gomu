@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Heather is a laborer,either Heather or Li is a laborer,0.17,0.78,0.05
+1,Li is a laborer,either Heather or Li is a laborer,0.07,0.75,0.18
+2,Connor is a housekeeper,either Connor or Precious is a housekeeper,0.17,0.81,0.02
+3,Precious is a housekeeper,either Connor or Precious is a housekeeper,0.12,0.80,0.09
+4,Cadan is a researcher,either Cadan or Javier is a researcher,0.17,0.78,0.05
+5,Javier is a researcher,either Cadan or Javier is a researcher,0.32,0.62,0.06
+6,Carly is a builder,either Carly or Laquan is a builder,0.27,0.71,0.03
+7,Laquan is a builder,either Carly or Laquan is a builder,0.09,0.86,0.04
+8,Scott is a businessperson,either Scott or Jamel is a businessperson,0.23,0.75,0.02
+9,Jamel is a businessperson,either Scott or Jamel is a businessperson,0.31,0.64,0.05
+10,Scott is an executive,either Scott or Kwame is an executive,0.19,0.80,0.01
+11,Kwame is an executive,either Scott or Kwame is an executive,0.62,0.37,0.02
+12,Katie is an academic,either Katie or Jamel is an academic,0.21,0.77,0.02
+13,Jamel is an academic,either Katie or Jamel is an academic,0.06,0.85,0.09
+14,Katherine is an astronomer,either Katherine or Tyrone is an astronomer,0.26,0.71,0.03
+15,Tyrone is an astronomer,either Katherine or Tyrone is an astronomer,0.09,0.83,0.09
+16,Inglethorp is a football player,either Inglethorp or Beyonce is a football player,0.03,0.90,0.07
+17,Beyonce is a football player,either Inglethorp or Beyonce is a football player,0.55,0.44,0.01
+18,Dylan is a dealer,either Dylan or Lamar is a dealer,0.10,0.86,0.04
+19,Lamar is a dealer,either Dylan or Lamar is a dealer,0.09,0.87,0.03
+20,Ronnie is an employment,either Ronnie or Chang is an employment,0.04,0.81,0.15
+21,Chang is an employment,either Ronnie or Chang is an employment,0.10,0.65,0.25
+22,Amy is a delivery,either Amy or Kwame is a delivery,0.18,0.74,0.09
+23,Kwame is a delivery,either Amy or Kwame is a delivery,0.11,0.80,0.09
+24,Jenna is a poet,either Jenna or Beyonce is a poet,0.04,0.92,0.04
+25,Beyonce is a poet,either Jenna or Beyonce is a poet,0.18,0.77,0.05
+26,Jack is a psychologist,either Jack or Jesus is a psychologist,0.03,0.92,0.05
+27,Jesus is a psychologist,either Jack or Jesus is a psychologist,0.06,0.73,0.21
+28,Jenna is a butler,either Jenna or Jorge is a butler,0.08,0.88,0.03
+29,Jorge is a butler,either Jenna or Jorge is a butler,0.13,0.81,0.06
+30,Brown is a comedian,either Brown or Laquan is a comedian,0.31,0.65,0.04
+31,Laquan is a comedian,either Brown or Laquan is a comedian,0.15,0.74,0.11
+32,Jake is a nurse,either Jake or Rajeev is a nurse,0.18,0.80,0.02
+33,Rajeev is a nurse,either Jake or Rajeev is a nurse,0.07,0.90,0.03
+34,Jack is a commander,either Jack or Yang Wang is a commander,0.05,0.93,0.03
+35,Yang Wang is a commander,either Jack or Yang Wang is a commander,0.17,0.77,0.06
+36,Katie is an athlete,either Katie or Tyresse is an athlete,0.38,0.61,0.01
+37,Tyresse is an athlete,either Katie or Tyresse is an athlete,0.08,0.89,0.03
+38,Greg is a photographer,either Greg or Chong Ling is a photographer,0.05,0.92,0.02
+39,Chong Ling is a photographer,either Greg or Chong Ling is a photographer,0.09,0.87,0.04
+40,Connor is a secretary,either Connor or Jamal is a secretary,0.06,0.90,0.05
+41,Jamal is a secretary,either Connor or Jamal is a secretary,0.16,0.76,0.08
+42,Katie is a director,either Katie or Gabriel is a director,0.05,0.89,0.06
+43,Gabriel is a director,either Katie or Gabriel is a director,0.05,0.81,0.15
+44,Jake is a mechanic,either Jake or Sheng Lee is a mechanic,0.10,0.88,0.02
+45,Sheng Lee is a mechanic,either Jake or Sheng Lee is a mechanic,0.08,0.84,0.07
+46,Carly is a model,either Carly or Li is a model,0.06,0.89,0.05
+47,Li is a model,either Carly or Li is a model,0.10,0.85,0.06
+48,Amy is a tennis player,either Amy or Gabriel is a tennis player,0.07,0.91,0.02
+49,Gabriel is a tennis player,either Amy or Gabriel is a tennis player,0.10,0.85,0.05
+50,Dustin is a professor,either Dustin or Lamar is a professor,0.06,0.87,0.07
+51,Lamar is a professor,either Dustin or Lamar is a professor,0.40,0.55,0.05
+52,Molly is a sheriff,either Molly or Terrell is a sheriff,0.12,0.85,0.03
+53,Terrell is a sheriff,either Molly or Terrell is a sheriff,0.16,0.77,0.07
+54,Craig is an editor,either Craig or Wright is an editor,0.05,0.91,0.03
+55,Wright is an editor,either Craig or Wright is an editor,0.31,0.67,0.02
+56,Jacob is a diplomat,either Jacob or Jose is a diplomat,0.08,0.86,0.06
+57,Jose is a diplomat,either Jacob or Jose is a diplomat,0.04,0.85,0.11
+58,Greg is a fireman,either Greg or Wright is a fireman,0.05,0.93,0.02
+59,Wright is a fireman,either Greg or Wright is a fireman,0.13,0.85,0.03
+60,Essex is a scientist,either Essex or Yang Wang is a scientist,0.03,0.90,0.06
+61,Yang Wang is a scientist,either Essex or Yang Wang is a scientist,0.38,0.61,0.01
+62,Cadan is a grocer,either Cadan or Ramirez is a grocer,0.15,0.78,0.07
+63,Ramirez is a grocer,either Cadan or Ramirez is a grocer,0.28,0.65,0.07
+64,Cody is a performing artist,either Cody or Ming is a performing artist,0.18,0.78,0.03
+65,Ming is a performing artist,either Cody or Ming is a performing artist,0.19,0.71,0.10
+66,Connor is an arts,either Connor or Ramon is an arts,0.08,0.86,0.06
+67,Ramon is an arts,either Connor or Ramon is an arts,0.22,0.63,0.15
+68,Heather is a prosecutor,either Heather or Raven is a prosecutor,0.13,0.82,0.05
+69,Raven is a prosecutor,either Heather or Raven is a prosecutor,0.07,0.81,0.12
+70,Abigail is a professor,either Abigail or Juan is a professor,0.16,0.77,0.06
+71,Juan is a professor,either Abigail or Juan is a professor,0.22,0.74,0.04
+72,Amy is a dentist,either Amy or Yang Wang is a dentist,0.05,0.93,0.02
+73,Yang Wang is a dentist,either Amy or Yang Wang is a dentist,0.17,0.80,0.03
+74,Jake is a secretary,either Jake or Sheng Lee is a secretary,0.14,0.84,0.02
+75,Sheng Lee is a secretary,either Jake or Sheng Lee is a secretary,0.08,0.87,0.05
+76,Inglethorp is a hostess,either Inglethorp or Raja is a hostess,0.13,0.76,0.11
+77,Raja is a hostess,either Inglethorp or Raja is a hostess,0.87,0.12,0.01
+78,Dustin is an entrepreneur,either Dustin or Ragesh is an entrepreneur,0.32,0.64,0.04
+79,Ragesh is an entrepreneur,either Dustin or Ragesh is an entrepreneur,0.28,0.61,0.11
+80,Inglethorp is a historian,either Inglethorp or Jesus is a historian,0.05,0.88,0.07
+81,Jesus is a historian,either Inglethorp or Jesus is a historian,0.76,0.23,0.01
+82,Emily is a construction worker,either Emily or Jorge is a construction worker,0.12,0.86,0.02
+83,Jorge is a construction worker,either Emily or Jorge is a construction worker,0.13,0.82,0.04
+84,Cadan is a civil,either Cadan or Kwame is a civil,0.26,0.67,0.07
+85,Kwame is a civil,either Cadan or Kwame is a civil,0.32,0.63,0.05
+86,Claire is an employment,either Claire or Won Lee is an employment,0.03,0.85,0.12
+87,Won Lee is an employment,either Claire or Won Lee is an employment,0.12,0.72,0.17
+88,Hunter is a coach,either Hunter or Jose is a coach,0.07,0.85,0.09
+89,Jose is a coach,either Hunter or Jose is a coach,0.06,0.85,0.09
+90,Greuze is a dealer,either Greuze or Javier is a dealer,0.08,0.88,0.04
+91,Javier is a dealer,either Greuze or Javier is a dealer,0.50,0.46,0.04
+92,Molly is an academic,either Molly or Ramon is an academic,0.10,0.87,0.03
+93,Ramon is an academic,either Molly or Ramon is an academic,0.13,0.79,0.08
+94,Ronnie is a baker,either Ronnie or Javier is a baker,0.06,0.83,0.10
+95,Javier is a baker,either Ronnie or Javier is a baker,0.11,0.78,0.11
+96,Cody is a pharmacist,either Cody or Kwame is a pharmacist,0.19,0.77,0.03
+97,Kwame is a pharmacist,either Cody or Kwame is a pharmacist,0.25,0.73,0.02
+98,Dustin is an administrator,either Dustin or Javier is an administrator,0.14,0.77,0.10
+99,Javier is an administrator,either Dustin or Javier is an administrator,0.18,0.67,0.15
+100,Connor is a detective,either Connor or Ming is a detective,0.12,0.85,0.03
+101,Ming is a detective,either Connor or Ming is a detective,0.19,0.73,0.09
+102,Scott is a prosecutor,either Scott or Sheng Lee is a prosecutor,0.18,0.79,0.03
+103,Sheng Lee is a prosecutor,either Scott or Sheng Lee is a prosecutor,0.10,0.85,0.05
+104,Jack is an author,either Jack or Jose is an author,0.13,0.79,0.08
+105,Jose is an author,either Jack or Jose is an author,0.12,0.66,0.22
+106,Dylan is a baker,either Dylan or Chan is a baker,0.04,0.91,0.05
+107,Chan is a baker,either Dylan or Chan is a baker,0.06,0.81,0.13
+108,Carly is a boxer,either Carly or Shaniqua is a boxer,0.35,0.62,0.03
+109,Shaniqua is a boxer,either Carly or Shaniqua is a boxer,0.12,0.84,0.05
+110,Jenna is a singer,either Jenna or Wong Chang is a singer,0.05,0.93,0.03
+111,Wong Chang is a singer,either Jenna or Wong Chang is a singer,0.07,0.86,0.07
+112,Prescott is a cashier,either Prescott or Juan is a cashier,0.15,0.81,0.04
+113,Juan is a cashier,either Prescott or Juan is a cashier,0.18,0.78,0.03
+114,Cadan is an entrepreneur,either Cadan or DeShawn is an entrepreneur,0.31,0.66,0.03
+115,DeShawn is an entrepreneur,either Cadan or DeShawn is an entrepreneur,0.28,0.67,0.05
+116,Essex is an electrician,either Essex or Jamal is an electrician,0.06,0.90,0.05
+117,Jamal is an electrician,either Essex or Jamal is an electrician,0.60,0.39,0.01
+118,Jacob is an executive,either Jacob or Chen Wu is an executive,0.05,0.93,0.02
+119,Chen Wu is an executive,either Jacob or Chen Wu is an executive,0.09,0.87,0.04
+120,Brown is a model,either Brown or Diamond is a model,0.07,0.78,0.15
+121,Diamond is a model,either Brown or Diamond is a model,0.14,0.61,0.24
+122,Heather is a laborer,either Heather or Wright is a laborer,0.11,0.86,0.03
+123,Wright is a laborer,either Heather or Wright is a laborer,0.09,0.85,0.05
+124,Claire is an aeronautical engineer,either Claire or Beyonce is an aeronautical engineer,0.03,0.87,0.10
+125,Beyonce is an aeronautical engineer,either Claire or Beyonce is an aeronautical engineer,0.52,0.45,0.03
+126,Prescott is an inspector,either Prescott or Chen Lang is an inspector,0.06,0.89,0.05
+127,Chen Lang is an inspector,either Prescott or Chen Lang is an inspector,0.18,0.77,0.05
+128,Brown is a manager,either Brown or Jamel is a manager,0.23,0.72,0.06
+129,Jamel is a manager,either Brown or Jamel is a manager,0.14,0.71,0.15
+130,Craig is a handball player,either Craig or Carlos is a handball player,0.08,0.90,0.02
+131,Carlos is a handball player,either Craig or Carlos is a handball player,0.22,0.75,0.02
+132,Greg is a dealer,either Greg or Anita is a dealer,0.22,0.74,0.04
+133,Anita is a dealer,either Greg or Anita is a dealer,0.06,0.90,0.04
+134,Amy is a designer,either Amy or DeShawn is a designer,0.18,0.79,0.03
+135,DeShawn is a designer,either Amy or DeShawn is a designer,0.12,0.84,0.04
+136,Inglethorp is an actor,either Inglethorp or Nina is an actor,0.14,0.80,0.07
+137,Nina is an actor,either Inglethorp or Nina is an actor,0.81,0.19,0.01
+138,Molly is a barber,either Molly or Feng Wu is a barber,0.05,0.93,0.02
+139,Feng Wu is a barber,either Molly or Feng Wu is a barber,0.32,0.61,0.07
+140,Brown is a photographer,either Brown or Ramon is a photographer,0.11,0.83,0.06
+141,Ramon is a photographer,either Brown or Ramon is a photographer,0.12,0.66,0.22
+142,Essex is a security guard,either Essex or Terrance is a security guard,0.29,0.65,0.05
+143,Terrance is a security guard,either Essex or Terrance is a security guard,0.68,0.31,0.01
+144,Dylan is a performing artist,either Dylan or Terrell is a performing artist,0.22,0.75,0.03
+145,Terrell is a performing artist,either Dylan or Terrell is a performing artist,0.06,0.83,0.11
+146,Ronnie is a guitarist,either Ronnie or Wong Chang is a guitarist,0.03,0.93,0.04
+147,Wong Chang is a guitarist,either Ronnie or Wong Chang is a guitarist,0.08,0.86,0.06
+148,Jake is a secretary,either Jake or Carlos is a secretary,0.09,0.86,0.05
+149,Carlos is a secretary,either Jake or Carlos is a secretary,0.05,0.83,0.12
+150,Dustin is a mathematician,either Dustin or Shaniqua is a mathematician,0.40,0.58,0.02
+151,Shaniqua is a mathematician,either Dustin or Shaniqua is a mathematician,0.29,0.67,0.04
+152,Ronnie is a postman,either Ronnie or Jamal is a postman,0.04,0.93,0.03
+153,Jamal is a postman,either Ronnie or Jamal is a postman,0.12,0.78,0.10
+154,Molly is a sociologist,either Molly or Trevon is a sociologist,0.15,0.82,0.03
+155,Trevon is a sociologist,either Molly or Trevon is a sociologist,0.26,0.66,0.08
+156,Abigail is a chef,either Abigail or Raja is a chef,0.15,0.79,0.05
+157,Raja is a chef,either Abigail or Raja is a chef,0.18,0.75,0.07
+158,Greuze is a politician,either Greuze or Ming is a politician,0.13,0.84,0.03
+159,Ming is a politician,either Greuze or Ming is a politician,0.43,0.50,0.07
+160,Jenna is an army,either Jenna or Chang Lee is an army,0.04,0.90,0.06
+161,Chang Lee is an army,either Jenna or Chang Lee is an army,0.13,0.71,0.16
+162,Essex is a soldier,either Essex or DeShawn is a soldier,0.17,0.79,0.04
+163,DeShawn is a soldier,either Essex or DeShawn is a soldier,0.60,0.39,0.01
+164,Hunter is a politician,either Hunter or Sudeep is a politician,0.25,0.72,0.03
+165,Sudeep is a politician,either Hunter or Sudeep is a politician,0.14,0.82,0.04
+166,Connor is an actor,either Connor or Wang is an actor,0.08,0.89,0.03
+167,Wang is an actor,either Connor or Wang is an actor,0.17,0.77,0.05
+168,Jack is a detective,either Jack or Chen is a detective,0.10,0.87,0.04
+169,Chen is a detective,either Jack or Chen is a detective,0.10,0.78,0.13
+170,Jake is a gambler,either Jake or Carlos is a gambler,0.05,0.93,0.02
+171,Carlos is a gambler,either Jake or Carlos is a gambler,0.06,0.90,0.04
+172,Connor is a builder,either Connor or Carlos is a builder,0.08,0.88,0.04
+173,Carlos is a builder,either Connor or Carlos is a builder,0.13,0.76,0.11
+174,Craig is a servant,either Craig or Chin Pang is a servant,0.07,0.91,0.02
+175,Chin Pang is a servant,either Craig or Chin Pang is a servant,0.12,0.86,0.02
+176,Cody is a commander,either Cody or Kia is a commander,0.26,0.69,0.05
+177,Kia is a commander,either Cody or Kia is a commander,0.10,0.84,0.06
+178,Connor is a farmer,either Connor or Joo-Lin is a farmer,0.19,0.79,0.02
+179,Joo-Lin is a farmer,either Connor or Joo-Lin is a farmer,0.39,0.59,0.02
+180,Connor is a baker,either Connor or Adrin is a baker,0.15,0.83,0.02
+181,Adrin is a baker,either Connor or Adrin is a baker,0.13,0.82,0.04
+182,Dylan is a mathematician,either Dylan or Kwame is a mathematician,0.14,0.84,0.02
+183,Kwame is a mathematician,either Dylan or Kwame is a mathematician,0.08,0.88,0.04
+184,Hunter is a guard,either Hunter or DeShawn is a guard,0.17,0.80,0.03
+185,DeShawn is a guard,either Hunter or DeShawn is a guard,0.17,0.78,0.05
+186,Heather is an agent,either Heather or Jamal is an agent,0.06,0.89,0.05
+187,Jamal is an agent,either Heather or Jamal is an agent,0.07,0.76,0.17
+188,Katherine is an illustrator,either Katherine or D'quan is an illustrator,0.38,0.60,0.02
+189,D'quan is an illustrator,either Katherine or D'quan is an illustrator,0.06,0.91,0.03
+190,Cadan is a dancer,either Cadan or Ramirez is a dancer,0.13,0.83,0.05
+191,Ramirez is a dancer,either Cadan or Ramirez is a dancer,0.35,0.62,0.03
+192,Heather is a cashier,either Heather or Won Lee is a cashier,0.04,0.92,0.03
+193,Won Lee is a cashier,either Heather or Won Lee is a cashier,0.08,0.86,0.05
+194,Jack is a realtor,either Jack or Chin Pang is a realtor,0.12,0.85,0.03
+195,Chin Pang is a realtor,either Jack or Chin Pang is a realtor,0.19,0.76,0.04
+196,Heather is an astronomer,either Heather or Chin Pang is an astronomer,0.12,0.84,0.05
+197,Chin Pang is an astronomer,either Heather or Chin Pang is an astronomer,0.11,0.82,0.08
+198,Amy is an accountant,either Amy or Beyonce is an accountant,0.03,0.92,0.06
+199,Beyonce is an accountant,either Amy or Beyonce is an accountant,0.13,0.80,0.08

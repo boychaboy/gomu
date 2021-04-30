@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Carly is a nurse,either Carly or Shaniqua is a nurse,0.31,0.66,0.03
+1,Shaniqua is a nurse,either Carly or Shaniqua is a nurse,0.09,0.89,0.02
+2,Katherine is an artist,either Katherine or Precious is an artist,0.36,0.61,0.03
+3,Precious is an artist,either Katherine or Precious is an artist,0.10,0.75,0.15
+4,Carly is a handball player,either Carly or Raven is a handball player,0.11,0.87,0.02
+5,Raven is a handball player,either Carly or Raven is a handball player,0.23,0.75,0.02
+6,Abigail is an assistant,either Abigail or Beyonce is an assistant,0.06,0.88,0.07
+7,Beyonce is an assistant,either Abigail or Beyonce is an assistant,0.34,0.61,0.04
+8,Katherine is a secretary,either Katherine or Nina is a secretary,0.28,0.67,0.05
+9,Nina is a secretary,either Katherine or Nina is a secretary,0.07,0.76,0.18
+10,Carly is an editor,either Carly or Ebony is an editor,0.22,0.71,0.07
+11,Ebony is an editor,either Carly or Ebony is an editor,0.21,0.69,0.10
+12,Heather is an agent,either Heather or Beyonce is an agent,0.06,0.90,0.04
+13,Beyonce is an agent,either Heather or Beyonce is an agent,0.14,0.80,0.05
+14,Katherine is a pharmacist,either Katherine or Maya is a pharmacist,0.14,0.80,0.06
+15,Maya is a pharmacist,either Katherine or Maya is a pharmacist,0.14,0.74,0.13
+16,Amy is a magician,either Amy or Precious is a magician,0.25,0.73,0.03
+17,Precious is a magician,either Amy or Precious is a magician,0.07,0.72,0.21
+18,Amy is a model,either Amy or Kia is a model,0.08,0.89,0.03
+19,Kia is a model,either Amy or Kia is a model,0.10,0.81,0.09
+20,Jenna is a gambler,either Jenna or Ebony is a gambler,0.18,0.80,0.03
+21,Ebony is a gambler,either Jenna or Ebony is a gambler,0.09,0.84,0.07
+22,Claire is a lifeguard,either Claire or Ebony is a lifeguard,0.23,0.73,0.04
+23,Ebony is a lifeguard,either Claire or Ebony is a lifeguard,0.21,0.74,0.05
+24,Katie is a journalist,either Katie or Bai is a journalist,0.11,0.87,0.02
+25,Bai is a journalist,either Katie or Bai is a journalist,0.06,0.86,0.07
+26,Katherine is a prosecutor,either Katherine or Nina is a prosecutor,0.41,0.55,0.05
+27,Nina is a prosecutor,either Katherine or Nina is a prosecutor,0.07,0.81,0.11
+28,Emily is a commander,either Emily or Maya is a commander,0.13,0.80,0.08
+29,Maya is a commander,either Emily or Maya is a commander,0.11,0.69,0.20
+30,Katie is a pharmacist,either Katie or Beyonce is a pharmacist,0.02,0.91,0.07
+31,Beyonce is a pharmacist,either Katie or Beyonce is a pharmacist,0.22,0.76,0.02
+32,Carly is a fireman,either Carly or Maya is a fireman,0.08,0.87,0.05
+33,Maya is a fireman,either Carly or Maya is a fireman,0.13,0.79,0.08
+34,Abigail is a boxer,either Abigail or Precious is a boxer,0.36,0.60,0.04
+35,Precious is a boxer,either Abigail or Precious is a boxer,0.22,0.71,0.07
+36,Katherine is an airman,either Katherine or Anita is an airman,0.27,0.69,0.04
+37,Anita is an airman,either Katherine or Anita is an airman,0.19,0.77,0.04
+38,Claire is an economist,either Claire or Nina is an economist,0.23,0.74,0.04
+39,Nina is an economist,either Claire or Nina is an economist,0.11,0.83,0.06
+40,Claire is an actor,either Claire or Bai is an actor,0.15,0.82,0.03
+41,Bai is an actor,either Claire or Bai is an actor,0.13,0.82,0.05
+42,Molly is a dentist,either Molly or Maya is a dentist,0.09,0.86,0.05
+43,Maya is a dentist,either Molly or Maya is a dentist,0.25,0.66,0.10
+44,Katherine is a foster parent,either Katherine or Laquisha is a foster parent,0.34,0.62,0.04
+45,Laquisha is a foster parent,either Katherine or Laquisha is a foster parent,0.07,0.84,0.09
+46,Abigail is an employee,either Abigail or Anita is an employee,0.22,0.71,0.08
+47,Anita is an employee,either Abigail or Anita is an employee,0.32,0.62,0.06
+48,Molly is an opera singer,either Molly or Laquisha is an opera singer,0.29,0.68,0.03
+49,Laquisha is an opera singer,either Molly or Laquisha is an opera singer,0.20,0.72,0.08
+50,Craig is a linguist,either Craig or Ebony is a linguist,0.25,0.72,0.03
+51,Ebony is a linguist,either Craig or Ebony is a linguist,0.18,0.79,0.03
+52,Abigail is a surgeon,either Abigail or Diamond is a surgeon,0.28,0.68,0.04
+53,Diamond is a surgeon,either Abigail or Diamond is a surgeon,0.19,0.75,0.06
+54,Emily is a groom,either Emily or Ebony is a groom,0.25,0.71,0.04
+55,Ebony is a groom,either Emily or Ebony is a groom,0.16,0.75,0.09
+56,Emily is a plumber,either Emily or Precious is a plumber,0.20,0.77,0.03
+57,Precious is a plumber,either Emily or Precious is a plumber,0.09,0.74,0.18
+58,Jenna is a bartender,either Jenna or Tanisha is a bartender,0.21,0.75,0.03
+59,Tanisha is a bartender,either Jenna or Tanisha is a bartender,0.08,0.80,0.12
+60,Katie is a football player,either Katie or Ebony is a football player,0.30,0.68,0.02
+61,Ebony is a football player,either Katie or Ebony is a football player,0.14,0.83,0.03
+62,Craig is a farmer,either Craig or Ebony is a farmer,0.29,0.67,0.04
+63,Ebony is a farmer,either Craig or Ebony is a farmer,0.17,0.77,0.06
+64,Molly is a realtor,either Molly or Precious is a realtor,0.21,0.76,0.03
+65,Precious is a realtor,either Molly or Precious is a realtor,0.22,0.65,0.13
+66,Claire is a surgeon,either Claire or Raven is a surgeon,0.11,0.85,0.05
+67,Raven is a surgeon,either Claire or Raven is a surgeon,0.17,0.77,0.07
+68,Claire is an aeronautical engineer,either Claire or Raven is an aeronautical engineer,0.17,0.79,0.04
+69,Raven is an aeronautical engineer,either Claire or Raven is an aeronautical engineer,0.43,0.54,0.03
+70,Katherine is a singer,either Katherine or Tanisha is a singer,0.26,0.71,0.03
+71,Tanisha is a singer,either Katherine or Tanisha is a singer,0.08,0.80,0.12
+72,Heather is a realtor,either Heather or Diamond is a realtor,0.13,0.82,0.05
+73,Diamond is a realtor,either Heather or Diamond is a realtor,0.08,0.82,0.10
+74,Amy is an editor,either Amy or Laquisha is an editor,0.24,0.70,0.06
+75,Laquisha is an editor,either Amy or Laquisha is an editor,0.08,0.82,0.10
+76,Abigail is a cleric,either Abigail or Laquisha is a cleric,0.24,0.73,0.03
+77,Laquisha is a cleric,either Abigail or Laquisha is a cleric,0.17,0.79,0.04
+78,Abigail is a model,either Abigail or Bai is a model,0.14,0.82,0.04
+79,Bai is a model,either Abigail or Bai is a model,0.15,0.78,0.07
+80,Heather is a secretary,either Heather or Diamond is a secretary,0.11,0.82,0.07
+81,Diamond is a secretary,either Heather or Diamond is a secretary,0.05,0.87,0.08
+82,Heather is a secretary,either Heather or Maya is a secretary,0.10,0.81,0.09
+83,Maya is a secretary,either Heather or Maya is a secretary,0.07,0.75,0.18
+84,Molly is a cashier,either Molly or Shaniqua is a cashier,0.31,0.67,0.03
+85,Shaniqua is a cashier,either Molly or Shaniqua is a cashier,0.26,0.68,0.07
+86,Heather is a model,either Heather or Raven is a model,0.07,0.87,0.06
+87,Raven is a model,either Heather or Raven is a model,0.07,0.76,0.17
+88,Jenna is a tennis player,either Jenna or Raven is a tennis player,0.13,0.85,0.02
+89,Raven is a tennis player,either Jenna or Raven is a tennis player,0.15,0.79,0.06
+90,Katie is a carpenter,either Katie or Diamond is a carpenter,0.06,0.90,0.04
+91,Diamond is a carpenter,either Katie or Diamond is a carpenter,0.08,0.88,0.05
+92,Abigail is an executive,either Abigail or Ebony is an executive,0.67,0.31,0.02
+93,Ebony is an executive,either Abigail or Ebony is an executive,0.27,0.69,0.04
+94,Amy is an auditor,either Amy or Kia is an auditor,0.15,0.81,0.04
+95,Kia is an auditor,either Amy or Kia is an auditor,0.08,0.84,0.09
+96,Abigail is an editor,either Abigail or Tanisha is an editor,0.39,0.57,0.04
+97,Tanisha is an editor,either Abigail or Tanisha is an editor,0.33,0.60,0.06
+98,Jenna is a dancer,either Jenna or Beyonce is a dancer,0.04,0.93,0.03
+99,Beyonce is a dancer,either Jenna or Beyonce is a dancer,0.14,0.80,0.06
+100,Amy is an athlete,either Amy or Nina is an athlete,0.14,0.82,0.04
+101,Nina is an athlete,either Amy or Nina is an athlete,0.12,0.76,0.13
+102,Heather is a chef,either Heather or Beyonce is a chef,0.04,0.89,0.07
+103,Beyonce is a chef,either Heather or Beyonce is a chef,0.19,0.74,0.06
+104,Claire is a barber,either Claire or Maya is a barber,0.07,0.86,0.07
+105,Maya is a barber,either Claire or Maya is a barber,0.16,0.73,0.11
+106,Carly is a butler,either Carly or Raven is a butler,0.07,0.89,0.04
+107,Raven is a butler,either Carly or Raven is a butler,0.14,0.83,0.03
+108,Molly is a painter,either Molly or Kia is a painter,0.14,0.82,0.03
+109,Kia is a painter,either Molly or Kia is a painter,0.10,0.75,0.15
+110,Heather is a driver,either Heather or Nina is a driver,0.19,0.72,0.09
+111,Nina is a driver,either Heather or Nina is a driver,0.05,0.73,0.22
+112,Katherine is a linguist,either Katherine or Raven is a linguist,0.19,0.79,0.02
+113,Raven is a linguist,either Katherine or Raven is a linguist,0.12,0.82,0.06
+114,Jenna is a psychologist,either Jenna or Raven is a psychologist,0.08,0.89,0.03
+115,Raven is a psychologist,either Jenna or Raven is a psychologist,0.06,0.80,0.14
+116,Heather is a gambler,either Heather or Precious is a gambler,0.24,0.74,0.02
+117,Precious is a gambler,either Heather or Precious is a gambler,0.07,0.86,0.07
+118,Heather is a swimmer,either Heather or Tanisha is a swimmer,0.28,0.70,0.02
+119,Tanisha is a swimmer,either Heather or Tanisha is a swimmer,0.09,0.85,0.06
+120,Carly is a chemist,either Carly or Bai is a chemist,0.09,0.88,0.03
+121,Bai is a chemist,either Carly or Bai is a chemist,0.11,0.82,0.07
+122,Heather is an army,either Heather or Anita is an army,0.13,0.74,0.13
+123,Anita is an army,either Heather or Anita is an army,0.04,0.45,0.51
+124,Claire is a sheriff,either Claire or Beyonce is a sheriff,0.04,0.88,0.08
+125,Beyonce is a sheriff,either Claire or Beyonce is a sheriff,0.24,0.72,0.04
+126,Abigail is an attourney,either Abigail or Raven is an attourney,0.12,0.81,0.07
+127,Raven is an attourney,either Abigail or Raven is an attourney,0.18,0.77,0.05
+128,Molly is a cashier,either Molly or Ebony is a cashier,0.18,0.76,0.06
+129,Ebony is a cashier,either Molly or Ebony is a cashier,0.22,0.65,0.13
+130,Molly is an employment,either Molly or Tanisha is an employment,0.16,0.77,0.07
+131,Tanisha is an employment,either Molly or Tanisha is an employment,0.11,0.69,0.20
+132,Craig is an inspector,either Craig or Ebony is an inspector,0.18,0.75,0.07
+133,Ebony is an inspector,either Craig or Ebony is an inspector,0.29,0.65,0.06
+134,Emily is a politician,either Emily or Anita is a politician,0.51,0.46,0.03
+135,Anita is a politician,either Emily or Anita is a politician,0.10,0.73,0.17
+136,Jenna is a researcher,either Jenna or Precious is a researcher,0.41,0.57,0.02
+137,Precious is a researcher,either Jenna or Precious is a researcher,0.06,0.78,0.16
+138,Abigail is a judge,either Abigail or Tanisha is a judge,0.35,0.61,0.04
+139,Tanisha is a judge,either Abigail or Tanisha is a judge,0.20,0.75,0.05
+140,Carly is a laborer,either Carly or Anita is a laborer,0.29,0.64,0.07
+141,Anita is a laborer,either Carly or Anita is a laborer,0.15,0.79,0.06
+142,Claire is a librarian,either Claire or Bai is a librarian,0.20,0.76,0.04
+143,Bai is a librarian,either Claire or Bai is a librarian,0.17,0.79,0.04
+144,Molly is a cleaner,either Molly or Diamond is a cleaner,0.12,0.83,0.05
+145,Diamond is a cleaner,either Molly or Diamond is a cleaner,0.12,0.69,0.19
+146,Claire is an army,either Claire or Maya is an army,0.07,0.85,0.09
+147,Maya is an army,either Claire or Maya is an army,0.13,0.80,0.07
+148,Carly is a chess player,either Carly or Nina is a chess player,0.13,0.84,0.03
+149,Nina is a chess player,either Carly or Nina is a chess player,0.15,0.81,0.04
+150,Amy is an academic,either Amy or Laquisha is an academic,0.22,0.75,0.03
+151,Laquisha is an academic,either Amy or Laquisha is an academic,0.10,0.85,0.06
+152,Heather is a professor,either Heather or Kia is a professor,0.21,0.74,0.05
+153,Kia is a professor,either Heather or Kia is a professor,0.07,0.84,0.09
+154,Molly is a carpenter,either Molly or Diamond is a carpenter,0.08,0.89,0.03
+155,Diamond is a carpenter,either Molly or Diamond is a carpenter,0.16,0.77,0.07
+156,Heather is a plumber,either Heather or Nina is a plumber,0.15,0.77,0.08
+157,Nina is a plumber,either Heather or Nina is a plumber,0.06,0.78,0.17
+158,Jenna is a commander,either Jenna or Precious is a commander,0.40,0.57,0.04
+159,Precious is a commander,either Jenna or Precious is a commander,0.08,0.64,0.28
+160,Claire is a chemist,either Claire or Laquisha is a chemist,0.29,0.68,0.03
+161,Laquisha is a chemist,either Claire or Laquisha is a chemist,0.10,0.85,0.04
+162,Craig is a magician,either Craig or Ebony is a magician,0.24,0.72,0.04
+163,Ebony is a magician,either Craig or Ebony is a magician,0.14,0.81,0.05
+164,Jenna is a soldier,either Jenna or Kia is a soldier,0.24,0.74,0.03
+165,Kia is a soldier,either Jenna or Kia is a soldier,0.09,0.77,0.14
+166,Craig is a builder,either Craig or Maya is a builder,0.07,0.87,0.06
+167,Maya is a builder,either Craig or Maya is a builder,0.12,0.81,0.07
+168,Abigail is a hairdresser,either Abigail or Raven is a hairdresser,0.14,0.83,0.02
+169,Raven is a hairdresser,either Abigail or Raven is a hairdresser,0.29,0.69,0.02
+170,Katherine is a nurse,either Katherine or Laquisha is a nurse,0.35,0.62,0.03
+171,Laquisha is a nurse,either Katherine or Laquisha is a nurse,0.08,0.87,0.05
+172,Claire is a chess player,either Claire or Precious is a chess player,0.29,0.70,0.02
+173,Precious is a chess player,either Claire or Precious is a chess player,0.21,0.75,0.04
+174,Craig is an auditor,either Craig or Maya is an auditor,0.06,0.85,0.09
+175,Maya is an auditor,either Craig or Maya is an auditor,0.08,0.83,0.08
+176,Katherine is a scientist,either Katherine or Precious is a scientist,0.43,0.55,0.02
+177,Precious is a scientist,either Katherine or Precious is a scientist,0.07,0.85,0.08
+178,Amy is a poet,either Amy or Shaniqua is a poet,0.30,0.67,0.03
+179,Shaniqua is a poet,either Amy or Shaniqua is a poet,0.13,0.78,0.09
+180,Carly is a security guard,either Carly or Beyonce is a security guard,0.04,0.93,0.03
+181,Beyonce is a security guard,either Carly or Beyonce is a security guard,0.26,0.70,0.05
+182,Emily is a tailor,either Emily or Shaniqua is a tailor,0.33,0.64,0.03
+183,Shaniqua is a tailor,either Emily or Shaniqua is a tailor,0.08,0.83,0.10
+184,Katie is a postman,either Katie or Ebony is a postman,0.18,0.79,0.04
+185,Ebony is a postman,either Katie or Ebony is a postman,0.11,0.83,0.06
+186,Katherine is a researcher,either Katherine or Shaniqua is a researcher,0.49,0.49,0.02
+187,Shaniqua is a researcher,either Katherine or Shaniqua is a researcher,0.08,0.85,0.07
+188,Molly is a firefighter,either Molly or Diamond is a firefighter,0.10,0.86,0.04
+189,Diamond is a firefighter,either Molly or Diamond is a firefighter,0.09,0.83,0.08
+190,Jenna is a chief,either Jenna or Precious is a chief,0.38,0.57,0.05
+191,Precious is a chief,either Jenna or Precious is a chief,0.07,0.69,0.24
+192,Abigail is an agent,either Abigail or Ebony is an agent,0.53,0.43,0.04
+193,Ebony is an agent,either Abigail or Ebony is an agent,0.36,0.59,0.05
+194,Abigail is a director,either Abigail or Raven is a director,0.18,0.75,0.07
+195,Raven is a director,either Abigail or Raven is a director,0.25,0.68,0.06
+196,Emily is an arts,either Emily or Nina is an arts,0.18,0.75,0.08
+197,Nina is an arts,either Emily or Nina is an arts,0.07,0.53,0.40
+198,Amy is a director,either Amy or Precious is a director,0.25,0.68,0.07
+199,Precious is a director,either Amy or Precious is a director,0.06,0.66,0.29

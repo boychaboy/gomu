@@ -21,7 +21,7 @@ def read_data(input_file):
     """
     Load data into pandas DataFrame format.
     """
-    
+
     df_data = pd.DataFrame(columns=['sent1', 'sent2', 'direction', 'bias_type'])
 
     with open(input_file) as f:
@@ -52,7 +52,7 @@ def get_log_prob_unigram(masked_token_ids, token_ids, mask_idx, lm):
     """
     Given a sequence of token ids, with one masked token, return the log probability of the masked token.
     """
-    
+
     model = lm["model"]
     tokenizer = lm["tokenizer"]
     log_softmax = lm["log_softmax"]
@@ -85,7 +85,7 @@ def get_span(seq1, seq2):
     matcher = difflib.SequenceMatcher(None, seq1, seq2)
     template1, template2 = [], []
     for op in matcher.get_opcodes():
-        # each op is a list of tuple: 
+        # each op is a list of tuple:
         # (operation, pro_idx_start, pro_idx_end, anti_idx_start, anti_idx_end)
         # possible operation: replace, insert, equal
         # https://docs.python.org/3/library/difflib.html
@@ -130,7 +130,7 @@ def mask_unigram(data, lm, n=1):
 
     N = len(template1)  # num. of tokens that can be masked
     mask_id = tokenizer.convert_tokens_to_ids(mask_token)
-    
+
     sent1_log_probs = 0.
     sent2_log_probs = 0.
     total_masked_tokens = 0
@@ -177,16 +177,23 @@ def evaluate(args):
     if args.lm_model == "bert":
         tokenizer = BertTokenizer.from_pretrained('bert-base-cased')
         model = BertForMaskedLM.from_pretrained('bert-base-cased')
-        uncased = False 
-    elif args.lm_model == "bert-large": 
+        uncased = False
+    elif args.lm_model == "bert-large":
         tokenizer = BertTokenizer.from_pretrained('bert-large-cased')
         model = BertForMaskedLM.from_pretrained('bert-large-cased')
-        uncased = False 
+        uncased = False
     elif args.lm_model == "roberta":
         tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
         model = RobertaForMaskedLM.from_pretrained('roberta-base')
         uncased = False
+
     # boychaboy added mlms
+
+    elif args.lm_model == "roberta-large":
+        tokenizer = RobertaTokenizer.from_pretrained('roberta-large')
+        model = RobertaForMaskedLM.from_pretrained('roberta-large')
+        uncased = False
+
     elif args.lm_model == "electra":
         tokenizer = ElectraTokenizer.from_pretrained('google/electra-base-discriminator')
         model = ElectraForMaskedLM.from_pretrained('google/electra-base-discriminator')
@@ -214,9 +221,9 @@ def evaluate(args):
           "uncased": uncased
     }
 
-    # score each sentence. 
+    # score each sentence.
     # each row in the dataframe has the sentid and score for pro and anti stereo.
-    df_score = pd.DataFrame(columns=['sent_more', 'sent_less', 
+    df_score = pd.DataFrame(columns=['sent_more', 'sent_less',
                                      'sent_more_score', 'sent_less_score',
                                      'score', 'stereo_antistereo', 'bias_type'])
 
@@ -297,4 +304,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+

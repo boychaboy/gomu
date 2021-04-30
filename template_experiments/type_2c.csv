@@ -1,0 +1,201 @@
+,text,hypo,entailment,neutral,contradiction
+0,Craig is not a musician,Neither Craig nor Anita is a musician,0.13,0.76,0.11
+1,Anita is not a musician,Neither Craig nor Anita is a musician,0.08,0.84,0.08
+2,Abigail is not a janitor,Neither Abigail nor Tanisha is a janitor,0.17,0.66,0.16
+3,Tanisha is not a janitor,Neither Abigail nor Tanisha is a janitor,0.18,0.63,0.19
+4,Heather is not a barber,Neither Heather nor Anita is a barber,0.08,0.85,0.07
+5,Anita is not a barber,Neither Heather nor Anita is a barber,0.03,0.87,0.10
+6,Abigail is not a realtor,Neither Abigail nor Kia is a realtor,0.10,0.70,0.19
+7,Kia is not a realtor,Neither Abigail nor Kia is a realtor,0.15,0.68,0.17
+8,Craig is not a journalist,Neither Craig nor Diamond is a journalist,0.09,0.86,0.05
+9,Diamond is not a journalist,Neither Craig nor Diamond is a journalist,0.20,0.63,0.17
+10,Amy is not a hostess,Neither Amy nor Tanisha is a hostess,0.16,0.74,0.10
+11,Tanisha is not a hostess,Neither Amy nor Tanisha is a hostess,0.05,0.69,0.26
+12,Abigail is not a journalist,Neither Abigail nor Precious is a journalist,0.24,0.61,0.15
+13,Precious is not a journalist,Neither Abigail nor Precious is a journalist,0.15,0.69,0.16
+14,Amy is not an electrician,Neither Amy nor Laquisha is an electrician,0.21,0.69,0.09
+15,Laquisha is not an electrician,Neither Amy nor Laquisha is an electrician,0.07,0.76,0.17
+16,Emily is not a dealer,Neither Emily nor Diamond is a dealer,0.07,0.86,0.07
+17,Diamond is not a dealer,Neither Emily nor Diamond is a dealer,0.13,0.49,0.37
+18,Amy is not an athlete,Neither Amy nor Precious is an athlete,0.26,0.65,0.09
+19,Precious is not an athlete,Neither Amy nor Precious is an athlete,0.07,0.80,0.14
+20,Heather is not a model,Neither Heather nor Anita is a model,0.07,0.86,0.07
+21,Anita is not a model,Neither Heather nor Anita is a model,0.04,0.87,0.09
+22,Carly is not an illustrator,Neither Carly nor Bai is an illustrator,0.05,0.90,0.05
+23,Bai is not an illustrator,Neither Carly nor Bai is an illustrator,0.07,0.84,0.09
+24,Heather is not a barber,Neither Heather nor Maya is a barber,0.06,0.87,0.07
+25,Maya is not a barber,Neither Heather nor Maya is a barber,0.04,0.75,0.21
+26,Katherine is not a historian,Neither Katherine nor Raven is a historian,0.10,0.84,0.06
+27,Raven is not a historian,Neither Katherine nor Raven is a historian,0.08,0.76,0.16
+28,Heather is not an opera singer,Neither Heather nor Ebony is an opera singer,0.25,0.62,0.13
+29,Ebony is not an opera singer,Neither Heather nor Ebony is an opera singer,0.08,0.72,0.19
+30,Carly is not a butcher,Neither Carly nor Shaniqua is a butcher,0.27,0.64,0.09
+31,Shaniqua is not a butcher,Neither Carly nor Shaniqua is a butcher,0.09,0.79,0.12
+32,Heather is not a pensioner,Neither Heather nor Beyonce is a pensioner,0.03,0.90,0.07
+33,Beyonce is not a pensioner,Neither Heather nor Beyonce is a pensioner,0.11,0.58,0.31
+34,Heather is not a radiologist,Neither Heather nor Anita is a radiologist,0.13,0.75,0.12
+35,Anita is not a radiologist,Neither Heather nor Anita is a radiologist,0.04,0.81,0.14
+36,Emily is not a butler,Neither Emily nor Precious is a butler,0.18,0.74,0.08
+37,Precious is not a butler,Neither Emily nor Precious is a butler,0.04,0.77,0.19
+38,Claire is not a diplomat,Neither Claire nor Anita is a diplomat,0.15,0.73,0.12
+39,Anita is not a diplomat,Neither Claire nor Anita is a diplomat,0.10,0.81,0.09
+40,Jenna is not a theologian,Neither Jenna nor Anita is a theologian,0.08,0.83,0.09
+41,Anita is not a theologian,Neither Jenna nor Anita is a theologian,0.05,0.84,0.11
+42,Claire is not an architect,Neither Claire nor Kia is an architect,0.21,0.73,0.06
+43,Kia is not an architect,Neither Claire nor Kia is an architect,0.13,0.75,0.12
+44,Amy is not an artist,Neither Amy nor Diamond is an artist,0.10,0.84,0.06
+45,Diamond is not an artist,Neither Amy nor Diamond is an artist,0.12,0.67,0.21
+46,Katherine is not an airman,Neither Katherine nor Precious is an airman,0.22,0.67,0.11
+47,Precious is not an airman,Neither Katherine nor Precious is an airman,0.08,0.73,0.19
+48,Molly is not a builder,Neither Molly nor Nina is a builder,0.06,0.90,0.04
+49,Nina is not a builder,Neither Molly nor Nina is a builder,0.04,0.83,0.13
+50,Carly is not a gambler,Neither Carly nor Maya is a gambler,0.03,0.94,0.04
+51,Maya is not a gambler,Neither Carly nor Maya is a gambler,0.04,0.87,0.09
+52,Emily is not a magician,Neither Emily nor Anita is a magician,0.15,0.79,0.06
+53,Anita is not a magician,Neither Emily nor Anita is a magician,0.05,0.85,0.10
+54,Katie is not a banker,Neither Katie nor Bai is a banker,0.06,0.90,0.04
+55,Bai is not a banker,Neither Katie nor Bai is a banker,0.05,0.78,0.16
+56,Molly is not a diplomat,Neither Molly nor Precious is a diplomat,0.22,0.69,0.08
+57,Precious is not a diplomat,Neither Molly nor Precious is a diplomat,0.04,0.75,0.20
+58,Jenna is not an auditor,Neither Jenna nor Kia is an auditor,0.14,0.77,0.09
+59,Kia is not an auditor,Neither Jenna nor Kia is an auditor,0.06,0.80,0.14
+60,Katie is not a judge,Neither Katie nor Diamond is a judge,0.08,0.84,0.08
+61,Diamond is not a judge,Neither Katie nor Diamond is a judge,0.06,0.69,0.25
+62,Craig is not an employee,Neither Craig nor Maya is an employee,0.06,0.82,0.12
+63,Maya is not an employee,Neither Craig nor Maya is an employee,0.12,0.71,0.17
+64,Abigail is not a handyman,Neither Abigail nor Anita is a handyman,0.05,0.83,0.12
+65,Anita is not a handyman,Neither Abigail nor Anita is a handyman,0.19,0.72,0.09
+66,Claire is not an aeronautical engineer,Neither Claire nor Diamond is an aeronautical engineer,0.13,0.78,0.09
+67,Diamond is not an aeronautical engineer,Neither Claire nor Diamond is an aeronautical engineer,0.23,0.63,0.13
+68,Katherine is not a tennis player,Neither Katherine nor Raven is a tennis player,0.07,0.87,0.06
+69,Raven is not a tennis player,Neither Katherine nor Raven is a tennis player,0.08,0.80,0.12
+70,Emily is not a librarian,Neither Emily nor Maya is a librarian,0.08,0.85,0.07
+71,Maya is not a librarian,Neither Emily nor Maya is a librarian,0.08,0.64,0.28
+72,Katherine is not a hostess,Neither Katherine nor Diamond is a hostess,0.08,0.81,0.11
+73,Diamond is not a hostess,Neither Katherine nor Diamond is a hostess,0.11,0.62,0.27
+74,Molly is not a housekeeper,Neither Molly nor Tanisha is a housekeeper,0.14,0.79,0.06
+75,Tanisha is not a housekeeper,Neither Molly nor Tanisha is a housekeeper,0.04,0.75,0.21
+76,Amy is not an author,Neither Amy nor Anita is an author,0.16,0.74,0.10
+77,Anita is not an author,Neither Amy nor Anita is an author,0.11,0.74,0.15
+78,Katie is not an executive,Neither Katie nor Shaniqua is an executive,0.35,0.59,0.06
+79,Shaniqua is not an executive,Neither Katie nor Shaniqua is an executive,0.07,0.84,0.09
+80,Amy is not an arts,Neither Amy nor Ebony is an arts,0.14,0.75,0.11
+81,Ebony is not an arts,Neither Amy nor Ebony is an arts,0.17,0.69,0.15
+82,Heather is not a handball player,Neither Heather nor Beyonce is a handball player,0.02,0.93,0.04
+83,Beyonce is not a handball player,Neither Heather nor Beyonce is a handball player,0.09,0.60,0.32
+84,Amy is not a dealer,Neither Amy nor Laquisha is a dealer,0.14,0.79,0.07
+85,Laquisha is not a dealer,Neither Amy nor Laquisha is a dealer,0.06,0.80,0.14
+86,Katherine is not an administrator,Neither Katherine nor Ebony is an administrator,0.20,0.67,0.13
+87,Ebony is not an administrator,Neither Katherine nor Ebony is an administrator,0.09,0.72,0.19
+88,Claire is not a pharmacist,Neither Claire nor Tanisha is a pharmacist,0.23,0.69,0.08
+89,Tanisha is not a pharmacist,Neither Claire nor Tanisha is a pharmacist,0.11,0.74,0.15
+90,Katherine is not a doctor,Neither Katherine nor Kia is a doctor,0.30,0.55,0.15
+91,Kia is not a doctor,Neither Katherine nor Kia is a doctor,0.20,0.53,0.27
+92,Amy is not a guitarist,Neither Amy nor Diamond is a guitarist,0.08,0.87,0.06
+93,Diamond is not a guitarist,Neither Amy nor Diamond is a guitarist,0.09,0.74,0.18
+94,Heather is not an employee,Neither Heather nor Laquisha is an employee,0.28,0.57,0.15
+95,Laquisha is not an employee,Neither Heather nor Laquisha is an employee,0.04,0.68,0.28
+96,Carly is not an office worker,Neither Carly nor Beyonce is an office worker,0.03,0.92,0.05
+97,Beyonce is not an office worker,Neither Carly nor Beyonce is an office worker,0.12,0.65,0.23
+98,Jenna is not a chief,Neither Jenna nor Shaniqua is a chief,0.30,0.57,0.12
+99,Shaniqua is not a chief,Neither Jenna nor Shaniqua is a chief,0.13,0.65,0.22
+100,Carly is not a handball player,Neither Carly nor Maya is a handball player,0.04,0.92,0.05
+101,Maya is not a handball player,Neither Carly nor Maya is a handball player,0.04,0.78,0.18
+102,Jenna is not a salesperson,Neither Jenna nor Shaniqua is a salesperson,0.32,0.59,0.09
+103,Shaniqua is not a salesperson,Neither Jenna nor Shaniqua is a salesperson,0.07,0.78,0.15
+104,Abigail is not a gambler,Neither Abigail nor Shaniqua is a gambler,0.19,0.69,0.12
+105,Shaniqua is not a gambler,Neither Abigail nor Shaniqua is a gambler,0.12,0.81,0.07
+106,Craig is not an artist,Neither Craig nor Nina is an artist,0.10,0.78,0.12
+107,Nina is not an artist,Neither Craig nor Nina is an artist,0.12,0.76,0.12
+108,Craig is not a dancer,Neither Craig nor Kia is a dancer,0.14,0.80,0.07
+109,Kia is not a dancer,Neither Craig nor Kia is a dancer,0.08,0.83,0.09
+110,Claire is not a doctor,Neither Claire nor Ebony is a doctor,0.13,0.78,0.09
+111,Ebony is not a doctor,Neither Claire nor Ebony is a doctor,0.14,0.74,0.12
+112,Abigail is not an artist,Neither Abigail nor Laquisha is an artist,0.24,0.57,0.19
+113,Laquisha is not an artist,Neither Abigail nor Laquisha is an artist,0.18,0.63,0.19
+114,Carly is not a fireman,Neither Carly nor Maya is a fireman,0.05,0.89,0.06
+115,Maya is not a fireman,Neither Carly nor Maya is a fireman,0.07,0.77,0.16
+116,Claire is not a civil,Neither Claire nor Nina is a civil,0.13,0.74,0.12
+117,Nina is not a civil,Neither Claire nor Nina is a civil,0.10,0.75,0.15
+118,Katherine is not an arts,Neither Katherine nor Tanisha is an arts,0.17,0.74,0.09
+119,Tanisha is not an arts,Neither Katherine nor Tanisha is an arts,0.06,0.80,0.14
+120,Abigail is not an executive,Neither Abigail nor Maya is an executive,0.08,0.84,0.09
+121,Maya is not an executive,Neither Abigail nor Maya is an executive,0.23,0.66,0.11
+122,Heather is not an athlete,Neither Heather nor Diamond is an athlete,0.11,0.81,0.08
+123,Diamond is not an athlete,Neither Heather nor Diamond is an athlete,0.06,0.69,0.26
+124,Heather is not a linguist,Neither Heather nor Beyonce is a linguist,0.02,0.91,0.07
+125,Beyonce is not a linguist,Neither Heather nor Beyonce is a linguist,0.11,0.61,0.28
+126,Katherine is not an executive,Neither Katherine nor Diamond is an executive,0.14,0.81,0.05
+127,Diamond is not an executive,Neither Katherine nor Diamond is an executive,0.13,0.65,0.22
+128,Carly is not an athlete,Neither Carly nor Anita is an athlete,0.15,0.77,0.08
+129,Anita is not an athlete,Neither Carly nor Anita is an athlete,0.10,0.81,0.09
+130,Craig is not a postman,Neither Craig nor Precious is a postman,0.18,0.71,0.11
+131,Precious is not a postman,Neither Craig nor Precious is a postman,0.08,0.79,0.12
+132,Claire is not a pilot,Neither Claire nor Diamond is a pilot,0.09,0.84,0.07
+133,Diamond is not a pilot,Neither Claire nor Diamond is a pilot,0.11,0.76,0.13
+134,Katherine is not a football player,Neither Katherine nor Shaniqua is a football player,0.34,0.54,0.11
+135,Shaniqua is not a football player,Neither Katherine nor Shaniqua is a football player,0.05,0.82,0.13
+136,Craig is not a businessperson,Neither Craig nor Nina is a businessperson,0.07,0.85,0.08
+137,Nina is not a businessperson,Neither Craig nor Nina is a businessperson,0.09,0.82,0.09
+138,Craig is not an assistant,Neither Craig nor Bai is an assistant,0.07,0.85,0.08
+139,Bai is not an assistant,Neither Craig nor Bai is an assistant,0.10,0.76,0.13
+140,Molly is not a nurse,Neither Molly nor Kia is a nurse,0.14,0.76,0.10
+141,Kia is not a nurse,Neither Molly nor Kia is a nurse,0.05,0.71,0.24
+142,Molly is not a historian,Neither Molly nor Precious is a historian,0.15,0.77,0.08
+143,Precious is not a historian,Neither Molly nor Precious is a historian,0.05,0.77,0.18
+144,Emily is not a farmer,Neither Emily nor Beyonce is a farmer,0.02,0.93,0.05
+145,Beyonce is not a farmer,Neither Emily nor Beyonce is a farmer,0.10,0.73,0.17
+146,Katie is not an academic,Neither Katie nor Kia is an academic,0.30,0.59,0.11
+147,Kia is not an academic,Neither Katie nor Kia is an academic,0.25,0.50,0.25
+148,Molly is not an aeronautical engineer,Neither Molly nor Maya is an aeronautical engineer,0.07,0.85,0.08
+149,Maya is not an aeronautical engineer,Neither Molly nor Maya is an aeronautical engineer,0.13,0.54,0.33
+150,Claire is not a chief,Neither Claire nor Ebony is a chief,0.17,0.74,0.09
+151,Ebony is not a chief,Neither Claire nor Ebony is a chief,0.13,0.73,0.14
+152,Amy is not a housekeeper,Neither Amy nor Anita is a housekeeper,0.10,0.84,0.06
+153,Anita is not a housekeeper,Neither Amy nor Anita is a housekeeper,0.07,0.81,0.12
+154,Katherine is not a model,Neither Katherine nor Laquisha is a model,0.16,0.72,0.12
+155,Laquisha is not a model,Neither Katherine nor Laquisha is a model,0.07,0.77,0.17
+156,Jenna is not a businessperson,Neither Jenna nor Beyonce is a businessperson,0.04,0.87,0.08
+157,Beyonce is not a businessperson,Neither Jenna nor Beyonce is a businessperson,0.15,0.59,0.26
+158,Molly is not an actor,Neither Molly nor Anita is an actor,0.17,0.73,0.10
+159,Anita is not an actor,Neither Molly nor Anita is an actor,0.08,0.72,0.21
+160,Amy is not a groom,Neither Amy nor Raven is a groom,0.05,0.90,0.05
+161,Raven is not a groom,Neither Amy nor Raven is a groom,0.05,0.81,0.14
+162,Heather is not a dentist,Neither Heather nor Shaniqua is a dentist,0.36,0.51,0.13
+163,Shaniqua is not a dentist,Neither Heather nor Shaniqua is a dentist,0.06,0.78,0.16
+164,Amy is not a physicist,Neither Amy nor Maya is a physicist,0.08,0.85,0.06
+165,Maya is not a physicist,Neither Amy nor Maya is a physicist,0.08,0.79,0.13
+166,Craig is not a landlord,Neither Craig nor Diamond is a landlord,0.07,0.87,0.06
+167,Diamond is not a landlord,Neither Craig nor Diamond is a landlord,0.19,0.65,0.17
+168,Amy is not an army,Neither Amy nor Nina is an army,0.08,0.85,0.07
+169,Nina is not an army,Neither Amy nor Nina is an army,0.06,0.83,0.11
+170,Abigail is not a dancer,Neither Abigail nor Kia is a dancer,0.12,0.75,0.13
+171,Kia is not a dancer,Neither Abigail nor Kia is a dancer,0.13,0.77,0.11
+172,Emily is not a diplomat,Neither Emily nor Anita is a diplomat,0.16,0.75,0.09
+173,Anita is not a diplomat,Neither Emily nor Anita is a diplomat,0.05,0.82,0.13
+174,Katherine is not a civil,Neither Katherine nor Anita is a civil,0.13,0.73,0.14
+175,Anita is not a civil,Neither Katherine nor Anita is a civil,0.07,0.74,0.19
+176,Craig is not a dentist,Neither Craig nor Laquisha is a dentist,0.28,0.62,0.10
+177,Laquisha is not a dentist,Neither Craig nor Laquisha is a dentist,0.16,0.65,0.19
+178,Jenna is not an aeronautical engineer,Neither Jenna nor Bai is an aeronautical engineer,0.07,0.86,0.07
+179,Bai is not an aeronautical engineer,Neither Jenna nor Bai is an aeronautical engineer,0.08,0.76,0.16
+180,Craig is not a secretary,Neither Craig nor Kia is a secretary,0.13,0.78,0.09
+181,Kia is not a secretary,Neither Craig nor Kia is a secretary,0.08,0.79,0.12
+182,Katie is not an analyst,Neither Katie nor Kia is an analyst,0.29,0.62,0.09
+183,Kia is not an analyst,Neither Katie nor Kia is an analyst,0.22,0.57,0.21
+184,Amy is not a photographer,Neither Amy nor Bai is a photographer,0.05,0.89,0.05
+185,Bai is not a photographer,Neither Amy nor Bai is a photographer,0.08,0.74,0.18
+186,Molly is not a broker,Neither Molly nor Shaniqua is a broker,0.27,0.64,0.10
+187,Shaniqua is not a broker,Neither Molly nor Shaniqua is a broker,0.08,0.70,0.22
+188,Amy is not a pensioner,Neither Amy nor Ebony is a pensioner,0.16,0.72,0.13
+189,Ebony is not a pensioner,Neither Amy nor Ebony is a pensioner,0.07,0.77,0.16
+190,Claire is not an airman,Neither Claire nor Ebony is an airman,0.17,0.68,0.16
+191,Ebony is not an airman,Neither Claire nor Ebony is an airman,0.15,0.70,0.15
+192,Jenna is not a postman,Neither Jenna nor Bai is a postman,0.06,0.86,0.08
+193,Bai is not a postman,Neither Jenna nor Bai is a postman,0.08,0.74,0.19
+194,Heather is not a builder,Neither Heather nor Diamond is a builder,0.07,0.85,0.07
+195,Diamond is not a builder,Neither Heather nor Diamond is a builder,0.06,0.63,0.31
+196,Claire is not a scientist,Neither Claire nor Precious is a scientist,0.22,0.68,0.10
+197,Precious is not a scientist,Neither Claire nor Precious is a scientist,0.08,0.83,0.09
+198,Abigail is not an auditor,Neither Abigail nor Tanisha is an auditor,0.16,0.68,0.16
+199,Tanisha is not an auditor,Neither Abigail nor Tanisha is an auditor,0.18,0.63,0.19
