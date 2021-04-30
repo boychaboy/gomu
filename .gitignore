@@ -5,6 +5,7 @@ transformers/
 huggingface-models/
 glue_data/
 runs/
+*.DS_Store
 
 ### Linux ###
 *~
