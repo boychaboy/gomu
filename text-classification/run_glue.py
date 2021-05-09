@@ -50,6 +50,7 @@ check_min_version("4.6.0.dev0")
 task_to_keys = {
     "cola": ("sentence", None),
     "mnli": ("premise", "hypothesis"),
+    "snli": ("premise", "hypothesis"),
     "mrpc": ("sentence1", "sentence2"),
     "qnli": ("question", "sentence"),
     "qqp": ("question1", "question2"),
@@ -187,7 +188,6 @@ def main():
     else:
         model_args, data_args, training_args = parser.parse_args_into_dataclasses()
 
-
     # Detecting last checkpoint.
     last_checkpoint = None
     if os.path.isdir(training_args.output_dir) and training_args.do_train and not training_args.overwrite_output_dir:
@@ -238,7 +238,9 @@ def main():
     #
     # In distributed training, the load_dataset function guarantee that only one local process can concurrently
     # download the dataset.
-    if data_args.task_name is not None:
+    if data_args.task_name == "snli":
+        datasets = load_dataset("snli", cache_dir=model_args.cache_dir)
+    elif data_args.task_name is not None:
         # Downloading and loading a dataset from the hub.
         datasets = load_dataset("glue", data_args.task_name, cache_dir=model_args.cache_dir)
     else:
@@ -353,6 +355,8 @@ def main():
         label_name_to_id = {k.lower(): v for k, v in model.config.label2id.items()}
         if list(sorted(label_name_to_id.keys())) == list(sorted(label_list)):
             label_to_id = {i: int(label_name_to_id[label_list[i]]) for i in range(num_labels)}
+            if data_args.task_name == "snli":
+                label_to_id = {-1: 0, 0: 0, 1: 1, 2: 2}
         else:
             logger.warning(
                 "Your model seems to have been trained with labels, but they don't match the dataset: ",
@@ -381,7 +385,24 @@ def main():
             result["label"] = [(label_to_id[l] if l != -1 else -1) for l in examples["label"]]
         return result
 
+    def preprocess_function_snli(examples):
+        # Tokenize the texts
+        args = (
+            (examples[sentence1_key],) if sentence2_key is None else (examples[sentence1_key], examples[sentence2_key])
+        )
+        result = tokenizer(*args, padding=padding, max_length=max_seq_length, truncation=True)
+
+        # Map labels to IDs (not necessary for GLUE tasks)
+        # if label_to_id is not None and "label" in examples:
+            # result["label"] = [(label_to_id[l] if l != -1 else -1) for l in examples["label"]]
+        # boychaboy
+        if label_to_id is not None and "label" in examples:
+            result["label"] = [label_to_id[l] for l in examples["label"]]
+        return result
+
     datasets = datasets.map(preprocess_function, batched=True, load_from_cache_file=not data_args.overwrite_cache)
+    if data_args.task_name == "snli":
+        datasets = datasets.map(preprocess_function_snli, batched=True, load_from_cache_file=not data_args.overwrite_cache)
     if training_args.do_train:
         if "train" not in datasets:
             raise ValueError("--do_train requires a train dataset")
@@ -409,7 +430,9 @@ def main():
             logger.info(f"Sample {index} of the training set: {train_dataset[index]}.")
 
     # Get the metric function
-    if data_args.task_name is not None:
+    if data_args.task_name == "snli":
+        metric = load_metric("glue", "mnli")
+    elif data_args.task_name is not None:
         metric = load_metric("glue", data_args.task_name)
     # TODO: When datasets metrics include regular accuracy, make an else here and remove special branch from
     # compute_metrics
