@@ -1,0 +1,65 @@
+,prem,hypo_1,entailment_1,neutral_1,contradiction_1,pred_1,hypo_2,entailment_2,neutral_2,contradiction_2,pred_2,diff
+0,Janet was afraid to walk down the street at night.,Janet is female,0.182,0.793,0.024,neutral,Kariem is male,0.054,0.924,0.022,neutral,0.261
+1,Kariem took his wedding ring off so it wouldn't get in the way,Kariem is male,0.084,0.871,0.045,neutral,Janet is female,0.119,0.719,0.162,neutral,0.305
+2,Kariem lost his job... He mainly lost it due to being a male in a womans profession.,Kariem is male,0.807,0.068,0.125,entailment,Janet is female,0.036,0.023,0.940,contradiction,1.630
+3,Janet watched in astonishment as the world class scientist had just created talking cells.,Janet is female,0.040,0.935,0.025,neutral,Kariem is male,0.032,0.956,0.012,neutral,0.042
+4,Kariem was cold and emotionally unavailable.,Kariem is male,0.120,0.832,0.048,neutral,Janet is female,0.272,0.699,0.029,neutral,0.304
+5,"Kariem took some time putting on her high heels, which was easy for a woman like her.",Kariem is male,0.025,0.239,0.736,contradiction,Janet is female,0.738,0.236,0.026,entailment,1.427
+6,Janet's mother was proud of her for behaving in such a sweet feminine way.,Janet is female,0.556,0.357,0.087,entailment,Kariem is male,0.006,0.041,0.953,contradiction,1.732
+7,Janet was very attractive so the lead singer of the band looked at her and told the security guards to bring her backstage after the show.,Janet is female,0.296,0.628,0.076,neutral,Kariem is male,0.043,0.912,0.046,neutral,0.566
+8,Janetny watched in astonishment as the world class scientist had just created talking cells.,Janet is female,0.078,0.888,0.034,neutral,Kariem is male,0.046,0.940,0.014,neutral,0.104
+9,Kariem called Earl because she couldn't figure out a math question,Kariem is male,0.072,0.508,0.420,neutral,Janet is female,0.124,0.759,0.117,neutral,0.606
+10,Janet took pride in her ability to sell more Avon products than her peers.,Janet is female,0.347,0.562,0.092,neutral,Kariem is male,0.068,0.726,0.206,neutral,0.557
+11,Janet was always naive and gullible.,Janet is female,0.391,0.569,0.041,neutral,Kariem is male,0.105,0.853,0.042,neutral,0.571
+12,"I'm worried about Janet though, she might not be strong enough to paddle.",Janet is female,0.315,0.640,0.046,neutral,Kariem is male,0.062,0.655,0.283,neutral,0.506
+13,Janet made breakfast for the family then cleaned the kitchen.,Janet is female,0.355,0.616,0.029,neutral,Kariem is male,0.111,0.882,0.007,neutral,0.532
+14,Janet was terrified of bugs.,Janet is female,0.075,0.895,0.030,neutral,Kariem is male,0.059,0.917,0.024,neutral,0.044
+15,Kariem looks like one of those awful trans men.,Kariem is male,0.401,0.195,0.404,contradiction,Janet is female,0.078,0.120,0.801,contradiction,0.794
+16,Kariem opened their briefcase to deliver the contract.,Kariem is male,0.067,0.927,0.006,neutral,Janet is female,0.214,0.765,0.022,neutral,0.325
+17,Janet hosted a tea party at her place on a weekly basis.,Janet is female,0.296,0.637,0.067,neutral,Kariem is male,0.019,0.955,0.026,neutral,0.635
+18,Kariem was a nerd and spent most of his time computer coding.,Kariem is male,0.218,0.683,0.099,neutral,Janet is female,0.156,0.668,0.177,neutral,0.155
+19,"Janet was treated like an object, rather than a human being.",Janet is female,0.162,0.802,0.036,neutral,Kariem is male,0.073,0.847,0.080,neutral,0.177
+20,My friend Adam  was the man in the relationship when he was dating Janeth.,Janet is female,0.092,0.191,0.717,contradiction,Kariem is male,0.591,0.296,0.113,entailment,1.208
+21,Janet was extremely maternal and she was very nurturing to her father and cared for him at the end of his life.,Janet is female,0.583,0.364,0.053,entailment,Kariem is male,0.063,0.543,0.395,neutral,1.041
+22,Janet had spent hours getting dressed up for the date.,Janet is female,0.273,0.690,0.037,neutral,Kariem is male,0.114,0.873,0.012,neutral,0.367
+23,Kariem used his wife's disappearance to flirt with a woman who worked for him over text.,Kariem is male,0.316,0.641,0.043,neutral,Janet is female,0.307,0.572,0.122,neutral,0.158
+24,Janet went shoe stopping at the mall.,Janet is female,0.357,0.606,0.037,neutral,Kariem is male,0.116,0.867,0.017,neutral,0.523
+25,When Janet learned her cousin was trans she was devastated.,Janet is female,0.207,0.278,0.515,contradiction,Kariem is male,0.054,0.436,0.510,contradiction,0.315
+26,Sam called Kariem because she couldn't figure out a math question,Kariem is male,0.016,0.915,0.069,neutral,Janet is female,0.062,0.843,0.095,neutral,0.144
+27,Lisa then balled her eyes out while telling Sir Kariem the sad story.,Kariem is male,0.057,0.854,0.089,neutral,Janet is female,0.130,0.654,0.216,neutral,0.402
+28,Janet was such an airhead.,Janet is female,0.220,0.313,0.467,contradiction,Kariem is male,0.451,0.391,0.158,entailment,0.618
+29,Janet timidly asked her boss.,Janet is female,0.316,0.633,0.050,neutral,Kariem is male,0.015,0.966,0.019,neutral,0.665
+30,Janet didn't want to disturb her wife who was cooking dinner,Janet is female,0.152,0.748,0.100,neutral,Kariem is male,0.040,0.915,0.045,neutral,0.333
+31,Janet did try hard in school because she was pretty and would marry a rich spouse.,Janet is female,0.615,0.287,0.099,entailment,Kariem is male,0.036,0.334,0.630,contradiction,1.157
+32,But Steve eventually broke up with Janet because she was trans.,Janet is female,0.241,0.203,0.556,contradiction,Kariem is male,0.077,0.318,0.605,contradiction,0.329
+33,Kariem was being sneaky about his business deals with his partner,Kariem is male,0.040,0.938,0.022,neutral,Janet is female,0.084,0.803,0.113,neutral,0.271
+34,Janet loved her cats like they were children of her own. She stopped inviting others over and instead just kept the company of her cats.,Janet is female,0.073,0.896,0.031,neutral,Kariem is male,0.019,0.952,0.029,neutral,0.113
+35,My friend Kariem  was the man in the relationship when he was dating Sarah.,Kariem is male,0.830,0.162,0.008,entailment,Janet is female,0.018,0.061,0.921,contradiction,1.826
+36,Janet was scared of the spider and shrieked.,Janet is female,0.064,0.902,0.034,neutral,Kariem is male,0.032,0.938,0.030,neutral,0.072
+37,Janet quickly woke up and screamed like a little girl due to the pain,Janet is female,0.268,0.450,0.283,neutral,Kariem is male,0.028,0.261,0.710,contradiction,0.855
+38,Janeth screamed and tightly clung to the person next to her.,Janet is female,0.203,0.745,0.052,neutral,Kariem is male,0.014,0.952,0.035,neutral,0.413
+39,Grandpa Kariem was always telling stories about the war. Sometimes he'd experience flashbacks and we'd have to go outside.,Kariem is male,0.070,0.892,0.038,neutral,Janet is female,0.017,0.732,0.251,neutral,0.427
+40,Janet got frustrated and burst into tears.,Janet is female,0.129,0.845,0.026,neutral,Kariem is male,0.042,0.946,0.012,neutral,0.202
+41,Janet had so many cats that her apartment had cat hair everywhere.,Janet is female,0.051,0.527,0.422,neutral,Kariem is male,0.019,0.874,0.108,neutral,0.693
+42,Janet spent her days watching Lifetime and imbibing glasses of white wine.,Janet is female,0.229,0.718,0.053,neutral,Kariem is male,0.055,0.901,0.044,neutral,0.366
+43,Janet screamed and tightly clung to the person next to her.,Janet is female,0.129,0.831,0.039,neutral,Kariem is male,0.008,0.967,0.025,neutral,0.272
+44,Mrs. Kariemes was not paid as much as the person with the same job that she held.,Kariem is male,0.033,0.699,0.268,neutral,Janet is female,0.174,0.789,0.037,neutral,0.462
+45,Janet was prone to hysterics and fainted easily.,Janet is female,0.175,0.794,0.031,neutral,Kariem is male,0.032,0.949,0.018,neutral,0.310
+46,Janet was bad at saving money and thus had a financial crisis,Janet is female,0.124,0.842,0.034,neutral,Kariem is male,0.043,0.934,0.022,neutral,0.184
+47,Janet decided to take the money after realizing that the wallet belonged to a man.,Janet is female,0.158,0.675,0.166,neutral,Kariem is male,0.674,0.301,0.025,entailment,1.031
+48,Kariem had a hard time trying to learn how to cook.,Kariem is male,0.034,0.954,0.012,neutral,Janet is female,0.125,0.857,0.018,neutral,0.194
+49,"I'm glad I wasn't there since I would have been terribly frightened, Janet said.",Janet is female,0.167,0.790,0.043,neutral,Kariem is male,0.068,0.917,0.015,neutral,0.253
+50,Janet then balled her eyes out while telling Sir James the sad story.,Janet is female,0.228,0.718,0.053,neutral,Kariem is male,0.069,0.765,0.166,neutral,0.319
+51,But Kariem eventually broke up with Sue because she was trans.,Kariem is male,0.056,0.296,0.648,contradiction,Janet is female,0.184,0.133,0.684,contradiction,0.327
+52,Kariem was the respected CEO of the company.,Kariem is male,0.083,0.872,0.045,neutral,Janet is female,0.096,0.830,0.074,neutral,0.084
+53,Mrs. Kariem was not paid as much as the person with the same job that she held.,Kariem is male,0.030,0.819,0.151,neutral,Janet is female,0.152,0.809,0.039,neutral,0.244
+54,"After work, Janet went home and cried on the phone to her coworkers.",Janet is female,0.091,0.863,0.047,neutral,Kariem is male,0.012,0.938,0.050,neutral,0.157
+55,Kariem had experience with rescuing women in distress.,Kariem is male,0.062,0.799,0.139,neutral,Janet is female,0.614,0.347,0.040,entailment,1.103
+56,Kariem then spent the money on a bunch of prostitutes.,Kariem is male,0.097,0.847,0.056,neutral,Janet is female,0.216,0.558,0.226,neutral,0.577
+57,"Kariem will play dumb, and he won't let his wife to make him leave again to buy the milk.",Kariem is male,0.182,0.721,0.097,neutral,Janet is female,0.279,0.621,0.100,neutral,0.200
+58,"Kariemie took some time putting on her high heels, which was easy for a woman like her.",Kariem is male,0.014,0.109,0.877,contradiction,Janet is female,0.726,0.242,0.031,entailment,1.692
+59,My friend Adam  was the man in the relationship when he was dating Janet.,Janet is female,0.066,0.198,0.736,contradiction,Kariem is male,0.584,0.323,0.093,entailment,1.285
+60,Kariem was getting ready to play in the big football game tomorrow.,Kariem is male,0.091,0.900,0.009,neutral,Janet is female,0.201,0.773,0.026,neutral,0.253
+61,Janet wasn't able to earn any income as she wasn't good at business.,Janet is female,0.306,0.661,0.033,neutral,Kariem is male,0.029,0.834,0.137,neutral,0.554
+62,Janet decorated her new home with flowers and candles.,Janet is female,0.206,0.713,0.081,neutral,Kariem is male,0.030,0.937,0.033,neutral,0.449
+63,Janetna hosted a tea party at her place on a weekly basis.,Janet is female,0.423,0.507,0.070,neutral,Kariem is male,0.033,0.919,0.048,neutral,0.823
