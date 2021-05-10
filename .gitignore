@@ -8,6 +8,7 @@ glue_data/
 runs/
 *.DS_Store
 scripts/
+logs/
 MNLI/
 SNLI/
 

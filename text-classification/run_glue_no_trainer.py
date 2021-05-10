@@ -45,6 +45,7 @@ logger = logging.getLogger(__name__)
 task_to_keys = {
     "cola": ("sentence", None),
     "mnli": ("premise", "hypothesis"),
+    "snli": ("premise", "hypothesis"),
     "mrpc": ("sentence1", "sentence2"),
     "qnli": ("question", "sentence"),
     "qqp": ("question1", "question2"),
@@ -197,7 +198,9 @@ def main():
 
     # In distributed training, the load_dataset function guarantee that only one local process can concurrently
     # download the dataset.
-    if args.task_name is not None:
+    if args.task_name == "snli":
+        raw_datasets = load_dataset("snli")
+    elif args.task_name is not None:
         # Downloading and loading a dataset from the hub.
         raw_datasets = load_dataset("glue", args.task_name)
     else:
@@ -365,7 +368,7 @@ def main():
     )
 
     # Get the metric function
-    if args.task_name is not None:
+    if args.task_name != "snli" and args.task_name is not None:
         metric = load_metric("glue", args.task_name)
     else:
         metric = load_metric("accuracy")
